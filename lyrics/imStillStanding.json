@@ -1,0 +1,2232 @@
+Detected language: English
+{
+  "text": " You can never know what it's like Your blood like winter freeze is just like ice There's a cold and lonely light that shines from you You'll wind up like the wreck you hide Behind that mask you use And did you think this folk will never win? Well look at me, I'm coming back again I gotta taste the blood in a simple way And if you need to know why I'm still standing You just fade away Don't you know I'm still standing Better than I ever did Looking like a true survivor Feeling like a little kid I'm still standing after all this time Waking up the pieces of my life without you on my mind I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah Once I never could have hoped to win You're stopping down the road and leaving me again The threats you made were meant to cut me down And if my love was just a circus You'd be a clown by now And know I'm still standing Better than I ever did Looking like a true survivor Feeling like a little kid I'm still standing after all this time Waking up the pieces of my life without you on my mind I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing After all this time Waking up the pieces of my life without you on my mind I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah I'm still standing Yeah, yeah, yeah",
+  "segments": [
+    {
+      "start": 11.56,
+      "end": 16.04,
+      "text": " You can never know what it's like Your blood like winter freeze is just like ice",
+      "confidence": 0.59,
+      "words": [
+        {
+          "text": "You",
+          "start": 11.56,
+          "end": 11.58,
+          "confidence": 0.03
+        },
+        {
+          "text": "can",
+          "start": 11.58,
+          "end": 11.82,
+          "confidence": 0.64
+        },
+        {
+          "text": "never",
+          "start": 11.82,
+          "end": 12.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "know",
+          "start": 12.08,
+          "end": 12.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "what",
+          "start": 12.42,
+          "end": 12.76,
+          "confidence": 0.98
+        },
+        {
+          "text": "it's",
+          "start": 12.76,
+          "end": 13.08,
+          "confidence": 0.94
+        },
+        {
+          "text": "like",
+          "start": 13.08,
+          "end": 13.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "Your",
+          "start": 13.34,
+          "end": 13.88,
+          "confidence": 0.41
+        },
+        {
+          "text": "blood",
+          "start": 13.88,
+          "end": 14.1,
+          "confidence": 0.98
+        },
+        {
+          "text": "like",
+          "start": 14.1,
+          "end": 14.4,
+          "confidence": 0.2
+        },
+        {
+          "text": "winter",
+          "start": 14.4,
+          "end": 14.82,
+          "confidence": 0.87
+        },
+        {
+          "text": "freeze",
+          "start": 14.82,
+          "end": 15.1,
+          "confidence": 0.24
+        },
+        {
+          "text": "is",
+          "start": 15.1,
+          "end": 15.28,
+          "confidence": 0.61
+        },
+        {
+          "text": "just",
+          "start": 15.28,
+          "end": 15.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "like",
+          "start": 15.42,
+          "end": 15.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "ice",
+          "start": 15.7,
+          "end": 16.04,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 16.22,
+      "end": 20.82,
+      "text": " There's a cold and lonely light that shines from you You'll wind up like the wreck you hide",
+      "confidence": 0.79,
+      "words": [
+        {
+          "text": "There's",
+          "start": 16.22,
+          "end": 16.54,
+          "confidence": 0.8
+        },
+        {
+          "text": "a",
+          "start": 16.54,
+          "end": 16.64,
+          "confidence": 0.91
+        },
+        {
+          "text": "cold",
+          "start": 16.64,
+          "end": 16.84,
+          "confidence": 0.95
+        },
+        {
+          "text": "and",
+          "start": 16.84,
+          "end": 17.02,
+          "confidence": 0.82
+        },
+        {
+          "text": "lonely",
+          "start": 17.02,
+          "end": 17.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "light",
+          "start": 17.22,
+          "end": 17.52,
+          "confidence": 0.93
+        },
+        {
+          "text": "that",
+          "start": 17.52,
+          "end": 17.78,
+          "confidence": 0.57
+        },
+        {
+          "text": "shines",
+          "start": 17.78,
+          "end": 18.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "from",
+          "start": 18.04,
+          "end": 18.36,
+          "confidence": 0.95
+        },
+        {
+          "text": "you",
+          "start": 18.36,
+          "end": 18.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "You'll",
+          "start": 18.7,
+          "end": 19.16,
+          "confidence": 0.4
+        },
+        {
+          "text": "wind",
+          "start": 19.16,
+          "end": 19.48,
+          "confidence": 0.93
+        },
+        {
+          "text": "up",
+          "start": 19.48,
+          "end": 19.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "like",
+          "start": 19.72,
+          "end": 19.84,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 19.84,
+          "end": 19.98,
+          "confidence": 0.93
+        },
+        {
+          "text": "wreck",
+          "start": 19.98,
+          "end": 20.2,
+          "confidence": 0.72
+        },
+        {
+          "text": "you",
+          "start": 20.2,
+          "end": 20.46,
+          "confidence": 0.97
+        },
+        {
+          "text": "hide",
+          "start": 20.46,
+          "end": 20.82,
+          "confidence": 0.39
+        }
+      ]
+    },
+    {
+      "start": 21.02,
+      "end": 26.94,
+      "text": " Behind that mask you use And did you think this folk will never win?",
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "Behind",
+          "start": 21.02,
+          "end": 21.34,
+          "confidence": 0.87
+        },
+        {
+          "text": "that",
+          "start": 21.34,
+          "end": 21.8,
+          "confidence": 0.98
+        },
+        {
+          "text": "mask",
+          "start": 21.8,
+          "end": 22.34,
+          "confidence": 0.65
+        },
+        {
+          "text": "you",
+          "start": 22.34,
+          "end": 22.7,
+          "confidence": 0.97
+        },
+        {
+          "text": "use",
+          "start": 22.7,
+          "end": 23.1,
+          "confidence": 0.9
+        },
+        {
+          "text": "And",
+          "start": 23.1,
+          "end": 25.14,
+          "confidence": 0.68
+        },
+        {
+          "text": "did",
+          "start": 25.14,
+          "end": 25.3,
+          "confidence": 0.87
+        },
+        {
+          "text": "you",
+          "start": 25.3,
+          "end": 25.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "think",
+          "start": 25.46,
+          "end": 25.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 25.64,
+          "end": 25.82,
+          "confidence": 0.9
+        },
+        {
+          "text": "folk",
+          "start": 25.82,
+          "end": 26.0,
+          "confidence": 0.2
+        },
+        {
+          "text": "will",
+          "start": 26.0,
+          "end": 26.16,
+          "confidence": 0.56
+        },
+        {
+          "text": "never",
+          "start": 26.16,
+          "end": 26.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "win?",
+          "start": 26.4,
+          "end": 26.94,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 27.36,
+      "end": 32.26,
+      "text": " Well look at me, I'm coming back again I gotta taste the blood in a simple way",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "Well",
+          "start": 27.36,
+          "end": 27.54,
+          "confidence": 0.79
+        },
+        {
+          "text": "look",
+          "start": 27.54,
+          "end": 27.72,
+          "confidence": 0.82
+        },
+        {
+          "text": "at",
+          "start": 27.72,
+          "end": 27.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "me,",
+          "start": 27.88,
+          "end": 28.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 28.2,
+          "end": 28.44,
+          "confidence": 0.86
+        },
+        {
+          "text": "coming",
+          "start": 28.44,
+          "end": 28.74,
+          "confidence": 0.53
+        },
+        {
+          "text": "back",
+          "start": 28.74,
+          "end": 29.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "again",
+          "start": 29.04,
+          "end": 29.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 29.58,
+          "end": 29.88,
+          "confidence": 0.91
+        },
+        {
+          "text": "gotta",
+          "start": 29.88,
+          "end": 30.08,
+          "confidence": 0.55
+        },
+        {
+          "text": "taste",
+          "start": 30.08,
+          "end": 30.42,
+          "confidence": 0.93
+        },
+        {
+          "text": "the",
+          "start": 30.42,
+          "end": 30.7,
+          "confidence": 0.86
+        },
+        {
+          "text": "blood",
+          "start": 30.7,
+          "end": 30.94,
+          "confidence": 0.72
+        },
+        {
+          "text": "in",
+          "start": 30.94,
+          "end": 31.24,
+          "confidence": 0.92
+        },
+        {
+          "text": "a",
+          "start": 31.24,
+          "end": 31.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "simple",
+          "start": 31.4,
+          "end": 31.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "way",
+          "start": 31.8,
+          "end": 32.26,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 32.48,
+      "end": 36.46,
+      "text": " And if you need to know why I'm still standing You just fade away",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "And",
+          "start": 32.48,
+          "end": 32.62,
+          "confidence": 0.96
+        },
+        {
+          "text": "if",
+          "start": 32.62,
+          "end": 32.76,
+          "confidence": 0.94
+        },
+        {
+          "text": "you",
+          "start": 32.76,
+          "end": 32.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "need",
+          "start": 32.94,
+          "end": 33.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 33.08,
+          "end": 33.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "know",
+          "start": 33.24,
+          "end": 33.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "why",
+          "start": 33.4,
+          "end": 33.6,
+          "confidence": 0.6
+        },
+        {
+          "text": "I'm",
+          "start": 33.6,
+          "end": 33.9,
+          "confidence": 0.96
+        },
+        {
+          "text": "still",
+          "start": 33.9,
+          "end": 34.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "standing",
+          "start": 34.04,
+          "end": 34.5,
+          "confidence": 0.97
+        },
+        {
+          "text": "You",
+          "start": 34.5,
+          "end": 35.02,
+          "confidence": 0.73
+        },
+        {
+          "text": "just",
+          "start": 35.02,
+          "end": 35.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "fade",
+          "start": 35.34,
+          "end": 35.84,
+          "confidence": 0.31
+        },
+        {
+          "text": "away",
+          "start": 35.84,
+          "end": 36.46,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 37.56,
+      "end": 41.86,
+      "text": " Don't you know I'm still standing Better than I ever did",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 37.56,
+          "end": 37.86,
+          "confidence": 0.94
+        },
+        {
+          "text": "you",
+          "start": 37.86,
+          "end": 37.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "know",
+          "start": 37.98,
+          "end": 38.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 38.16,
+          "end": 38.82,
+          "confidence": 0.92
+        },
+        {
+          "text": "still",
+          "start": 38.82,
+          "end": 39.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "standing",
+          "start": 39.24,
+          "end": 39.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "Better",
+          "start": 39.94,
+          "end": 40.48,
+          "confidence": 0.91
+        },
+        {
+          "text": "than",
+          "start": 40.48,
+          "end": 40.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 40.84,
+          "end": 41.06,
+          "confidence": 0.97
+        },
+        {
+          "text": "ever",
+          "start": 41.06,
+          "end": 41.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "did",
+          "start": 41.44,
+          "end": 41.86,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 42.94,
+      "end": 47.22,
+      "text": " Looking like a true survivor Feeling like a little kid",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Looking",
+          "start": 42.94,
+          "end": 43.28,
+          "confidence": 0.53
+        },
+        {
+          "text": "like",
+          "start": 43.28,
+          "end": 43.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 43.58,
+          "end": 43.76,
+          "confidence": 0.81
+        },
+        {
+          "text": "true",
+          "start": 43.76,
+          "end": 44.0,
+          "confidence": 0.78
+        },
+        {
+          "text": "survivor",
+          "start": 44.0,
+          "end": 44.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "Feeling",
+          "start": 44.7,
+          "end": 45.98,
+          "confidence": 0.87
+        },
+        {
+          "text": "like",
+          "start": 45.98,
+          "end": 46.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 46.28,
+          "end": 46.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "little",
+          "start": 46.44,
+          "end": 46.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "kid",
+          "start": 46.88,
+          "end": 47.22,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 48.82,
+      "end": 58.12,
+      "text": " I'm still standing after all this time Waking up the pieces of my life without you on my mind",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 48.82,
+          "end": 49.66,
+          "confidence": 0.83
+        },
+        {
+          "text": "still",
+          "start": 49.66,
+          "end": 50.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "standing",
+          "start": 50.04,
+          "end": 50.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "after",
+          "start": 50.8,
+          "end": 51.6,
+          "confidence": 0.53
+        },
+        {
+          "text": "all",
+          "start": 51.6,
+          "end": 52.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 52.04,
+          "end": 52.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "time",
+          "start": 52.32,
+          "end": 52.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "Waking",
+          "start": 52.94,
+          "end": 54.16,
+          "confidence": 0.28
+        },
+        {
+          "text": "up",
+          "start": 54.16,
+          "end": 54.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 54.4,
+          "end": 54.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "pieces",
+          "start": 54.54,
+          "end": 54.94,
+          "confidence": 0.97
+        },
+        {
+          "text": "of",
+          "start": 54.94,
+          "end": 55.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 55.38,
+          "end": 55.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "life",
+          "start": 55.66,
+          "end": 56.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "without",
+          "start": 56.04,
+          "end": 56.52,
+          "confidence": 0.38
+        },
+        {
+          "text": "you",
+          "start": 56.52,
+          "end": 56.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "on",
+          "start": 56.98,
+          "end": 57.36,
+          "confidence": 0.48
+        },
+        {
+          "text": "my",
+          "start": 57.36,
+          "end": 57.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "mind",
+          "start": 57.68,
+          "end": 58.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 59.18,
+      "end": 62.76,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 59.18,
+          "end": 59.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "still",
+          "start": 59.42,
+          "end": 59.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 59.66,
+          "end": 60.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 60.4,
+          "end": 61.72,
+          "confidence": 0.3
+        },
+        {
+          "text": "yeah,",
+          "start": 61.98,
+          "end": 62.32,
+          "confidence": 0.94
+        },
+        {
+          "text": "yeah",
+          "start": 62.4,
+          "end": 62.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 64.44,
+      "end": 68.18,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 64.44,
+          "end": 64.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 64.84,
+          "end": 65.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 65.04,
+          "end": 65.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 65.82,
+          "end": 67.02,
+          "confidence": 0.98
+        },
+        {
+          "text": "yeah,",
+          "start": 67.42,
+          "end": 67.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 67.9,
+          "end": 68.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 71.08,
+      "end": 75.34,
+      "text": " Once I never could have hoped to win You're stopping down the road and leaving me again",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "Once",
+          "start": 71.08,
+          "end": 71.3,
+          "confidence": 0.52
+        },
+        {
+          "text": "I",
+          "start": 71.3,
+          "end": 71.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "never",
+          "start": 71.5,
+          "end": 71.7,
+          "confidence": 0.9
+        },
+        {
+          "text": "could",
+          "start": 71.7,
+          "end": 71.98,
+          "confidence": 0.88
+        },
+        {
+          "text": "have",
+          "start": 71.98,
+          "end": 72.18,
+          "confidence": 0.55
+        },
+        {
+          "text": "hoped",
+          "start": 72.18,
+          "end": 72.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 72.42,
+          "end": 72.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "win",
+          "start": 72.72,
+          "end": 72.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "You're",
+          "start": 72.98,
+          "end": 73.58,
+          "confidence": 0.8
+        },
+        {
+          "text": "stopping",
+          "start": 73.58,
+          "end": 73.78,
+          "confidence": 0.46
+        },
+        {
+          "text": "down",
+          "start": 73.78,
+          "end": 74.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 74.06,
+          "end": 74.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "road",
+          "start": 74.26,
+          "end": 74.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 74.42,
+          "end": 74.6,
+          "confidence": 0.55
+        },
+        {
+          "text": "leaving",
+          "start": 74.6,
+          "end": 74.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 74.8,
+          "end": 75.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "again",
+          "start": 75.08,
+          "end": 75.34,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 80.34,
+      "text": " The threats you made were meant to cut me down And if my love was just a circus",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "The",
+          "start": 76.0,
+          "end": 76.24,
+          "confidence": 0.81
+        },
+        {
+          "text": "threats",
+          "start": 76.24,
+          "end": 76.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 76.48,
+          "end": 76.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "made",
+          "start": 76.74,
+          "end": 76.98,
+          "confidence": 0.83
+        },
+        {
+          "text": "were",
+          "start": 76.98,
+          "end": 77.22,
+          "confidence": 0.64
+        },
+        {
+          "text": "meant",
+          "start": 77.22,
+          "end": 77.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 77.4,
+          "end": 77.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "cut",
+          "start": 77.52,
+          "end": 77.7,
+          "confidence": 0.97
+        },
+        {
+          "text": "me",
+          "start": 77.7,
+          "end": 78.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 78.0,
+          "end": 78.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "And",
+          "start": 78.38,
+          "end": 78.64,
+          "confidence": 0.82
+        },
+        {
+          "text": "if",
+          "start": 78.64,
+          "end": 78.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 78.78,
+          "end": 78.96,
+          "confidence": 0.88
+        },
+        {
+          "text": "love",
+          "start": 78.96,
+          "end": 79.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "was",
+          "start": 79.22,
+          "end": 79.46,
+          "confidence": 0.96
+        },
+        {
+          "text": "just",
+          "start": 79.46,
+          "end": 79.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 79.68,
+          "end": 80.02,
+          "confidence": 0.98
+        },
+        {
+          "text": "circus",
+          "start": 80.02,
+          "end": 80.34,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 80.92,
+      "end": 87.78,
+      "text": " You'd be a clown by now And know I'm still standing Better than I ever did",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "You'd",
+          "start": 80.92,
+          "end": 81.18,
+          "confidence": 0.92
+        },
+        {
+          "text": "be",
+          "start": 81.18,
+          "end": 81.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 81.32,
+          "end": 81.48,
+          "confidence": 0.9
+        },
+        {
+          "text": "clown",
+          "start": 81.48,
+          "end": 81.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "by",
+          "start": 81.76,
+          "end": 82.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "now",
+          "start": 82.22,
+          "end": 82.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "And",
+          "start": 82.6,
+          "end": 84.04,
+          "confidence": 0.31
+        },
+        {
+          "text": "know",
+          "start": 84.04,
+          "end": 84.14,
+          "confidence": 0.42
+        },
+        {
+          "text": "I'm",
+          "start": 84.14,
+          "end": 84.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "still",
+          "start": 84.86,
+          "end": 85.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 85.22,
+          "end": 85.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "Better",
+          "start": 85.92,
+          "end": 86.46,
+          "confidence": 0.36
+        },
+        {
+          "text": "than",
+          "start": 86.46,
+          "end": 86.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 86.82,
+          "end": 87.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "ever",
+          "start": 87.02,
+          "end": 87.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "did",
+          "start": 87.44,
+          "end": 87.78,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 88.92,
+      "end": 93.26,
+      "text": " Looking like a true survivor Feeling like a little kid",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Looking",
+          "start": 88.92,
+          "end": 89.24,
+          "confidence": 0.96
+        },
+        {
+          "text": "like",
+          "start": 89.24,
+          "end": 89.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 89.54,
+          "end": 89.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "true",
+          "start": 89.7,
+          "end": 89.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "survivor",
+          "start": 89.98,
+          "end": 90.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "Feeling",
+          "start": 90.72,
+          "end": 92.0,
+          "confidence": 0.92
+        },
+        {
+          "text": "like",
+          "start": 92.0,
+          "end": 92.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 92.28,
+          "end": 92.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "little",
+          "start": 92.46,
+          "end": 92.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "kid",
+          "start": 92.84,
+          "end": 93.26,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 94.82,
+      "end": 104.08,
+      "text": " I'm still standing after all this time Waking up the pieces of my life without you on my mind",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 94.82,
+          "end": 95.6,
+          "confidence": 0.93
+        },
+        {
+          "text": "still",
+          "start": 95.6,
+          "end": 96.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 96.1,
+          "end": 96.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "after",
+          "start": 96.78,
+          "end": 97.56,
+          "confidence": 0.87
+        },
+        {
+          "text": "all",
+          "start": 97.56,
+          "end": 98.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 98.0,
+          "end": 98.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 98.28,
+          "end": 98.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "Waking",
+          "start": 98.78,
+          "end": 100.1,
+          "confidence": 0.98
+        },
+        {
+          "text": "up",
+          "start": 100.1,
+          "end": 100.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 100.36,
+          "end": 100.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "pieces",
+          "start": 100.5,
+          "end": 100.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 100.9,
+          "end": 101.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 101.38,
+          "end": 101.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "life",
+          "start": 101.62,
+          "end": 101.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "without",
+          "start": 101.96,
+          "end": 102.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 102.52,
+          "end": 102.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 102.92,
+          "end": 103.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 103.34,
+          "end": 103.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "mind",
+          "start": 103.62,
+          "end": 104.08,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 105.08,
+      "end": 108.68,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 105.08,
+          "end": 105.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "still",
+          "start": 105.44,
+          "end": 105.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 105.56,
+          "end": 106.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 106.34,
+          "end": 107.52,
+          "confidence": 0.93
+        },
+        {
+          "text": "yeah,",
+          "start": 107.78,
+          "end": 108.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 108.44,
+          "end": 108.68,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 110.5,
+      "end": 114.02,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 110.5,
+          "end": 110.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 110.8,
+          "end": 110.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 110.96,
+          "end": 111.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 111.72,
+          "end": 112.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "yeah,",
+          "start": 113.36,
+          "end": 113.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 113.66,
+          "end": 114.02,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 119.48,
+      "end": 119.6,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.63,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 119.48,
+          "end": 119.5,
+          "confidence": 0.28
+        },
+        {
+          "text": "still",
+          "start": 119.5,
+          "end": 119.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "standing",
+          "start": 119.52,
+          "end": 119.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "Yeah,",
+          "start": 119.54,
+          "end": 119.56,
+          "confidence": 0.52
+        },
+        {
+          "text": "yeah,",
+          "start": 119.56,
+          "end": 119.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 119.58,
+          "end": 119.6,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 119.6,
+      "end": 122.94,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 119.6,
+          "end": 120.12,
+          "confidence": 0.75
+        },
+        {
+          "text": "still",
+          "start": 120.12,
+          "end": 120.26,
+          "confidence": 0.98
+        },
+        {
+          "text": "standing",
+          "start": 120.26,
+          "end": 120.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 120.8,
+          "end": 121.3,
+          "confidence": 0.64
+        },
+        {
+          "text": "yeah,",
+          "start": 121.48,
+          "end": 121.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 122.72,
+          "end": 122.94,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 123.98,
+      "end": 129.5,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 123.98,
+          "end": 124.86,
+          "confidence": 0.8
+        },
+        {
+          "text": "still",
+          "start": 124.86,
+          "end": 127.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "standing",
+          "start": 127.42,
+          "end": 128.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "Yeah,",
+          "start": 128.54,
+          "end": 129.3,
+          "confidence": 0.47
+        },
+        {
+          "text": "yeah,",
+          "start": 129.42,
+          "end": 129.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 129.48,
+          "end": 129.5,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 130.18,
+      "end": 133.02,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 130.18,
+          "end": 130.68,
+          "confidence": 0.68
+        },
+        {
+          "text": "still",
+          "start": 130.68,
+          "end": 131.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "standing",
+          "start": 131.08,
+          "end": 131.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 131.8,
+          "end": 132.28,
+          "confidence": 0.55
+        },
+        {
+          "text": "yeah,",
+          "start": 132.46,
+          "end": 132.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 132.76,
+          "end": 133.02,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 133.02,
+      "end": 135.78,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 133.02,
+          "end": 133.3,
+          "confidence": 0.86
+        },
+        {
+          "text": "still",
+          "start": 133.3,
+          "end": 133.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "standing",
+          "start": 133.5,
+          "end": 133.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "Yeah,",
+          "start": 133.64,
+          "end": 135.74,
+          "confidence": 0.62
+        },
+        {
+          "text": "yeah,",
+          "start": 135.74,
+          "end": 135.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 135.76,
+          "end": 135.78,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 137.26,
+      "end": 141.5,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 137.26,
+          "end": 137.86,
+          "confidence": 0.7
+        },
+        {
+          "text": "still",
+          "start": 137.86,
+          "end": 137.88,
+          "confidence": 0.98
+        },
+        {
+          "text": "standing",
+          "start": 137.88,
+          "end": 139.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "Yeah,",
+          "start": 139.02,
+          "end": 139.44,
+          "confidence": 0.66
+        },
+        {
+          "text": "yeah,",
+          "start": 141.08,
+          "end": 141.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 141.48,
+          "end": 141.5,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 141.5,
+      "end": 149.9,
+      "text": " I'm still standing After all this time Waking up the pieces of my life without you on my mind",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 141.5,
+          "end": 141.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 141.52,
+          "end": 141.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 141.88,
+          "end": 142.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "After",
+          "start": 142.58,
+          "end": 143.18,
+          "confidence": 0.43
+        },
+        {
+          "text": "all",
+          "start": 143.18,
+          "end": 143.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 143.78,
+          "end": 144.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 144.08,
+          "end": 144.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "Waking",
+          "start": 144.6,
+          "end": 145.94,
+          "confidence": 0.93
+        },
+        {
+          "text": "up",
+          "start": 145.94,
+          "end": 146.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 146.16,
+          "end": 146.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "pieces",
+          "start": 146.32,
+          "end": 146.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 146.72,
+          "end": 147.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 147.2,
+          "end": 147.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "life",
+          "start": 147.4,
+          "end": 147.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "without",
+          "start": 147.78,
+          "end": 148.3,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 148.3,
+          "end": 148.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 148.76,
+          "end": 149.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 149.14,
+          "end": 149.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "mind",
+          "start": 149.44,
+          "end": 149.9,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 150.88,
+      "end": 154.44,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 150.88,
+          "end": 151.18,
+          "confidence": 0.98
+        },
+        {
+          "text": "still",
+          "start": 151.18,
+          "end": 151.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 151.38,
+          "end": 152.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 152.12,
+          "end": 153.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah,",
+          "start": 153.68,
+          "end": 153.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 154.06,
+          "end": 154.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 156.22,
+      "end": 159.82,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 156.22,
+          "end": 156.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 156.56,
+          "end": 156.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 156.78,
+          "end": 157.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 157.54,
+          "end": 158.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah,",
+          "start": 158.94,
+          "end": 159.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 159.44,
+          "end": 159.82,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 161.56,
+      "end": 165.12,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 161.56,
+          "end": 161.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 161.92,
+          "end": 162.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 162.16,
+          "end": 162.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 162.76,
+          "end": 164.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah,",
+          "start": 164.48,
+          "end": 164.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 164.76,
+          "end": 165.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 166.68,
+      "end": 170.2,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 166.68,
+          "end": 167.26,
+          "confidence": 0.73
+        },
+        {
+          "text": "still",
+          "start": 167.26,
+          "end": 167.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 167.5,
+          "end": 168.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 168.18,
+          "end": 169.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah,",
+          "start": 169.66,
+          "end": 170.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 170.08,
+          "end": 170.2,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 172.18,
+      "end": 175.86,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 172.18,
+          "end": 172.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 172.64,
+          "end": 172.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 172.88,
+          "end": 173.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 173.44,
+          "end": 174.8,
+          "confidence": 0.97
+        },
+        {
+          "text": "yeah,",
+          "start": 175.0,
+          "end": 175.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeah",
+          "start": 175.52,
+          "end": 175.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 177.52,
+      "end": 179.98,
+      "text": " I'm still standing Yeah, yeah, yeah",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 177.52,
+          "end": 178.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "still",
+          "start": 178.02,
+          "end": 178.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "standing",
+          "start": 178.22,
+          "end": 178.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "Yeah,",
+          "start": 178.72,
+          "end": 179.82,
+          "confidence": 0.71
+        },
+        {
+          "text": "yeah,",
+          "start": 179.82,
+          "end": 179.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "yeah",
+          "start": 179.96,
+          "end": 179.98,
+          "confidence": 0.99
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8532806634902954,
+    "zh": 0.009159560315310955,
+    "de": 0.006323783192783594,
+    "es": 0.0034529848489910364,
+    "ru": 0.038580331951379776,
+    "ko": 0.02122241072356701,
+    "fr": 0.005568210501223803,
+    "ja": 0.008098183199763298,
+    "pt": 0.005682762712240219,
+    "tr": 0.0006237737834453583,
+    "pl": 0.001230753492563963,
+    "ca": 0.00020976942323613912,
+    "nl": 0.008323268964886665,
+    "ar": 0.0007081791409291327,
+    "sv": 0.0011579602723941207,
+    "it": 0.0008307626121677458,
+    "id": 0.0006918064900673926,
+    "hi": 0.00015222981164697558,
+    "fi": 0.00022945518139749765,
+    "vi": 0.007292240858078003,
+    "he": 5.993870581733063e-05,
+    "uk": 5.554361632675864e-05,
+    "el": 0.00019516833708621562,
+    "ms": 0.00031219772063195705,
+    "cs": 0.0001407095551257953,
+    "ro": 5.6882057833718136e-05,
+    "da": 0.000440104806330055,
+    "hu": 0.00013243561261333525,
+    "ta": 6.878450949443504e-05,
+    "no": 0.0002346303517697379,
+    "th": 0.0018738422077149153,
+    "ur": 1.4377483239513822e-05,
+    "hr": 6.224495155038312e-05,
+    "bg": 4.243308285367675e-05,
+    "lt": 8.073826393228956e-06,
+    "la": 0.00023256365966517478,
+    "mi": 0.001127861556597054,
+    "ml": 0.00012382416753098369,
+    "cy": 0.0052224257960915565,
+    "sk": 1.6029394828365184e-05,
+    "te": 4.409317989484407e-05,
+    "fa": 4.876182174484711e-06,
+    "lv": 1.6840287571540102e-05,
+    "bn": 1.3194716302677989e-05,
+    "sr": 1.2817298511436093e-06,
+    "az": 6.98387339070905e-07,
+    "sl": 2.5536410248605534e-05,
+    "kn": 3.281627130036213e-07,
+    "et": 4.0483614611730445e-06,
+    "mk": 1.5404420992126688e-06,
+    "br": 0.0006323810666799545,
+    "eu": 5.1360631914576516e-05,
+    "is": 2.3298243831959553e-05,
+    "hy": 4.7101843847485725e-06,
+    "ne": 6.147522981336806e-06,
+    "mn": 4.737132712762104e-06,
+    "bs": 1.6130683434312232e-05,
+    "kk": 2.523566308809677e-06,
+    "sq": 4.522833478404209e-06,
+    "sw": 3.432258381508291e-05,
+    "gl": 0.00010315817780792713,
+    "mr": 6.457788686020649e-07,
+    "pa": 3.315759329325374e-07,
+    "si": 0.00011493658530525863,
+    "km": 0.009462157264351845,
+    "sn": 0.0019006265792995691,
+    "yo": 8.874956256477162e-05,
+    "so": 1.2741789134906867e-07,
+    "af": 6.277799911913462e-06,
+    "oc": 1.4557522263203282e-05,
+    "ka": 2.27428316179612e-07,
+    "be": 2.9979884857311845e-05,
+    "tg": 3.268904480435708e-09,
+    "sd": 2.0154250250925543e-06,
+    "gu": 6.0000317603226e-08,
+    "am": 1.1158638102415352e-07,
+    "yi": 2.015468453464564e-05,
+    "lo": 1.2451637303456664e-05,
+    "uz": 1.5395004715479388e-10,
+    "fo": 3.406517635085038e-06,
+    "ht": 2.2451411496149376e-05,
+    "ps": 9.469296742281585e-07,
+    "tk": 1.4349291754811588e-09,
+    "nn": 0.002789208898320794,
+    "mt": 2.618567691570206e-07,
+    "sa": 1.239077391801402e-05,
+    "lb": 1.0408728989830252e-08,
+    "my": 0.0001086964548449032,
+    "bo": 5.4086958698462695e-06,
+    "tl": 0.00033886515302583575,
+    "mg": 5.765954935732509e-10,
+    "as": 1.1513560593812144e-06,
+    "tt": 4.360624750177067e-09,
+    "haw": 0.00027347038849256933,
+    "ln": 5.993578611196426e-07,
+    "ha": 1.4970390482815787e-09,
+    "ba": 2.185144731825517e-09,
+    "jw": 0.0005548424669541419,
+    "su": 1.3445537128120577e-08
+  }
+}

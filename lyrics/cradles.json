@@ -1,0 +1,1726 @@
+Detected language: English
+{
+  "text": " I live inside my own world of make-believe Kids screaming in the cradles profanities I see the world through ice-covered and ink-in-vige Crossed out the ones who hurt my cries and watched me weep I love everything Fires spreading all around my room My world's so bright, it's hard to breathe But that's alright Shhh Take my eyes open to force reality Why can't you just let me eat my weight and glee? I live inside my own world of make-believe Kids screaming in the cradles profanities Some days I feel skinnier than all the other days Some days I can't tell if my body belongs to me I love everything Fires spreading all around my room My world's so bright, it's hard to breathe But that's alright I wanna taste your content, hold your breath and feel your tension Nipples hide behind redemption, honesty is the one way gate to hell I wanna taste consumption, be faster, do we stock-search? You think children sing aloud, see you suck till the whip burns out I wanna be carefree lately, yeah Just picking up days, these go one, two, nine and quarters in my pockets Kind of like the bullet covers in my locket Untied like a sis, yeah Just tripping on day, dreams got dirty, little lilab eyes playing on Might as well just rot around the nursery and count sheep",
+  "segments": [
+    {
+      "start": 14.12,
+      "end": 19.06,
+      "text": " I live inside my own world of make-believe",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "I",
+          "start": 14.12,
+          "end": 14.34,
+          "confidence": 0.54
+        },
+        {
+          "text": "live",
+          "start": 14.34,
+          "end": 15.1,
+          "confidence": 0.91
+        },
+        {
+          "text": "inside",
+          "start": 15.1,
+          "end": 15.8,
+          "confidence": 0.96
+        },
+        {
+          "text": "my",
+          "start": 15.8,
+          "end": 16.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "own",
+          "start": 16.2,
+          "end": 16.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "world",
+          "start": 16.66,
+          "end": 17.34,
+          "confidence": 0.86
+        },
+        {
+          "text": "of",
+          "start": 17.34,
+          "end": 17.72,
+          "confidence": 0.97
+        },
+        {
+          "text": "make-believe",
+          "start": 17.72,
+          "end": 19.06,
+          "confidence": 0.89
+        }
+      ]
+    },
+    {
+      "start": 19.96,
+      "end": 24.82,
+      "text": " Kids screaming in the cradles profanities",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "Kids",
+          "start": 19.96,
+          "end": 20.36,
+          "confidence": 0.51
+        },
+        {
+          "text": "screaming",
+          "start": 20.36,
+          "end": 21.34,
+          "confidence": 0.91
+        },
+        {
+          "text": "in",
+          "start": 21.34,
+          "end": 21.84,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 21.84,
+          "end": 22.18,
+          "confidence": 0.98
+        },
+        {
+          "text": "cradles",
+          "start": 22.18,
+          "end": 23.34,
+          "confidence": 0.66
+        },
+        {
+          "text": "profanities",
+          "start": 23.34,
+          "end": 24.82,
+          "confidence": 0.76
+        }
+      ]
+    },
+    {
+      "start": 26.1,
+      "end": 31.14,
+      "text": " I see the world through ice-covered and ink-in-vige",
+      "confidence": 0.64,
+      "words": [
+        {
+          "text": "I",
+          "start": 26.1,
+          "end": 26.46,
+          "confidence": 0.95
+        },
+        {
+          "text": "see",
+          "start": 26.46,
+          "end": 27.1,
+          "confidence": 0.95
+        },
+        {
+          "text": "the",
+          "start": 27.1,
+          "end": 27.6,
+          "confidence": 0.89
+        },
+        {
+          "text": "world",
+          "start": 27.6,
+          "end": 27.86,
+          "confidence": 0.68
+        },
+        {
+          "text": "through",
+          "start": 27.86,
+          "end": 28.18,
+          "confidence": 0.98
+        },
+        {
+          "text": "ice-covered",
+          "start": 28.18,
+          "end": 29.54,
+          "confidence": 0.75
+        },
+        {
+          "text": "and",
+          "start": 29.54,
+          "end": 29.68,
+          "confidence": 0.51
+        },
+        {
+          "text": "ink-in-vige",
+          "start": 29.68,
+          "end": 31.14,
+          "confidence": 0.46
+        }
+      ]
+    },
+    {
+      "start": 32.02,
+      "end": 36.98,
+      "text": " Crossed out the ones who hurt my cries and watched me weep",
+      "confidence": 0.74,
+      "words": [
+        {
+          "text": "Crossed",
+          "start": 32.02,
+          "end": 32.52,
+          "confidence": 0.48
+        },
+        {
+          "text": "out",
+          "start": 32.52,
+          "end": 33.1,
+          "confidence": 0.74
+        },
+        {
+          "text": "the",
+          "start": 33.1,
+          "end": 33.54,
+          "confidence": 0.94
+        },
+        {
+          "text": "ones",
+          "start": 33.54,
+          "end": 33.88,
+          "confidence": 0.94
+        },
+        {
+          "text": "who",
+          "start": 33.88,
+          "end": 34.18,
+          "confidence": 0.73
+        },
+        {
+          "text": "hurt",
+          "start": 34.18,
+          "end": 34.54,
+          "confidence": 0.34
+        },
+        {
+          "text": "my",
+          "start": 34.54,
+          "end": 34.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "cries",
+          "start": 34.9,
+          "end": 35.34,
+          "confidence": 0.94
+        },
+        {
+          "text": "and",
+          "start": 35.34,
+          "end": 35.7,
+          "confidence": 0.76
+        },
+        {
+          "text": "watched",
+          "start": 35.7,
+          "end": 36.08,
+          "confidence": 0.8
+        },
+        {
+          "text": "me",
+          "start": 36.08,
+          "end": 36.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "weep",
+          "start": 36.44,
+          "end": 36.98,
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "start": 38.08,
+      "end": 39.62,
+      "text": " I love everything",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 38.08,
+          "end": 38.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "love",
+          "start": 38.32,
+          "end": 38.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "everything",
+          "start": 38.66,
+          "end": 39.62,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 40.98,
+      "end": 44.3,
+      "text": " Fires spreading all around my room",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "Fires",
+          "start": 40.98,
+          "end": 41.6,
+          "confidence": 0.66
+        },
+        {
+          "text": "spreading",
+          "start": 41.6,
+          "end": 42.2,
+          "confidence": 0.38
+        },
+        {
+          "text": "all",
+          "start": 42.2,
+          "end": 42.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "around",
+          "start": 42.88,
+          "end": 43.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 43.52,
+          "end": 44.02,
+          "confidence": 0.97
+        },
+        {
+          "text": "room",
+          "start": 44.02,
+          "end": 44.3,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 44.64,
+      "end": 47.34,
+      "text": " My world's so bright, it's hard to breathe",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "My",
+          "start": 44.64,
+          "end": 44.84,
+          "confidence": 0.93
+        },
+        {
+          "text": "world's",
+          "start": 44.84,
+          "end": 45.26,
+          "confidence": 0.78
+        },
+        {
+          "text": "so",
+          "start": 45.26,
+          "end": 45.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "bright,",
+          "start": 45.5,
+          "end": 45.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "it's",
+          "start": 45.96,
+          "end": 46.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "hard",
+          "start": 46.38,
+          "end": 46.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 46.64,
+          "end": 47.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "breathe",
+          "start": 47.0,
+          "end": 47.34,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 47.64,
+      "end": 48.68,
+      "text": " But that's alright",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "But",
+          "start": 47.64,
+          "end": 47.78,
+          "confidence": 0.73
+        },
+        {
+          "text": "that's",
+          "start": 47.78,
+          "end": 48.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "alright",
+          "start": 48.32,
+          "end": 48.68,
+          "confidence": 0.77
+        }
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 61.22,
+      "text": " Shhh",
+      "confidence": 0.27,
+      "words": [
+        {
+          "text": "Shhh",
+          "start": 56.0,
+          "end": 61.22,
+          "confidence": 0.27
+        }
+      ]
+    },
+    {
+      "start": 74.04,
+      "end": 77.72,
+      "text": " Take my eyes open to force reality",
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "Take",
+          "start": 74.04,
+          "end": 74.3,
+          "confidence": 0.85
+        },
+        {
+          "text": "my",
+          "start": 74.3,
+          "end": 74.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "eyes",
+          "start": 74.66,
+          "end": 75.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "open",
+          "start": 75.1,
+          "end": 75.66,
+          "confidence": 0.89
+        },
+        {
+          "text": "to",
+          "start": 75.66,
+          "end": 76.14,
+          "confidence": 0.82
+        },
+        {
+          "text": "force",
+          "start": 76.14,
+          "end": 76.54,
+          "confidence": 0.76
+        },
+        {
+          "text": "reality",
+          "start": 76.54,
+          "end": 77.72,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 80.02,
+      "end": 84.28,
+      "text": " Why can't you just let me eat my weight and glee?",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Why",
+          "start": 80.02,
+          "end": 80.24,
+          "confidence": 0.94
+        },
+        {
+          "text": "can't",
+          "start": 80.24,
+          "end": 80.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 80.82,
+          "end": 81.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "just",
+          "start": 81.04,
+          "end": 81.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "let",
+          "start": 81.44,
+          "end": 81.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 81.76,
+          "end": 82.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "eat",
+          "start": 82.14,
+          "end": 82.5,
+          "confidence": 0.97
+        },
+        {
+          "text": "my",
+          "start": 82.5,
+          "end": 82.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "weight",
+          "start": 82.92,
+          "end": 83.38,
+          "confidence": 0.72
+        },
+        {
+          "text": "and",
+          "start": 83.38,
+          "end": 83.74,
+          "confidence": 0.87
+        },
+        {
+          "text": "glee?",
+          "start": 83.74,
+          "end": 84.28,
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "start": 86.08,
+      "end": 91.04,
+      "text": " I live inside my own world of make-believe",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 86.08,
+          "end": 86.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "live",
+          "start": 86.4,
+          "end": 87.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "inside",
+          "start": 87.1,
+          "end": 87.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 87.8,
+          "end": 88.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "own",
+          "start": 88.18,
+          "end": 88.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "world",
+          "start": 88.68,
+          "end": 89.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 89.34,
+          "end": 89.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "make-believe",
+          "start": 89.7,
+          "end": 91.04,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 91.96,
+      "end": 96.74,
+      "text": " Kids screaming in the cradles profanities",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Kids",
+          "start": 91.96,
+          "end": 92.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "screaming",
+          "start": 92.34,
+          "end": 93.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "in",
+          "start": 93.28,
+          "end": 93.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 93.86,
+          "end": 94.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "cradles",
+          "start": 94.18,
+          "end": 95.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "profanities",
+          "start": 95.3,
+          "end": 96.74,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 97.76,
+      "end": 102.94,
+      "text": " Some days I feel skinnier than all the other days",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Some",
+          "start": 97.76,
+          "end": 98.22,
+          "confidence": 0.88
+        },
+        {
+          "text": "days",
+          "start": 98.22,
+          "end": 98.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 98.66,
+          "end": 99.04,
+          "confidence": 0.92
+        },
+        {
+          "text": "feel",
+          "start": 99.04,
+          "end": 99.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "skinnier",
+          "start": 99.36,
+          "end": 100.4,
+          "confidence": 0.96
+        },
+        {
+          "text": "than",
+          "start": 100.4,
+          "end": 100.96,
+          "confidence": 0.94
+        },
+        {
+          "text": "all",
+          "start": 100.96,
+          "end": 101.44,
+          "confidence": 0.82
+        },
+        {
+          "text": "the",
+          "start": 101.44,
+          "end": 101.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "other",
+          "start": 101.8,
+          "end": 102.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "days",
+          "start": 102.24,
+          "end": 102.94,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 103.76,
+      "end": 108.86,
+      "text": " Some days I can't tell if my body belongs to me",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Some",
+          "start": 103.76,
+          "end": 104.22,
+          "confidence": 0.7
+        },
+        {
+          "text": "days",
+          "start": 104.22,
+          "end": 104.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 104.72,
+          "end": 105.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "can't",
+          "start": 105.08,
+          "end": 105.56,
+          "confidence": 0.88
+        },
+        {
+          "text": "tell",
+          "start": 105.56,
+          "end": 105.9,
+          "confidence": 0.91
+        },
+        {
+          "text": "if",
+          "start": 105.9,
+          "end": 106.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 106.22,
+          "end": 106.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "body",
+          "start": 106.6,
+          "end": 107.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "belongs",
+          "start": 107.18,
+          "end": 108.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 108.06,
+          "end": 108.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 108.56,
+          "end": 108.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 110.06,
+      "end": 111.58,
+      "text": " I love everything",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "I",
+          "start": 110.06,
+          "end": 110.3,
+          "confidence": 0.81
+        },
+        {
+          "text": "love",
+          "start": 110.3,
+          "end": 110.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "everything",
+          "start": 110.66,
+          "end": 111.58,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 112.94,
+      "end": 116.3,
+      "text": " Fires spreading all around my room",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Fires",
+          "start": 112.94,
+          "end": 113.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "spreading",
+          "start": 113.62,
+          "end": 114.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "all",
+          "start": 114.28,
+          "end": 114.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "around",
+          "start": 114.92,
+          "end": 115.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 115.5,
+          "end": 116.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "room",
+          "start": 116.02,
+          "end": 116.3,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 116.62,
+      "end": 119.3,
+      "text": " My world's so bright, it's hard to breathe",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "My",
+          "start": 116.62,
+          "end": 116.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "world's",
+          "start": 116.82,
+          "end": 117.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "so",
+          "start": 117.28,
+          "end": 117.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "bright,",
+          "start": 117.5,
+          "end": 117.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "it's",
+          "start": 118.2,
+          "end": 118.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "hard",
+          "start": 118.36,
+          "end": 118.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 118.66,
+          "end": 119.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "breathe",
+          "start": 119.0,
+          "end": 119.3,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 119.66,
+      "end": 120.72,
+      "text": " But that's alright",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "But",
+          "start": 119.66,
+          "end": 119.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "that's",
+          "start": 119.78,
+          "end": 120.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "alright",
+          "start": 120.34,
+          "end": 120.72,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 145.74,
+      "end": 150.98,
+      "text": " I wanna taste your content, hold your breath and feel your tension",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "I",
+          "start": 145.74,
+          "end": 145.96,
+          "confidence": 0.88
+        },
+        {
+          "text": "wanna",
+          "start": 145.96,
+          "end": 146.34,
+          "confidence": 0.55
+        },
+        {
+          "text": "taste",
+          "start": 146.34,
+          "end": 147.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "your",
+          "start": 147.06,
+          "end": 147.44,
+          "confidence": 0.97
+        },
+        {
+          "text": "content,",
+          "start": 147.44,
+          "end": 147.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "hold",
+          "start": 148.28,
+          "end": 148.54,
+          "confidence": 0.96
+        },
+        {
+          "text": "your",
+          "start": 148.54,
+          "end": 148.88,
+          "confidence": 0.94
+        },
+        {
+          "text": "breath",
+          "start": 148.88,
+          "end": 149.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 149.34,
+          "end": 149.68,
+          "confidence": 0.85
+        },
+        {
+          "text": "feel",
+          "start": 149.68,
+          "end": 150.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "your",
+          "start": 150.08,
+          "end": 150.4,
+          "confidence": 0.49
+        },
+        {
+          "text": "tension",
+          "start": 150.4,
+          "end": 150.98,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 151.34,
+      "end": 157.36,
+      "text": " Nipples hide behind redemption, honesty is the one way gate to hell",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "Nipples",
+          "start": 151.34,
+          "end": 151.8,
+          "confidence": 0.34
+        },
+        {
+          "text": "hide",
+          "start": 151.8,
+          "end": 152.3,
+          "confidence": 0.8
+        },
+        {
+          "text": "behind",
+          "start": 152.3,
+          "end": 152.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "redemption,",
+          "start": 152.9,
+          "end": 153.9,
+          "confidence": 0.96
+        },
+        {
+          "text": "honesty",
+          "start": 154.36,
+          "end": 155.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "is",
+          "start": 155.14,
+          "end": 155.62,
+          "confidence": 0.72
+        },
+        {
+          "text": "the",
+          "start": 155.62,
+          "end": 155.8,
+          "confidence": 0.95
+        },
+        {
+          "text": "one",
+          "start": 155.8,
+          "end": 156.04,
+          "confidence": 0.91
+        },
+        {
+          "text": "way",
+          "start": 156.04,
+          "end": 156.4,
+          "confidence": 0.79
+        },
+        {
+          "text": "gate",
+          "start": 156.4,
+          "end": 156.86,
+          "confidence": 0.7
+        },
+        {
+          "text": "to",
+          "start": 156.86,
+          "end": 157.2,
+          "confidence": 0.97
+        },
+        {
+          "text": "hell",
+          "start": 157.2,
+          "end": 157.36,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "start": 157.72,
+      "end": 162.98,
+      "text": " I wanna taste consumption, be faster, do we stock-search?",
+      "confidence": 0.55,
+      "words": [
+        {
+          "text": "I",
+          "start": 157.72,
+          "end": 157.9,
+          "confidence": 0.98
+        },
+        {
+          "text": "wanna",
+          "start": 157.9,
+          "end": 158.34,
+          "confidence": 0.76
+        },
+        {
+          "text": "taste",
+          "start": 158.34,
+          "end": 158.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "consumption,",
+          "start": 158.96,
+          "end": 159.94,
+          "confidence": 0.97
+        },
+        {
+          "text": "be",
+          "start": 160.38,
+          "end": 160.54,
+          "confidence": 0.48
+        },
+        {
+          "text": "faster,",
+          "start": 160.54,
+          "end": 161.14,
+          "confidence": 0.97
+        },
+        {
+          "text": "do",
+          "start": 161.4,
+          "end": 161.72,
+          "confidence": 0.39
+        },
+        {
+          "text": "we",
+          "start": 161.72,
+          "end": 162.02,
+          "confidence": 0.33
+        },
+        {
+          "text": "stock-search?",
+          "start": 162.02,
+          "end": 162.98,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "start": 163.36,
+      "end": 169.12,
+      "text": " You think children sing aloud, see you suck till the whip burns out",
+      "confidence": 0.53,
+      "words": [
+        {
+          "text": "You",
+          "start": 163.36,
+          "end": 163.58,
+          "confidence": 0.24
+        },
+        {
+          "text": "think",
+          "start": 163.58,
+          "end": 163.86,
+          "confidence": 0.17
+        },
+        {
+          "text": "children",
+          "start": 163.86,
+          "end": 164.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "sing",
+          "start": 164.44,
+          "end": 165.04,
+          "confidence": 0.78
+        },
+        {
+          "text": "aloud,",
+          "start": 165.04,
+          "end": 165.74,
+          "confidence": 0.64
+        },
+        {
+          "text": "see",
+          "start": 166.26,
+          "end": 166.48,
+          "confidence": 0.12
+        },
+        {
+          "text": "you",
+          "start": 166.48,
+          "end": 166.62,
+          "confidence": 0.3
+        },
+        {
+          "text": "suck",
+          "start": 166.62,
+          "end": 166.88,
+          "confidence": 0.65
+        },
+        {
+          "text": "till",
+          "start": 166.88,
+          "end": 167.36,
+          "confidence": 0.65
+        },
+        {
+          "text": "the",
+          "start": 167.36,
+          "end": 167.76,
+          "confidence": 0.97
+        },
+        {
+          "text": "whip",
+          "start": 167.76,
+          "end": 168.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "burns",
+          "start": 168.12,
+          "end": 168.66,
+          "confidence": 0.88
+        },
+        {
+          "text": "out",
+          "start": 168.66,
+          "end": 169.12,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 172.0,
+      "end": 186.14,
+      "text": " I wanna be carefree lately, yeah",
+      "confidence": 0.41,
+      "words": [
+        {
+          "text": "I",
+          "start": 172.0,
+          "end": 173.78,
+          "confidence": 0.06
+        },
+        {
+          "text": "wanna",
+          "start": 173.78,
+          "end": 182.34,
+          "confidence": 0.25
+        },
+        {
+          "text": "be",
+          "start": 182.34,
+          "end": 182.84,
+          "confidence": 0.46
+        },
+        {
+          "text": "carefree",
+          "start": 182.84,
+          "end": 184.18,
+          "confidence": 0.64
+        },
+        {
+          "text": "lately,",
+          "start": 184.18,
+          "end": 185.48,
+          "confidence": 0.96
+        },
+        {
+          "text": "yeah",
+          "start": 185.96,
+          "end": 186.14,
+          "confidence": 0.61
+        }
+      ]
+    },
+    {
+      "start": 186.7,
+      "end": 192.66,
+      "text": " Just picking up days, these go one, two, nine and quarters in my pockets",
+      "confidence": 0.71,
+      "words": [
+        {
+          "text": "Just",
+          "start": 186.7,
+          "end": 187.0,
+          "confidence": 0.96
+        },
+        {
+          "text": "picking",
+          "start": 187.0,
+          "end": 187.48,
+          "confidence": 0.44
+        },
+        {
+          "text": "up",
+          "start": 187.48,
+          "end": 187.84,
+          "confidence": 0.82
+        },
+        {
+          "text": "days,",
+          "start": 187.84,
+          "end": 188.36,
+          "confidence": 0.88
+        },
+        {
+          "text": "these",
+          "start": 188.78,
+          "end": 189.12,
+          "confidence": 0.79
+        },
+        {
+          "text": "go",
+          "start": 189.12,
+          "end": 189.5,
+          "confidence": 0.48
+        },
+        {
+          "text": "one,",
+          "start": 189.5,
+          "end": 189.9,
+          "confidence": 0.55
+        },
+        {
+          "text": "two,",
+          "start": 190.06,
+          "end": 190.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "nine",
+          "start": 190.44,
+          "end": 190.68,
+          "confidence": 0.55
+        },
+        {
+          "text": "and",
+          "start": 190.68,
+          "end": 190.84,
+          "confidence": 0.62
+        },
+        {
+          "text": "quarters",
+          "start": 190.84,
+          "end": 191.14,
+          "confidence": 0.64
+        },
+        {
+          "text": "in",
+          "start": 191.14,
+          "end": 191.58,
+          "confidence": 0.94
+        },
+        {
+          "text": "my",
+          "start": 191.58,
+          "end": 191.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "pockets",
+          "start": 191.92,
+          "end": 192.66,
+          "confidence": 0.61
+        }
+      ]
+    },
+    {
+      "start": 192.92,
+      "end": 196.08,
+      "text": " Kind of like the bullet covers in my locket",
+      "confidence": 0.65,
+      "words": [
+        {
+          "text": "Kind",
+          "start": 192.92,
+          "end": 193.16,
+          "confidence": 0.24
+        },
+        {
+          "text": "of",
+          "start": 193.16,
+          "end": 193.3,
+          "confidence": 0.96
+        },
+        {
+          "text": "like",
+          "start": 193.3,
+          "end": 193.5,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 193.5,
+          "end": 193.72,
+          "confidence": 0.76
+        },
+        {
+          "text": "bullet",
+          "start": 193.72,
+          "end": 194.04,
+          "confidence": 0.38
+        },
+        {
+          "text": "covers",
+          "start": 194.04,
+          "end": 194.5,
+          "confidence": 0.28
+        },
+        {
+          "text": "in",
+          "start": 194.5,
+          "end": 194.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 194.86,
+          "end": 195.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "locket",
+          "start": 195.28,
+          "end": 196.08,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 196.28,
+      "end": 199.42,
+      "text": " Untied like a sis, yeah",
+      "confidence": 0.38,
+      "words": [
+        {
+          "text": "Untied",
+          "start": 196.28,
+          "end": 197.46,
+          "confidence": 0.87
+        },
+        {
+          "text": "like",
+          "start": 197.46,
+          "end": 198.24,
+          "confidence": 0.39
+        },
+        {
+          "text": "a",
+          "start": 198.24,
+          "end": 198.52,
+          "confidence": 0.08
+        },
+        {
+          "text": "sis,",
+          "start": 198.52,
+          "end": 199.04,
+          "confidence": 0.15
+        },
+        {
+          "text": "yeah",
+          "start": 199.28,
+          "end": 199.42,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "start": 199.98,
+      "end": 205.14,
+      "text": " Just tripping on day, dreams got dirty, little lilab eyes playing on",
+      "confidence": 0.68,
+      "words": [
+        {
+          "text": "Just",
+          "start": 199.98,
+          "end": 200.3,
+          "confidence": 0.96
+        },
+        {
+          "text": "tripping",
+          "start": 200.3,
+          "end": 200.82,
+          "confidence": 0.8
+        },
+        {
+          "text": "on",
+          "start": 200.82,
+          "end": 201.16,
+          "confidence": 0.91
+        },
+        {
+          "text": "day,",
+          "start": 201.16,
+          "end": 201.6,
+          "confidence": 0.7
+        },
+        {
+          "text": "dreams",
+          "start": 201.86,
+          "end": 202.32,
+          "confidence": 0.94
+        },
+        {
+          "text": "got",
+          "start": 202.32,
+          "end": 202.68,
+          "confidence": 0.9
+        },
+        {
+          "text": "dirty,",
+          "start": 202.68,
+          "end": 203.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "little",
+          "start": 203.34,
+          "end": 203.6,
+          "confidence": 0.48
+        },
+        {
+          "text": "lilab",
+          "start": 203.6,
+          "end": 204.16,
+          "confidence": 0.37
+        },
+        {
+          "text": "eyes",
+          "start": 204.16,
+          "end": 204.36,
+          "confidence": 0.87
+        },
+        {
+          "text": "playing",
+          "start": 204.36,
+          "end": 204.8,
+          "confidence": 0.46
+        },
+        {
+          "text": "on",
+          "start": 204.8,
+          "end": 205.14,
+          "confidence": 0.53
+        }
+      ]
+    },
+    {
+      "start": 206.28,
+      "end": 209.28,
+      "text": " Might as well just rot around the nursery and count sheep",
+      "confidence": 0.72,
+      "words": [
+        {
+          "text": "Might",
+          "start": 206.28,
+          "end": 206.38,
+          "confidence": 0.26
+        },
+        {
+          "text": "as",
+          "start": 206.38,
+          "end": 206.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "well",
+          "start": 206.6,
+          "end": 206.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "just",
+          "start": 206.76,
+          "end": 206.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "rot",
+          "start": 206.96,
+          "end": 207.22,
+          "confidence": 0.26
+        },
+        {
+          "text": "around",
+          "start": 207.22,
+          "end": 207.54,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 207.54,
+          "end": 207.78,
+          "confidence": 0.95
+        },
+        {
+          "text": "nursery",
+          "start": 207.78,
+          "end": 208.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 208.18,
+          "end": 208.56,
+          "confidence": 0.85
+        },
+        {
+          "text": "count",
+          "start": 208.56,
+          "end": 208.9,
+          "confidence": 0.97
+        },
+        {
+          "text": "sheep",
+          "start": 208.9,
+          "end": 209.28,
+          "confidence": 0.51
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8742406368255615,
+    "zh": 0.002489697188138962,
+    "de": 0.00839750561863184,
+    "es": 0.003672900842502713,
+    "ru": 0.014691364020109177,
+    "ko": 0.012276229448616505,
+    "fr": 0.005201405379921198,
+    "ja": 0.00159111013635993,
+    "pt": 0.0025212992914021015,
+    "tr": 0.00465340306982398,
+    "pl": 0.0006776019581593573,
+    "ca": 0.0003805471060331911,
+    "nl": 0.002960840705782175,
+    "ar": 0.001603892189450562,
+    "sv": 0.0019897317979484797,
+    "it": 0.0004695308452937752,
+    "id": 0.00012301684182602912,
+    "hi": 0.0003898889117408544,
+    "fi": 0.00018788049055729061,
+    "vi": 0.0015658970223739743,
+    "he": 4.4773878471460193e-05,
+    "uk": 0.00018317607464268804,
+    "el": 0.0003463559551164508,
+    "ms": 0.0005445479182526469,
+    "cs": 0.0001954835170181468,
+    "ro": 0.00017794071754906327,
+    "da": 0.004054112359881401,
+    "hu": 0.0008041061228141189,
+    "ta": 0.0001345624914392829,
+    "no": 0.0028048641979694366,
+    "th": 0.0010502353543415666,
+    "ur": 7.85586453275755e-05,
+    "hr": 6.332774501061067e-05,
+    "bg": 5.962183422525413e-05,
+    "lt": 7.91203638073057e-05,
+    "la": 0.007116023451089859,
+    "mi": 0.0004661542479880154,
+    "ml": 0.00024130039673764259,
+    "cy": 0.007494632620364428,
+    "sk": 2.6377743779448792e-05,
+    "te": 3.747718074009754e-05,
+    "fa": 5.80207743041683e-05,
+    "lv": 0.0001921170623973012,
+    "bn": 2.9931034077890217e-05,
+    "sr": 5.156428414920811e-06,
+    "az": 1.1163022463733796e-05,
+    "sl": 5.235994467511773e-05,
+    "kn": 1.1067814966736478e-06,
+    "et": 3.268281216151081e-05,
+    "mk": 3.302267259641667e-06,
+    "br": 0.00026089398306794465,
+    "eu": 6.753616617061198e-05,
+    "is": 0.0005931215710006654,
+    "hy": 1.2894826795672998e-05,
+    "ne": 4.541494490695186e-05,
+    "mn": 4.006112430943176e-05,
+    "bs": 2.6865618565352634e-05,
+    "kk": 1.910009450512007e-05,
+    "sq": 2.4361852410947904e-05,
+    "sw": 2.8359840143821202e-05,
+    "gl": 9.633370791561902e-05,
+    "mr": 1.384348024657811e-06,
+    "pa": 1.986270717679872e-06,
+    "si": 0.0003565423539839685,
+    "km": 0.014520703814923763,
+    "sn": 0.0004190839536022395,
+    "yo": 2.8564421882038005e-05,
+    "so": 4.1527783878336777e-07,
+    "af": 3.404112430871464e-05,
+    "oc": 3.1403160392073914e-05,
+    "ka": 4.92122467221634e-07,
+    "be": 1.4696317521156743e-05,
+    "tg": 3.010756799426417e-08,
+    "sd": 6.113909876148682e-06,
+    "gu": 2.6985870249518484e-07,
+    "am": 4.997073119739071e-07,
+    "yi": 5.9333175158826634e-05,
+    "lo": 1.2442271327017806e-05,
+    "uz": 1.3640628626632179e-09,
+    "fo": 4.764163895742968e-05,
+    "ht": 7.157246727729216e-05,
+    "ps": 1.8285264786754851e-06,
+    "tk": 8.453040045708349e-09,
+    "nn": 0.014003725722432137,
+    "mt": 1.2651154293052969e-06,
+    "sa": 7.915176684036851e-05,
+    "lb": 1.9585885979722661e-07,
+    "my": 0.0001210035479743965,
+    "bo": 2.2523081497638486e-05,
+    "tl": 0.00028020181343890727,
+    "mg": 2.312449565167185e-09,
+    "as": 2.744519406405743e-06,
+    "tt": 4.4661646825261414e-08,
+    "haw": 0.0004170489846728742,
+    "ln": 6.860768166916387e-07,
+    "ha": 4.289450572514397e-09,
+    "ba": 1.018941198083212e-08,
+    "jw": 0.0017741941846907139,
+    "su": 4.086666649527615e-08
+  }
+}

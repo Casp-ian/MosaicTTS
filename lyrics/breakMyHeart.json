@@ -1,0 +1,3618 @@
+Detected language: English
+{
+  "text": " I've always been the one to say the first goodbye Had to love and lose a hundred million times Had to get it wrong to know just what I like Now I'm falling You say my name like I have never heard before I'm indecisive but this time I know for sure I hope I'm not the only one that feels it all Are you falling? Center of attention, you know you can get whatever you want from me Whatever you want it baby It's you with my reflection, I'm afraid of all the things It could do to me if I would have known it baby I would have stayed at home, cause I was doing better alone But when you said hello, I know there was the end of it all I tried to stay at home, cause now they're even letting you go Am I falling in love with the one that could break my heart? Oh no, I was doing better alone But when you said hello, I know there was the end of it all I should have stayed at home, cause now they're even letting you go Am I falling in love with the one that could break my heart? I wonder when you go if I stay on your mind To complete that game that you win me every time Everyone before you was the way it's the time Hey you got me Center of attention, you know you can get whatever you want from me Whatever you want it baby It's you with my reflection, I'm afraid of all the things It could do to me if I would have known it baby I would have stayed at home, cause I was doing better alone But when you said hello, I know there was the end of it all I should have stayed at home, cause now they're even letting you go Am I falling in love with the one that could break my heart? Oh no, I was doing better alone But when you said hello, I know there was the end of it all I should have stayed at home, cause now they're even letting you go Am I falling in love with the one that could break my heart? Oh no, I was doing better alone But when you said hello, I know there was the end of it all I should have stayed at home, cause now they're even letting you go Am I falling in love with the one that could break my heart? Oh no, I was doing better alone But when you said hello, I know there was the end of it all I should have stayed at home, cause now they're even letting you go Am I falling in love with the one that could break my heart? Oh no, I was doing better alone But when you said hello, I know there was the end of it all I should have stayed at home, cause now they're even letting you go Am I falling in love with the one that could break my heart?",
+  "segments": [
+    {
+      "start": 10.4,
+      "end": 14.1,
+      "text": " I've always been the one to say the first goodbye",
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "I've",
+          "start": 10.4,
+          "end": 10.54,
+          "confidence": 0.3
+        },
+        {
+          "text": "always",
+          "start": 10.54,
+          "end": 10.82,
+          "confidence": 0.97
+        },
+        {
+          "text": "been",
+          "start": 10.82,
+          "end": 11.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 11.1,
+          "end": 11.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "one",
+          "start": 11.42,
+          "end": 11.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 11.6,
+          "end": 11.96,
+          "confidence": 0.97
+        },
+        {
+          "text": "say",
+          "start": 11.96,
+          "end": 12.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 12.4,
+          "end": 12.92,
+          "confidence": 0.84
+        },
+        {
+          "text": "first",
+          "start": 12.92,
+          "end": 13.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "goodbye",
+          "start": 13.5,
+          "end": 14.1,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 14.72,
+      "end": 18.52,
+      "text": " Had to love and lose a hundred million times",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Had",
+          "start": 14.72,
+          "end": 14.86,
+          "confidence": 0.9
+        },
+        {
+          "text": "to",
+          "start": 14.86,
+          "end": 15.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "love",
+          "start": 15.08,
+          "end": 15.34,
+          "confidence": 0.94
+        },
+        {
+          "text": "and",
+          "start": 15.34,
+          "end": 15.64,
+          "confidence": 0.97
+        },
+        {
+          "text": "lose",
+          "start": 15.64,
+          "end": 15.9,
+          "confidence": 0.96
+        },
+        {
+          "text": "a",
+          "start": 15.9,
+          "end": 16.26,
+          "confidence": 0.95
+        },
+        {
+          "text": "hundred",
+          "start": 16.26,
+          "end": 17.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "million",
+          "start": 17.0,
+          "end": 17.82,
+          "confidence": 0.97
+        },
+        {
+          "text": "times",
+          "start": 17.82,
+          "end": 18.52,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 18.96,
+      "end": 23.02,
+      "text": " Had to get it wrong to know just what I like",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Had",
+          "start": 18.96,
+          "end": 19.16,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 19.16,
+          "end": 19.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "get",
+          "start": 19.38,
+          "end": 19.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 19.64,
+          "end": 19.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "wrong",
+          "start": 19.9,
+          "end": 20.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 20.12,
+          "end": 20.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "know",
+          "start": 20.44,
+          "end": 20.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "just",
+          "start": 20.88,
+          "end": 21.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "what",
+          "start": 21.38,
+          "end": 21.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 21.9,
+          "end": 22.38,
+          "confidence": 0.94
+        },
+        {
+          "text": "like",
+          "start": 22.38,
+          "end": 23.02,
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 25.2,
+      "text": " Now I'm falling",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Now",
+          "start": 24.3,
+          "end": 24.52,
+          "confidence": 0.73
+        },
+        {
+          "text": "I'm",
+          "start": 24.52,
+          "end": 24.74,
+          "confidence": 0.97
+        },
+        {
+          "text": "falling",
+          "start": 24.74,
+          "end": 25.2,
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "start": 27.32,
+      "end": 31.1,
+      "text": " You say my name like I have never heard before",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "You",
+          "start": 27.32,
+          "end": 27.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "say",
+          "start": 27.48,
+          "end": 27.64,
+          "confidence": 0.97
+        },
+        {
+          "text": "my",
+          "start": 27.64,
+          "end": 27.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "name",
+          "start": 27.86,
+          "end": 28.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "like",
+          "start": 28.14,
+          "end": 28.38,
+          "confidence": 0.97
+        },
+        {
+          "text": "I",
+          "start": 28.38,
+          "end": 28.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "have",
+          "start": 28.66,
+          "end": 28.96,
+          "confidence": 0.85
+        },
+        {
+          "text": "never",
+          "start": 28.96,
+          "end": 29.44,
+          "confidence": 0.97
+        },
+        {
+          "text": "heard",
+          "start": 29.44,
+          "end": 30.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "before",
+          "start": 30.46,
+          "end": 31.1,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 31.66,
+      "end": 35.44,
+      "text": " I'm indecisive but this time I know for sure",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 31.66,
+          "end": 31.82,
+          "confidence": 0.98
+        },
+        {
+          "text": "indecisive",
+          "start": 31.82,
+          "end": 32.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "but",
+          "start": 32.62,
+          "end": 32.86,
+          "confidence": 0.57
+        },
+        {
+          "text": "this",
+          "start": 32.86,
+          "end": 33.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 33.22,
+          "end": 33.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 33.66,
+          "end": 34.14,
+          "confidence": 0.91
+        },
+        {
+          "text": "know",
+          "start": 34.14,
+          "end": 34.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "for",
+          "start": 34.66,
+          "end": 35.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "sure",
+          "start": 35.08,
+          "end": 35.44,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 35.78,
+      "end": 40.04,
+      "text": " I hope I'm not the only one that feels it all",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "I",
+          "start": 35.78,
+          "end": 35.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "hope",
+          "start": 35.96,
+          "end": 36.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 36.16,
+          "end": 36.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "not",
+          "start": 36.42,
+          "end": 36.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 36.6,
+          "end": 36.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "only",
+          "start": 36.88,
+          "end": 37.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "one",
+          "start": 37.3,
+          "end": 37.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 37.9,
+          "end": 38.38,
+          "confidence": 0.95
+        },
+        {
+          "text": "feels",
+          "start": 38.38,
+          "end": 39.0,
+          "confidence": 0.98
+        },
+        {
+          "text": "it",
+          "start": 39.0,
+          "end": 39.5,
+          "confidence": 0.96
+        },
+        {
+          "text": "all",
+          "start": 39.5,
+          "end": 40.04,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 41.26,
+      "end": 42.12,
+      "text": " Are you falling?",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Are",
+          "start": 41.26,
+          "end": 41.52,
+          "confidence": 0.87
+        },
+        {
+          "text": "you",
+          "start": 41.52,
+          "end": 41.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling?",
+          "start": 41.66,
+          "end": 42.12,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 43.76,
+      "end": 48.92,
+      "text": " Center of attention, you know you can get whatever you want from me",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Center",
+          "start": 43.76,
+          "end": 44.3,
+          "confidence": 0.51
+        },
+        {
+          "text": "of",
+          "start": 44.3,
+          "end": 44.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "attention,",
+          "start": 44.76,
+          "end": 45.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 45.56,
+          "end": 45.72,
+          "confidence": 0.97
+        },
+        {
+          "text": "know",
+          "start": 45.72,
+          "end": 45.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 45.98,
+          "end": 46.24,
+          "confidence": 0.96
+        },
+        {
+          "text": "can",
+          "start": 46.24,
+          "end": 46.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "get",
+          "start": 46.5,
+          "end": 46.8,
+          "confidence": 0.94
+        },
+        {
+          "text": "whatever",
+          "start": 46.8,
+          "end": 47.24,
+          "confidence": 0.62
+        },
+        {
+          "text": "you",
+          "start": 47.24,
+          "end": 47.84,
+          "confidence": 0.95
+        },
+        {
+          "text": "want",
+          "start": 47.84,
+          "end": 48.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "from",
+          "start": 48.22,
+          "end": 48.48,
+          "confidence": 0.78
+        },
+        {
+          "text": "me",
+          "start": 48.48,
+          "end": 48.92,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 49.64,
+      "end": 51.1,
+      "text": " Whatever you want it baby",
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "Whatever",
+          "start": 49.64,
+          "end": 49.92,
+          "confidence": 0.54
+        },
+        {
+          "text": "you",
+          "start": 49.92,
+          "end": 50.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "want",
+          "start": 50.2,
+          "end": 50.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "it",
+          "start": 50.5,
+          "end": 50.68,
+          "confidence": 0.76
+        },
+        {
+          "text": "baby",
+          "start": 50.68,
+          "end": 51.1,
+          "confidence": 0.73
+        }
+      ]
+    },
+    {
+      "start": 52.16,
+      "end": 55.82,
+      "text": " It's you with my reflection, I'm afraid of all the things",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "It's",
+          "start": 52.16,
+          "end": 52.5,
+          "confidence": 0.82
+        },
+        {
+          "text": "you",
+          "start": 52.5,
+          "end": 52.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "with",
+          "start": 52.7,
+          "end": 52.94,
+          "confidence": 0.86
+        },
+        {
+          "text": "my",
+          "start": 52.94,
+          "end": 53.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "reflection,",
+          "start": 53.18,
+          "end": 53.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 54.1,
+          "end": 54.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "afraid",
+          "start": 54.4,
+          "end": 54.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 54.8,
+          "end": 55.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "all",
+          "start": 55.08,
+          "end": 55.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 55.38,
+          "end": 55.54,
+          "confidence": 0.98
+        },
+        {
+          "text": "things",
+          "start": 55.54,
+          "end": 55.82,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 55.92,
+      "end": 59.62,
+      "text": " It could do to me if I would have known it baby",
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "It",
+          "start": 55.92,
+          "end": 56.12,
+          "confidence": 0.77
+        },
+        {
+          "text": "could",
+          "start": 56.12,
+          "end": 56.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "do",
+          "start": 56.38,
+          "end": 56.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 56.7,
+          "end": 56.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "me",
+          "start": 56.96,
+          "end": 57.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "if",
+          "start": 57.34,
+          "end": 58.3,
+          "confidence": 0.54
+        },
+        {
+          "text": "I",
+          "start": 58.3,
+          "end": 58.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "would",
+          "start": 58.46,
+          "end": 58.6,
+          "confidence": 0.46
+        },
+        {
+          "text": "have",
+          "start": 58.6,
+          "end": 58.72,
+          "confidence": 0.46
+        },
+        {
+          "text": "known",
+          "start": 58.72,
+          "end": 58.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 58.98,
+          "end": 59.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "baby",
+          "start": 59.18,
+          "end": 59.62,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "start": 60.16,
+      "end": 64.16,
+      "text": " I would have stayed at home, cause I was doing better alone",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "I",
+          "start": 60.16,
+          "end": 60.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "would",
+          "start": 60.32,
+          "end": 60.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "have",
+          "start": 60.68,
+          "end": 60.86,
+          "confidence": 0.76
+        },
+        {
+          "text": "stayed",
+          "start": 60.86,
+          "end": 61.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 61.16,
+          "end": 61.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 61.76,
+          "end": 62.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 62.96,
+          "end": 63.08,
+          "confidence": 0.71
+        },
+        {
+          "text": "I",
+          "start": 63.08,
+          "end": 63.22,
+          "confidence": 0.95
+        },
+        {
+          "text": "was",
+          "start": 63.22,
+          "end": 63.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "doing",
+          "start": 63.36,
+          "end": 63.52,
+          "confidence": 0.93
+        },
+        {
+          "text": "better",
+          "start": 63.52,
+          "end": 63.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "alone",
+          "start": 63.8,
+          "end": 64.16,
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "start": 64.44,
+      "end": 68.48,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "But",
+          "start": 64.44,
+          "end": 64.58,
+          "confidence": 0.96
+        },
+        {
+          "text": "when",
+          "start": 64.58,
+          "end": 64.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 64.86,
+          "end": 65.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "said",
+          "start": 65.1,
+          "end": 65.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "hello,",
+          "start": 65.42,
+          "end": 66.42,
+          "confidence": 0.92
+        },
+        {
+          "text": "I",
+          "start": 67.16,
+          "end": 67.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 67.32,
+          "end": 67.44,
+          "confidence": 0.58
+        },
+        {
+          "text": "there",
+          "start": 67.44,
+          "end": 67.58,
+          "confidence": 0.8
+        },
+        {
+          "text": "was",
+          "start": 67.58,
+          "end": 67.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 67.74,
+          "end": 67.88,
+          "confidence": 0.97
+        },
+        {
+          "text": "end",
+          "start": 67.88,
+          "end": 68.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 68.02,
+          "end": 68.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 68.16,
+          "end": 68.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 68.28,
+          "end": 68.48,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 68.64,
+      "end": 72.7,
+      "text": " I tried to stay at home, cause now they're even letting you go",
+      "confidence": 0.71,
+      "words": [
+        {
+          "text": "I",
+          "start": 68.64,
+          "end": 68.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "tried",
+          "start": 68.82,
+          "end": 69.1,
+          "confidence": 0.31
+        },
+        {
+          "text": "to",
+          "start": 69.1,
+          "end": 69.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "stay",
+          "start": 69.34,
+          "end": 69.6,
+          "confidence": 0.97
+        },
+        {
+          "text": "at",
+          "start": 69.6,
+          "end": 70.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "home,",
+          "start": 70.24,
+          "end": 70.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 71.38,
+          "end": 71.54,
+          "confidence": 0.93
+        },
+        {
+          "text": "now",
+          "start": 71.54,
+          "end": 71.72,
+          "confidence": 0.89
+        },
+        {
+          "text": "they're",
+          "start": 71.72,
+          "end": 71.9,
+          "confidence": 0.41
+        },
+        {
+          "text": "even",
+          "start": 71.9,
+          "end": 72.02,
+          "confidence": 0.24
+        },
+        {
+          "text": "letting",
+          "start": 72.02,
+          "end": 72.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 72.28,
+          "end": 72.48,
+          "confidence": 0.96
+        },
+        {
+          "text": "go",
+          "start": 72.48,
+          "end": 72.7,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 73.16,
+      "end": 77.94,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Am",
+          "start": 73.16,
+          "end": 73.4,
+          "confidence": 0.84
+        },
+        {
+          "text": "I",
+          "start": 73.4,
+          "end": 73.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "falling",
+          "start": 73.6,
+          "end": 74.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "in",
+          "start": 74.12,
+          "end": 74.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "love",
+          "start": 74.64,
+          "end": 75.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 75.02,
+          "end": 75.38,
+          "confidence": 0.95
+        },
+        {
+          "text": "the",
+          "start": 75.38,
+          "end": 75.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "one",
+          "start": 75.72,
+          "end": 76.08,
+          "confidence": 0.57
+        },
+        {
+          "text": "that",
+          "start": 76.08,
+          "end": 76.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "could",
+          "start": 76.4,
+          "end": 76.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "break",
+          "start": 76.74,
+          "end": 77.1,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 77.1,
+          "end": 77.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart?",
+          "start": 77.46,
+          "end": 77.94,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 78.44,
+      "end": 81.14,
+      "text": " Oh no, I was doing better alone",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 78.44,
+          "end": 78.76,
+          "confidence": 0.8
+        },
+        {
+          "text": "no,",
+          "start": 78.76,
+          "end": 79.22,
+          "confidence": 0.92
+        },
+        {
+          "text": "I",
+          "start": 80.02,
+          "end": 80.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 80.2,
+          "end": 80.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "doing",
+          "start": 80.34,
+          "end": 80.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "better",
+          "start": 80.52,
+          "end": 80.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "alone",
+          "start": 80.82,
+          "end": 81.14,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 81.36,
+      "end": 85.46,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "But",
+          "start": 81.36,
+          "end": 81.56,
+          "confidence": 0.51
+        },
+        {
+          "text": "when",
+          "start": 81.56,
+          "end": 81.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 81.84,
+          "end": 82.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "said",
+          "start": 82.08,
+          "end": 82.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "hello,",
+          "start": 82.42,
+          "end": 83.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 84.16,
+          "end": 84.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 84.32,
+          "end": 84.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 84.44,
+          "end": 84.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 84.58,
+          "end": 84.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 84.72,
+          "end": 84.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "end",
+          "start": 84.86,
+          "end": 85.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 85.02,
+          "end": 85.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 85.16,
+          "end": 85.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 85.24,
+          "end": 85.46,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 85.64,
+      "end": 89.68,
+      "text": " I should have stayed at home, cause now they're even letting you go",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "I",
+          "start": 85.64,
+          "end": 85.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "should",
+          "start": 85.78,
+          "end": 86.12,
+          "confidence": 0.66
+        },
+        {
+          "text": "have",
+          "start": 86.12,
+          "end": 86.38,
+          "confidence": 0.81
+        },
+        {
+          "text": "stayed",
+          "start": 86.38,
+          "end": 86.68,
+          "confidence": 0.95
+        },
+        {
+          "text": "at",
+          "start": 86.68,
+          "end": 87.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 87.24,
+          "end": 87.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 88.34,
+          "end": 88.54,
+          "confidence": 0.97
+        },
+        {
+          "text": "now",
+          "start": 88.54,
+          "end": 88.72,
+          "confidence": 0.97
+        },
+        {
+          "text": "they're",
+          "start": 88.72,
+          "end": 88.88,
+          "confidence": 0.98
+        },
+        {
+          "text": "even",
+          "start": 88.88,
+          "end": 89.0,
+          "confidence": 0.98
+        },
+        {
+          "text": "letting",
+          "start": 89.0,
+          "end": 89.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 89.3,
+          "end": 89.48,
+          "confidence": 0.95
+        },
+        {
+          "text": "go",
+          "start": 89.48,
+          "end": 89.68,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 90.12,
+      "end": 94.8,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Am",
+          "start": 90.12,
+          "end": 90.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 90.34,
+          "end": 90.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 90.54,
+          "end": 91.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 91.1,
+          "end": 91.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "love",
+          "start": 91.56,
+          "end": 91.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 91.98,
+          "end": 92.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 92.34,
+          "end": 92.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 92.7,
+          "end": 93.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "that",
+          "start": 93.06,
+          "end": 93.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 93.4,
+          "end": 93.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "break",
+          "start": 93.76,
+          "end": 94.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 94.12,
+          "end": 94.46,
+          "confidence": 0.97
+        },
+        {
+          "text": "heart?",
+          "start": 94.46,
+          "end": 94.8,
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "start": 99.56,
+      "end": 103.46,
+      "text": " I wonder when you go if I stay on your mind",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "I",
+          "start": 99.56,
+          "end": 99.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "wonder",
+          "start": 99.7,
+          "end": 99.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "when",
+          "start": 99.96,
+          "end": 100.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 100.32,
+          "end": 100.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "go",
+          "start": 100.56,
+          "end": 100.88,
+          "confidence": 0.84
+        },
+        {
+          "text": "if",
+          "start": 100.88,
+          "end": 101.26,
+          "confidence": 0.91
+        },
+        {
+          "text": "I",
+          "start": 101.26,
+          "end": 101.62,
+          "confidence": 0.98
+        },
+        {
+          "text": "stay",
+          "start": 101.62,
+          "end": 102.12,
+          "confidence": 0.94
+        },
+        {
+          "text": "on",
+          "start": 102.12,
+          "end": 102.7,
+          "confidence": 0.97
+        },
+        {
+          "text": "your",
+          "start": 102.7,
+          "end": 103.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "mind",
+          "start": 103.08,
+          "end": 103.46,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 103.92,
+      "end": 107.72,
+      "text": " To complete that game that you win me every time",
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "To",
+          "start": 103.92,
+          "end": 104.1,
+          "confidence": 0.49
+        },
+        {
+          "text": "complete",
+          "start": 104.1,
+          "end": 104.5,
+          "confidence": 0.58
+        },
+        {
+          "text": "that",
+          "start": 104.5,
+          "end": 104.84,
+          "confidence": 0.95
+        },
+        {
+          "text": "game",
+          "start": 104.84,
+          "end": 105.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "that",
+          "start": 105.08,
+          "end": 105.28,
+          "confidence": 0.54
+        },
+        {
+          "text": "you",
+          "start": 105.28,
+          "end": 105.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "win",
+          "start": 105.46,
+          "end": 105.88,
+          "confidence": 0.4
+        },
+        {
+          "text": "me",
+          "start": 105.88,
+          "end": 106.36,
+          "confidence": 0.96
+        },
+        {
+          "text": "every",
+          "start": 106.36,
+          "end": 107.2,
+          "confidence": 0.75
+        },
+        {
+          "text": "time",
+          "start": 107.2,
+          "end": 107.72,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 108.18,
+      "end": 112.16,
+      "text": " Everyone before you was the way it's the time",
+      "confidence": 0.62,
+      "words": [
+        {
+          "text": "Everyone",
+          "start": 108.18,
+          "end": 108.62,
+          "confidence": 0.84
+        },
+        {
+          "text": "before",
+          "start": 108.62,
+          "end": 109.18,
+          "confidence": 0.87
+        },
+        {
+          "text": "you",
+          "start": 109.18,
+          "end": 109.58,
+          "confidence": 0.96
+        },
+        {
+          "text": "was",
+          "start": 109.58,
+          "end": 110.16,
+          "confidence": 0.39
+        },
+        {
+          "text": "the",
+          "start": 110.16,
+          "end": 110.68,
+          "confidence": 0.47
+        },
+        {
+          "text": "way",
+          "start": 110.68,
+          "end": 111.1,
+          "confidence": 0.89
+        },
+        {
+          "text": "it's",
+          "start": 111.1,
+          "end": 111.48,
+          "confidence": 0.6
+        },
+        {
+          "text": "the",
+          "start": 111.48,
+          "end": 111.68,
+          "confidence": 0.26
+        },
+        {
+          "text": "time",
+          "start": 111.68,
+          "end": 112.16,
+          "confidence": 0.74
+        }
+      ]
+    },
+    {
+      "start": 113.48,
+      "end": 114.6,
+      "text": " Hey you got me",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "Hey",
+          "start": 113.48,
+          "end": 113.7,
+          "confidence": 0.73
+        },
+        {
+          "text": "you",
+          "start": 113.7,
+          "end": 113.86,
+          "confidence": 0.5
+        },
+        {
+          "text": "got",
+          "start": 113.86,
+          "end": 114.2,
+          "confidence": 0.96
+        },
+        {
+          "text": "me",
+          "start": 114.2,
+          "end": 114.6,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 115.32,
+      "end": 121.1,
+      "text": " Center of attention, you know you can get whatever you want from me",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Center",
+          "start": 115.32,
+          "end": 116.5,
+          "confidence": 0.97
+        },
+        {
+          "text": "of",
+          "start": 116.5,
+          "end": 116.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "attention,",
+          "start": 116.98,
+          "end": 117.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 117.8,
+          "end": 117.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "know",
+          "start": 117.94,
+          "end": 118.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 118.2,
+          "end": 118.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "can",
+          "start": 118.44,
+          "end": 118.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "get",
+          "start": 118.72,
+          "end": 119.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "whatever",
+          "start": 119.02,
+          "end": 119.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 119.44,
+          "end": 120.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "want",
+          "start": 120.06,
+          "end": 120.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "from",
+          "start": 120.42,
+          "end": 120.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 120.68,
+          "end": 121.1,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 121.84,
+      "end": 123.42,
+      "text": " Whatever you want it baby",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Whatever",
+          "start": 121.84,
+          "end": 122.16,
+          "confidence": 0.78
+        },
+        {
+          "text": "you",
+          "start": 122.16,
+          "end": 122.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "want",
+          "start": 122.42,
+          "end": 122.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 122.7,
+          "end": 122.88,
+          "confidence": 0.98
+        },
+        {
+          "text": "baby",
+          "start": 122.88,
+          "end": 123.42,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 124.38,
+      "end": 127.78,
+      "text": " It's you with my reflection, I'm afraid of all the things",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "It's",
+          "start": 124.38,
+          "end": 124.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 124.7,
+          "end": 124.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 124.92,
+          "end": 125.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 125.18,
+          "end": 125.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "reflection,",
+          "start": 125.42,
+          "end": 126.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 126.32,
+          "end": 126.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "afraid",
+          "start": 126.6,
+          "end": 127.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 127.0,
+          "end": 127.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 127.3,
+          "end": 127.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 127.6,
+          "end": 127.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "things",
+          "start": 127.76,
+          "end": 127.78,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 127.78,
+      "end": 131.9,
+      "text": " It could do to me if I would have known it baby",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "It",
+          "start": 127.78,
+          "end": 128.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "could",
+          "start": 128.3,
+          "end": 128.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "do",
+          "start": 128.58,
+          "end": 128.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 128.88,
+          "end": 129.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 129.14,
+          "end": 129.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "if",
+          "start": 129.56,
+          "end": 130.5,
+          "confidence": 0.83
+        },
+        {
+          "text": "I",
+          "start": 130.5,
+          "end": 130.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "would",
+          "start": 130.66,
+          "end": 130.82,
+          "confidence": 0.8
+        },
+        {
+          "text": "have",
+          "start": 130.82,
+          "end": 130.94,
+          "confidence": 0.89
+        },
+        {
+          "text": "known",
+          "start": 130.94,
+          "end": 131.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 131.2,
+          "end": 131.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "baby",
+          "start": 131.4,
+          "end": 131.9,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 132.36,
+      "end": 136.4,
+      "text": " I would have stayed at home, cause I was doing better alone",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 132.36,
+          "end": 132.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "would",
+          "start": 132.54,
+          "end": 132.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 132.88,
+          "end": 133.08,
+          "confidence": 0.93
+        },
+        {
+          "text": "stayed",
+          "start": 133.08,
+          "end": 133.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 133.38,
+          "end": 133.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 133.96,
+          "end": 134.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 135.14,
+          "end": 135.28,
+          "confidence": 0.97
+        },
+        {
+          "text": "I",
+          "start": 135.28,
+          "end": 135.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 135.44,
+          "end": 135.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "doing",
+          "start": 135.58,
+          "end": 135.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "better",
+          "start": 135.74,
+          "end": 136.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "alone",
+          "start": 136.04,
+          "end": 136.4,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 136.66,
+      "end": 140.7,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "But",
+          "start": 136.66,
+          "end": 136.8,
+          "confidence": 0.86
+        },
+        {
+          "text": "when",
+          "start": 136.8,
+          "end": 137.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 137.08,
+          "end": 137.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "said",
+          "start": 137.32,
+          "end": 137.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "hello,",
+          "start": 137.62,
+          "end": 138.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 139.42,
+          "end": 139.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "know",
+          "start": 139.54,
+          "end": 139.68,
+          "confidence": 0.98
+        },
+        {
+          "text": "there",
+          "start": 139.68,
+          "end": 139.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 139.8,
+          "end": 139.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 139.94,
+          "end": 140.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "end",
+          "start": 140.08,
+          "end": 140.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 140.24,
+          "end": 140.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 140.38,
+          "end": 140.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 140.5,
+          "end": 140.7,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 140.82,
+      "end": 144.9,
+      "text": " I should have stayed at home, cause now they're even letting you go",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "I",
+          "start": 140.82,
+          "end": 141.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "should",
+          "start": 141.02,
+          "end": 141.36,
+          "confidence": 0.85
+        },
+        {
+          "text": "have",
+          "start": 141.36,
+          "end": 141.58,
+          "confidence": 0.87
+        },
+        {
+          "text": "stayed",
+          "start": 141.58,
+          "end": 141.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "at",
+          "start": 141.86,
+          "end": 142.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "home,",
+          "start": 142.46,
+          "end": 143.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 143.64,
+          "end": 143.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "now",
+          "start": 143.78,
+          "end": 143.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "they're",
+          "start": 143.94,
+          "end": 144.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "even",
+          "start": 144.1,
+          "end": 144.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "letting",
+          "start": 144.22,
+          "end": 144.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 144.5,
+          "end": 144.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "go",
+          "start": 144.7,
+          "end": 144.9,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 145.4,
+      "end": 150.14,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Am",
+          "start": 145.4,
+          "end": 145.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 145.6,
+          "end": 145.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 145.82,
+          "end": 146.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 146.32,
+          "end": 146.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "love",
+          "start": 146.72,
+          "end": 147.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 147.24,
+          "end": 147.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 147.58,
+          "end": 147.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 147.94,
+          "end": 148.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "that",
+          "start": 148.28,
+          "end": 148.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 148.64,
+          "end": 148.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "break",
+          "start": 148.98,
+          "end": 149.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 149.34,
+          "end": 149.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart?",
+          "start": 149.7,
+          "end": 150.14,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 150.68,
+      "end": 153.4,
+      "text": " Oh no, I was doing better alone",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 150.68,
+          "end": 150.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "no,",
+          "start": 150.96,
+          "end": 151.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 152.16,
+          "end": 152.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "was",
+          "start": 152.42,
+          "end": 152.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "doing",
+          "start": 152.58,
+          "end": 152.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "better",
+          "start": 152.76,
+          "end": 153.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "alone",
+          "start": 153.04,
+          "end": 153.4,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 153.6,
+      "end": 157.72,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "But",
+          "start": 153.6,
+          "end": 153.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "when",
+          "start": 153.8,
+          "end": 154.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 154.08,
+          "end": 154.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "said",
+          "start": 154.3,
+          "end": 154.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "hello,",
+          "start": 154.66,
+          "end": 155.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 156.38,
+          "end": 156.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 156.54,
+          "end": 156.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 156.66,
+          "end": 156.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 156.78,
+          "end": 156.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 156.94,
+          "end": 157.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "end",
+          "start": 157.08,
+          "end": 157.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 157.24,
+          "end": 157.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 157.5,
+          "end": 157.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 157.52,
+          "end": 157.72,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 157.86,
+      "end": 161.9,
+      "text": " I should have stayed at home, cause now they're even letting you go",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I",
+          "start": 157.86,
+          "end": 158.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "should",
+          "start": 158.04,
+          "end": 158.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 158.36,
+          "end": 158.58,
+          "confidence": 0.97
+        },
+        {
+          "text": "stayed",
+          "start": 158.58,
+          "end": 158.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 158.84,
+          "end": 159.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 159.44,
+          "end": 160.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 160.36,
+          "end": 160.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "now",
+          "start": 160.78,
+          "end": 160.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "they're",
+          "start": 160.92,
+          "end": 161.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "even",
+          "start": 161.06,
+          "end": 161.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "letting",
+          "start": 161.22,
+          "end": 161.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 161.48,
+          "end": 161.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "go",
+          "start": 161.7,
+          "end": 161.9,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 162.34,
+      "end": 167.12,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Am",
+          "start": 162.34,
+          "end": 162.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 162.56,
+          "end": 162.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 162.78,
+          "end": 163.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 163.32,
+          "end": 163.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "love",
+          "start": 163.72,
+          "end": 164.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 164.2,
+          "end": 164.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 164.54,
+          "end": 164.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 164.92,
+          "end": 165.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 165.28,
+          "end": 165.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 165.62,
+          "end": 165.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "break",
+          "start": 165.96,
+          "end": 166.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 166.32,
+          "end": 166.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart?",
+          "start": 166.7,
+          "end": 167.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 171.46,
+      "end": 174.24,
+      "text": " Oh no, I was doing better alone",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 171.46,
+          "end": 172.34,
+          "confidence": 0.33
+        },
+        {
+          "text": "no,",
+          "start": 172.34,
+          "end": 173.64,
+          "confidence": 0.62
+        },
+        {
+          "text": "I",
+          "start": 173.64,
+          "end": 173.66,
+          "confidence": 0.93
+        },
+        {
+          "text": "was",
+          "start": 173.66,
+          "end": 174.18,
+          "confidence": 0.82
+        },
+        {
+          "text": "doing",
+          "start": 174.18,
+          "end": 174.2,
+          "confidence": 0.91
+        },
+        {
+          "text": "better",
+          "start": 174.2,
+          "end": 174.22,
+          "confidence": 0.97
+        },
+        {
+          "text": "alone",
+          "start": 174.22,
+          "end": 174.24,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 174.24,
+      "end": 176.6,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "But",
+          "start": 174.24,
+          "end": 174.26,
+          "confidence": 0.35
+        },
+        {
+          "text": "when",
+          "start": 174.26,
+          "end": 174.28,
+          "confidence": 0.83
+        },
+        {
+          "text": "you",
+          "start": 174.28,
+          "end": 174.3,
+          "confidence": 0.97
+        },
+        {
+          "text": "said",
+          "start": 174.3,
+          "end": 174.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "hello,",
+          "start": 174.32,
+          "end": 174.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 174.34,
+          "end": 174.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 174.74,
+          "end": 174.84,
+          "confidence": 0.97
+        },
+        {
+          "text": "there",
+          "start": 174.84,
+          "end": 174.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 174.86,
+          "end": 175.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 175.0,
+          "end": 175.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "end",
+          "start": 175.02,
+          "end": 175.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 175.04,
+          "end": 175.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 175.36,
+          "end": 175.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 175.5,
+          "end": 176.6,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 179.34,
+      "end": 183.78,
+      "text": " I should have stayed at home, cause now they're even letting you go",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 179.34,
+          "end": 179.56,
+          "confidence": 0.97
+        },
+        {
+          "text": "should",
+          "start": 179.56,
+          "end": 179.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 179.94,
+          "end": 179.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "stayed",
+          "start": 179.96,
+          "end": 180.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "at",
+          "start": 180.32,
+          "end": 180.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 180.8,
+          "end": 182.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 182.1,
+          "end": 182.12,
+          "confidence": 0.98
+        },
+        {
+          "text": "now",
+          "start": 182.12,
+          "end": 182.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "they're",
+          "start": 182.22,
+          "end": 182.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "even",
+          "start": 182.94,
+          "end": 182.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "letting",
+          "start": 182.96,
+          "end": 183.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 183.38,
+          "end": 183.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "go",
+          "start": 183.76,
+          "end": 183.78,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 183.78,
+      "end": 184.18,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Am",
+          "start": 183.78,
+          "end": 183.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 183.8,
+          "end": 183.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 183.82,
+          "end": 183.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 183.84,
+          "end": 183.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "love",
+          "start": 183.86,
+          "end": 183.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 183.88,
+          "end": 183.9,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 183.9,
+          "end": 183.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "one",
+          "start": 183.92,
+          "end": 183.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 183.94,
+          "end": 183.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "could",
+          "start": 183.96,
+          "end": 183.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "break",
+          "start": 183.98,
+          "end": 184.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 184.0,
+          "end": 184.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart?",
+          "start": 184.02,
+          "end": 184.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 187.74,
+      "end": 189.62,
+      "text": " Oh no, I was doing better alone",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 187.74,
+          "end": 188.5,
+          "confidence": 0.74
+        },
+        {
+          "text": "no,",
+          "start": 188.5,
+          "end": 188.54,
+          "confidence": 0.87
+        },
+        {
+          "text": "I",
+          "start": 188.54,
+          "end": 188.6,
+          "confidence": 0.97
+        },
+        {
+          "text": "was",
+          "start": 188.6,
+          "end": 188.62,
+          "confidence": 0.95
+        },
+        {
+          "text": "doing",
+          "start": 188.62,
+          "end": 188.86,
+          "confidence": 0.96
+        },
+        {
+          "text": "better",
+          "start": 188.86,
+          "end": 189.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "alone",
+          "start": 189.16,
+          "end": 189.62,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 191.74,
+      "end": 193.78,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "But",
+          "start": 191.74,
+          "end": 191.76,
+          "confidence": 0.84
+        },
+        {
+          "text": "when",
+          "start": 191.76,
+          "end": 191.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 191.78,
+          "end": 191.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "said",
+          "start": 191.8,
+          "end": 191.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "hello,",
+          "start": 191.82,
+          "end": 191.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 192.48,
+          "end": 192.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 192.66,
+          "end": 192.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 192.76,
+          "end": 192.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 192.92,
+          "end": 193.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 193.04,
+          "end": 193.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "end",
+          "start": 193.18,
+          "end": 193.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 193.34,
+          "end": 193.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 193.46,
+          "end": 193.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 193.6,
+          "end": 193.78,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 196.22,
+      "end": 198.0,
+      "text": " I should have stayed at home, cause now they're even letting you go",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "I",
+          "start": 196.22,
+          "end": 196.24,
+          "confidence": 0.61
+        },
+        {
+          "text": "should",
+          "start": 196.24,
+          "end": 196.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 196.26,
+          "end": 196.28,
+          "confidence": 0.97
+        },
+        {
+          "text": "stayed",
+          "start": 196.28,
+          "end": 196.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "at",
+          "start": 196.3,
+          "end": 196.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 196.32,
+          "end": 196.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 196.46,
+          "end": 196.58,
+          "confidence": 0.97
+        },
+        {
+          "text": "now",
+          "start": 196.58,
+          "end": 197.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "they're",
+          "start": 197.02,
+          "end": 197.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "even",
+          "start": 197.22,
+          "end": 197.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "letting",
+          "start": 197.34,
+          "end": 197.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 197.6,
+          "end": 197.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "go",
+          "start": 197.8,
+          "end": 198.0,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 200.72,
+      "end": 203.24,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Am",
+          "start": 200.72,
+          "end": 200.74,
+          "confidence": 0.46
+        },
+        {
+          "text": "I",
+          "start": 200.74,
+          "end": 200.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 200.76,
+          "end": 200.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 200.78,
+          "end": 200.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "love",
+          "start": 200.8,
+          "end": 200.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 200.82,
+          "end": 200.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 200.88,
+          "end": 201.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 201.02,
+          "end": 201.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 201.36,
+          "end": 201.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 201.7,
+          "end": 202.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "break",
+          "start": 202.06,
+          "end": 202.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 202.4,
+          "end": 202.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart?",
+          "start": 202.76,
+          "end": 203.24,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 203.84,
+      "end": 206.52,
+      "text": " Oh no, I was doing better alone",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 203.84,
+          "end": 204.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "no,",
+          "start": 204.12,
+          "end": 204.54,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 205.4,
+          "end": 205.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "was",
+          "start": 205.52,
+          "end": 205.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "doing",
+          "start": 205.68,
+          "end": 205.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "better",
+          "start": 205.86,
+          "end": 206.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "alone",
+          "start": 206.14,
+          "end": 206.52,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 206.74,
+      "end": 210.92,
+      "text": " But when you said hello, I know there was the end of it all",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "But",
+          "start": 206.74,
+          "end": 206.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "when",
+          "start": 206.88,
+          "end": 207.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 207.16,
+          "end": 207.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "said",
+          "start": 207.36,
+          "end": 207.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "hello,",
+          "start": 207.7,
+          "end": 208.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 209.58,
+          "end": 209.68,
+          "confidence": 0.92
+        },
+        {
+          "text": "know",
+          "start": 209.68,
+          "end": 209.78,
+          "confidence": 0.96
+        },
+        {
+          "text": "there",
+          "start": 209.78,
+          "end": 209.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 209.8,
+          "end": 210.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 210.02,
+          "end": 210.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "end",
+          "start": 210.18,
+          "end": 210.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 210.34,
+          "end": 210.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 210.64,
+          "end": 210.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 210.66,
+          "end": 210.92,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 210.96,
+      "end": 215.02,
+      "text": " I should have stayed at home, cause now they're even letting you go",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 210.96,
+          "end": 211.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "should",
+          "start": 211.14,
+          "end": 211.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 211.4,
+          "end": 211.64,
+          "confidence": 0.95
+        },
+        {
+          "text": "stayed",
+          "start": 211.64,
+          "end": 212.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 212.02,
+          "end": 212.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "home,",
+          "start": 212.6,
+          "end": 213.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 213.72,
+          "end": 213.82,
+          "confidence": 0.97
+        },
+        {
+          "text": "now",
+          "start": 213.82,
+          "end": 214.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "they're",
+          "start": 214.0,
+          "end": 214.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "even",
+          "start": 214.18,
+          "end": 214.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "letting",
+          "start": 214.3,
+          "end": 214.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 214.58,
+          "end": 214.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "go",
+          "start": 214.78,
+          "end": 215.02,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 215.42,
+      "end": 220.3,
+      "text": " Am I falling in love with the one that could break my heart?",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Am",
+          "start": 215.42,
+          "end": 215.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 215.64,
+          "end": 215.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 215.84,
+          "end": 216.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 216.4,
+          "end": 216.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "love",
+          "start": 216.88,
+          "end": 217.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "with",
+          "start": 217.3,
+          "end": 217.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 217.68,
+          "end": 218.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 218.02,
+          "end": 218.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 218.4,
+          "end": 218.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 218.72,
+          "end": 219.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "break",
+          "start": 219.06,
+          "end": 219.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 219.42,
+          "end": 219.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart?",
+          "start": 219.78,
+          "end": 220.3,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8171840310096741,
+    "zh": 0.006020959001034498,
+    "de": 0.010752042755484581,
+    "es": 0.011224563233554363,
+    "ru": 0.014614147134125233,
+    "ko": 0.06102413311600685,
+    "fr": 0.00820587296038866,
+    "ja": 0.00408589094877243,
+    "pt": 0.010145597159862518,
+    "tr": 0.0024329237639904022,
+    "pl": 0.0017189818900078535,
+    "ca": 0.00020473044423852116,
+    "nl": 0.00439861323684454,
+    "ar": 0.0009626580867916346,
+    "sv": 0.001333540421910584,
+    "it": 0.0022538492921739817,
+    "id": 0.0010294567327946424,
+    "hi": 0.0007630627951584756,
+    "fi": 0.0002054897922789678,
+    "vi": 0.0035088807344436646,
+    "he": 5.5822420108597726e-05,
+    "uk": 0.0002691392437554896,
+    "el": 0.00032617946271784604,
+    "ms": 0.0008243212359957397,
+    "cs": 0.00025331517099402845,
+    "ro": 0.00037750182673335075,
+    "da": 0.0008763112709857523,
+    "hu": 0.0003720506501849741,
+    "ta": 0.000201659815502353,
+    "no": 0.000705406186170876,
+    "th": 0.0012770405737683177,
+    "ur": 8.050741598708555e-05,
+    "hr": 3.89198939956259e-05,
+    "bg": 4.467318649403751e-05,
+    "lt": 6.424971161322901e-06,
+    "la": 0.0011352581204846501,
+    "mi": 0.00029809074476361275,
+    "ml": 0.0002874825440812856,
+    "cy": 0.0005459769745357335,
+    "sk": 5.0261529395356774e-05,
+    "te": 9.579594916431233e-05,
+    "fa": 2.084308653138578e-05,
+    "lv": 1.3886146007280331e-05,
+    "bn": 3.939835005439818e-05,
+    "sr": 3.425977865845198e-06,
+    "az": 2.5194019599439343e-06,
+    "sl": 1.8077764252666384e-05,
+    "kn": 8.549887979825144e-07,
+    "et": 4.979935965820914e-06,
+    "mk": 1.2084441323167994e-06,
+    "br": 8.246471406891942e-05,
+    "eu": 1.5136607544263825e-05,
+    "is": 3.5114382626488805e-05,
+    "hy": 2.9314562652871246e-06,
+    "ne": 1.0296804248355329e-05,
+    "mn": 1.3008389032620471e-05,
+    "bs": 1.6659480024827644e-05,
+    "kk": 2.6926531973003875e-06,
+    "sq": 3.2885184282349655e-06,
+    "sw": 2.0189987480989657e-05,
+    "gl": 8.030659228097647e-05,
+    "mr": 1.4442039173445664e-06,
+    "pa": 1.1421522003729478e-06,
+    "si": 0.00012624653754755855,
+    "km": 0.0018178938189521432,
+    "sn": 0.0002570862416177988,
+    "yo": 3.778178870561533e-05,
+    "so": 1.0771947245302727e-07,
+    "af": 1.0581959941191599e-05,
+    "oc": 1.1353717127349228e-05,
+    "ka": 3.307476106328977e-07,
+    "be": 7.444884886353975e-06,
+    "tg": 4.6757522298435106e-09,
+    "sd": 4.022577286377782e-06,
+    "gu": 1.5623767524175491e-07,
+    "am": 1.0768782487957651e-07,
+    "yi": 1.1374308087397367e-05,
+    "lo": 6.8694675974256825e-06,
+    "uz": 2.4793297970227e-10,
+    "fo": 1.7891245079226792e-05,
+    "ht": 3.9797243516659364e-05,
+    "ps": 6.939974355191225e-07,
+    "tk": 2.215094108137805e-09,
+    "nn": 0.023673461750149727,
+    "mt": 5.223152470534842e-07,
+    "sa": 2.417261930531822e-05,
+    "lb": 8.6515692387934e-09,
+    "my": 3.907516293111257e-05,
+    "bo": 4.05678747483762e-06,
+    "tl": 0.0009989147074520588,
+    "mg": 5.300582750500382e-10,
+    "as": 1.475699718866963e-06,
+    "tt": 2.851864078223798e-09,
+    "haw": 0.0006327201845124364,
+    "ln": 6.345931069517974e-07,
+    "ha": 1.4714814922101027e-09,
+    "ba": 2.394768161551042e-09,
+    "jw": 0.0016937636537477374,
+    "su": 1.3205485593914545e-08
+  }
+}

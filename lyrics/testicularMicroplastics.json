@@ -1,0 +1,1618 @@
+Detected language: English
+{
+  "text": " Let's go back to the good ol' days for a few tunes. I quit drinking, I look fantastic. I just do drugs and microplastics. Wake up and stop, this time I might need help. This is just my job that makes me wanna... I quit drinking, I look fantastic. I quit my job, lost all desire. I quit my job, lost all desire. I quit my job, lost all desire. Wait till the sunshine's telling. That's just fucking, that's just fucking, that's just so beautiful. Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party? Would you like to party?",
+  "segments": [
+    {
+      "start": 22.94,
+      "end": 25.42,
+      "text": " Let's go back to the good ol' days for a few tunes.",
+      "confidence": 0.68,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 22.94,
+          "end": 23.56,
+          "confidence": 0.2
+        },
+        {
+          "text": "go",
+          "start": 23.56,
+          "end": 23.7,
+          "confidence": 0.94
+        },
+        {
+          "text": "back",
+          "start": 23.7,
+          "end": 23.9,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 23.9,
+          "end": 24.08,
+          "confidence": 0.79
+        },
+        {
+          "text": "the",
+          "start": 24.08,
+          "end": 24.14,
+          "confidence": 0.94
+        },
+        {
+          "text": "good",
+          "start": 24.14,
+          "end": 24.34,
+          "confidence": 0.96
+        },
+        {
+          "text": "ol'",
+          "start": 24.34,
+          "end": 24.62,
+          "confidence": 0.55
+        },
+        {
+          "text": "days",
+          "start": 24.62,
+          "end": 24.68,
+          "confidence": 0.98
+        },
+        {
+          "text": "for",
+          "start": 24.68,
+          "end": 24.9,
+          "confidence": 0.81
+        },
+        {
+          "text": "a",
+          "start": 24.9,
+          "end": 25.02,
+          "confidence": 0.86
+        },
+        {
+          "text": "few",
+          "start": 25.02,
+          "end": 25.14,
+          "confidence": 0.92
+        },
+        {
+          "text": "tunes.",
+          "start": 25.14,
+          "end": 25.42,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 38.42,
+      "end": 40.7,
+      "text": " I quit drinking, I look fantastic.",
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "I",
+          "start": 38.42,
+          "end": 38.5,
+          "confidence": 0.26
+        },
+        {
+          "text": "quit",
+          "start": 38.5,
+          "end": 38.8,
+          "confidence": 0.97
+        },
+        {
+          "text": "drinking,",
+          "start": 38.8,
+          "end": 39.26,
+          "confidence": 0.91
+        },
+        {
+          "text": "I",
+          "start": 39.56,
+          "end": 39.8,
+          "confidence": 0.97
+        },
+        {
+          "text": "look",
+          "start": 39.8,
+          "end": 39.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "fantastic.",
+          "start": 39.98,
+          "end": 40.7,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 41.04,
+      "end": 43.7,
+      "text": " I just do drugs and microplastics.",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "I",
+          "start": 41.04,
+          "end": 41.26,
+          "confidence": 0.44
+        },
+        {
+          "text": "just",
+          "start": 41.26,
+          "end": 41.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "do",
+          "start": 41.48,
+          "end": 41.68,
+          "confidence": 0.98
+        },
+        {
+          "text": "drugs",
+          "start": 41.68,
+          "end": 42.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "and",
+          "start": 42.2,
+          "end": 42.72,
+          "confidence": 0.81
+        },
+        {
+          "text": "microplastics.",
+          "start": 42.72,
+          "end": 43.7,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 44.14,
+      "end": 46.72,
+      "text": " Wake up and stop, this time I might need help.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Wake",
+          "start": 44.14,
+          "end": 44.3,
+          "confidence": 0.6
+        },
+        {
+          "text": "up",
+          "start": 44.3,
+          "end": 44.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "and",
+          "start": 44.5,
+          "end": 44.62,
+          "confidence": 0.98
+        },
+        {
+          "text": "stop,",
+          "start": 44.62,
+          "end": 45.12,
+          "confidence": 0.91
+        },
+        {
+          "text": "this",
+          "start": 45.5,
+          "end": 45.68,
+          "confidence": 0.93
+        },
+        {
+          "text": "time",
+          "start": 45.68,
+          "end": 45.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 45.88,
+          "end": 46.06,
+          "confidence": 0.85
+        },
+        {
+          "text": "might",
+          "start": 46.06,
+          "end": 46.2,
+          "confidence": 0.92
+        },
+        {
+          "text": "need",
+          "start": 46.2,
+          "end": 46.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "help.",
+          "start": 46.4,
+          "end": 46.72,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 47.0,
+      "end": 49.1,
+      "text": " This is just my job that makes me wanna...",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "This",
+          "start": 47.0,
+          "end": 47.04,
+          "confidence": 0.26
+        },
+        {
+          "text": "is",
+          "start": 47.04,
+          "end": 47.12,
+          "confidence": 0.85
+        },
+        {
+          "text": "just",
+          "start": 47.12,
+          "end": 47.28,
+          "confidence": 0.84
+        },
+        {
+          "text": "my",
+          "start": 47.28,
+          "end": 47.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "job",
+          "start": 47.5,
+          "end": 47.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "that",
+          "start": 47.92,
+          "end": 48.24,
+          "confidence": 0.51
+        },
+        {
+          "text": "makes",
+          "start": 48.24,
+          "end": 48.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 48.44,
+          "end": 48.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "wanna...",
+          "start": 48.62,
+          "end": 49.1,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "start": 95.08,
+      "end": 106.52,
+      "text": " I quit drinking, I look fantastic.",
+      "confidence": 0.58,
+      "words": [
+        {
+          "text": "I",
+          "start": 95.08,
+          "end": 98.8,
+          "confidence": 0.13
+        },
+        {
+          "text": "quit",
+          "start": 98.8,
+          "end": 99.76,
+          "confidence": 0.45
+        },
+        {
+          "text": "drinking,",
+          "start": 99.76,
+          "end": 106.42,
+          "confidence": 0.74
+        },
+        {
+          "text": "I",
+          "start": 106.42,
+          "end": 106.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "look",
+          "start": 106.48,
+          "end": 106.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "fantastic.",
+          "start": 106.5,
+          "end": 106.52,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 123.1,
+      "end": 125.4,
+      "text": " I quit my job, lost all desire.",
+      "confidence": 0.76,
+      "words": [
+        {
+          "text": "I",
+          "start": 123.1,
+          "end": 123.16,
+          "confidence": 0.48
+        },
+        {
+          "text": "quit",
+          "start": 123.16,
+          "end": 123.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 123.42,
+          "end": 123.58,
+          "confidence": 0.96
+        },
+        {
+          "text": "job,",
+          "start": 123.58,
+          "end": 124.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "lost",
+          "start": 124.42,
+          "end": 124.72,
+          "confidence": 0.58
+        },
+        {
+          "text": "all",
+          "start": 124.72,
+          "end": 125.02,
+          "confidence": 0.72
+        },
+        {
+          "text": "desire.",
+          "start": 125.02,
+          "end": 125.4,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "start": 147.08,
+      "end": 155.0,
+      "text": " I quit my job, lost all desire.",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "I",
+          "start": 147.08,
+          "end": 147.1,
+          "confidence": 0.62
+        },
+        {
+          "text": "quit",
+          "start": 147.1,
+          "end": 147.12,
+          "confidence": 0.58
+        },
+        {
+          "text": "my",
+          "start": 147.12,
+          "end": 147.14,
+          "confidence": 0.8
+        },
+        {
+          "text": "job,",
+          "start": 147.14,
+          "end": 147.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "lost",
+          "start": 154.48,
+          "end": 154.56,
+          "confidence": 0.94
+        },
+        {
+          "text": "all",
+          "start": 154.56,
+          "end": 154.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "desire.",
+          "start": 154.98,
+          "end": 155.0,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 155.0,
+      "end": 166.94,
+      "text": " I quit my job, lost all desire.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "I",
+          "start": 155.0,
+          "end": 156.82,
+          "confidence": 0.58
+        },
+        {
+          "text": "quit",
+          "start": 156.82,
+          "end": 158.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 158.46,
+          "end": 158.8,
+          "confidence": 0.9
+        },
+        {
+          "text": "job,",
+          "start": 158.8,
+          "end": 159.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "lost",
+          "start": 159.24,
+          "end": 159.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "all",
+          "start": 159.66,
+          "end": 166.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "desire.",
+          "start": 166.46,
+          "end": 166.94,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 183.56,
+      "end": 186.22,
+      "text": " Wait till the sunshine's telling.",
+      "confidence": 0.54,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 183.56,
+          "end": 184.02,
+          "confidence": 0.36
+        },
+        {
+          "text": "till",
+          "start": 184.02,
+          "end": 184.72,
+          "confidence": 0.75
+        },
+        {
+          "text": "the",
+          "start": 184.72,
+          "end": 185.14,
+          "confidence": 0.96
+        },
+        {
+          "text": "sunshine's",
+          "start": 185.14,
+          "end": 185.98,
+          "confidence": 0.66
+        },
+        {
+          "text": "telling.",
+          "start": 185.98,
+          "end": 186.22,
+          "confidence": 0.23
+        }
+      ]
+    },
+    {
+      "start": 186.62,
+      "end": 189.1,
+      "text": " That's just fucking, that's just fucking, that's just so beautiful.",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "That's",
+          "start": 186.62,
+          "end": 186.82,
+          "confidence": 0.57
+        },
+        {
+          "text": "just",
+          "start": 186.82,
+          "end": 186.94,
+          "confidence": 0.94
+        },
+        {
+          "text": "fucking,",
+          "start": 186.94,
+          "end": 187.22,
+          "confidence": 0.7
+        },
+        {
+          "text": "that's",
+          "start": 187.34,
+          "end": 187.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "just",
+          "start": 187.52,
+          "end": 187.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "fucking,",
+          "start": 187.64,
+          "end": 187.92,
+          "confidence": 0.95
+        },
+        {
+          "text": "that's",
+          "start": 188.06,
+          "end": 188.24,
+          "confidence": 0.98
+        },
+        {
+          "text": "just",
+          "start": 188.24,
+          "end": 188.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "so",
+          "start": 188.36,
+          "end": 188.7,
+          "confidence": 0.62
+        },
+        {
+          "text": "beautiful.",
+          "start": 188.7,
+          "end": 189.1,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 189.52,
+      "end": 190.58,
+      "text": " Would you like to party?",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Would",
+          "start": 189.52,
+          "end": 189.66,
+          "confidence": 0.77
+        },
+        {
+          "text": "you",
+          "start": 189.66,
+          "end": 189.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "like",
+          "start": 189.8,
+          "end": 190.0,
+          "confidence": 0.94
+        },
+        {
+          "text": "to",
+          "start": 190.0,
+          "end": 190.22,
+          "confidence": 0.9
+        },
+        {
+          "text": "party?",
+          "start": 190.22,
+          "end": 190.58,
+          "confidence": 0.91
+        }
+      ]
+    },
+    {
+      "start": 190.84,
+      "end": 193.4,
+      "text": " Would you like to party?",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Would",
+          "start": 190.84,
+          "end": 192.52,
+          "confidence": 0.8
+        },
+        {
+          "text": "you",
+          "start": 192.52,
+          "end": 192.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 192.72,
+          "end": 192.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 192.88,
+          "end": 193.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 193.1,
+          "end": 193.4,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 193.52,
+      "end": 194.48,
+      "text": " Would you like to party?",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Would",
+          "start": 193.52,
+          "end": 193.74,
+          "confidence": 0.8
+        },
+        {
+          "text": "you",
+          "start": 193.74,
+          "end": 193.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 193.88,
+          "end": 194.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 194.16,
+          "end": 194.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 194.46,
+          "end": 194.48,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 195.34,
+      "end": 196.48,
+      "text": " Would you like to party?",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Would",
+          "start": 195.34,
+          "end": 195.52,
+          "confidence": 0.75
+        },
+        {
+          "text": "you",
+          "start": 195.52,
+          "end": 195.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 195.7,
+          "end": 196.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 196.04,
+          "end": 196.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 196.06,
+          "end": 196.48,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 196.84,
+      "end": 198.88,
+      "text": " Would you like to party?",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Would",
+          "start": 196.84,
+          "end": 197.12,
+          "confidence": 0.66
+        },
+        {
+          "text": "you",
+          "start": 197.12,
+          "end": 197.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 197.58,
+          "end": 197.62,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 197.62,
+          "end": 198.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 198.04,
+          "end": 198.88,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 198.88,
+      "end": 199.24,
+      "text": " Would you like to party?",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Would",
+          "start": 198.88,
+          "end": 198.9,
+          "confidence": 0.67
+        },
+        {
+          "text": "you",
+          "start": 198.9,
+          "end": 198.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "like",
+          "start": 198.92,
+          "end": 198.94,
+          "confidence": 0.96
+        },
+        {
+          "text": "to",
+          "start": 198.94,
+          "end": 199.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 199.02,
+          "end": 199.24,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 202.28,
+      "end": 203.28,
+      "text": " Would you like to party?",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "Would",
+          "start": 202.28,
+          "end": 202.46,
+          "confidence": 0.68
+        },
+        {
+          "text": "you",
+          "start": 202.46,
+          "end": 202.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 202.62,
+          "end": 203.1,
+          "confidence": 0.96
+        },
+        {
+          "text": "to",
+          "start": 203.1,
+          "end": 203.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 203.26,
+          "end": 203.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 203.28,
+      "end": 203.38,
+      "text": " Would you like to party?",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Would",
+          "start": 203.28,
+          "end": 203.3,
+          "confidence": 0.74
+        },
+        {
+          "text": "you",
+          "start": 203.3,
+          "end": 203.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 203.32,
+          "end": 203.34,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 203.34,
+          "end": 203.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 203.36,
+          "end": 203.38,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 205.22,
+      "end": 206.22,
+      "text": " Would you like to party?",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Would",
+          "start": 205.22,
+          "end": 205.42,
+          "confidence": 0.8
+        },
+        {
+          "text": "you",
+          "start": 205.42,
+          "end": 205.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 205.54,
+          "end": 205.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 205.86,
+          "end": 205.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 205.88,
+          "end": 206.22,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 206.74,
+      "end": 208.3,
+      "text": " Would you like to party?",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Would",
+          "start": 206.74,
+          "end": 207.22,
+          "confidence": 0.77
+        },
+        {
+          "text": "you",
+          "start": 207.22,
+          "end": 207.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 207.42,
+          "end": 207.64,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 207.64,
+          "end": 207.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 207.76,
+          "end": 208.3,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 208.56,
+      "end": 210.65,
+      "text": " Would you like to party?",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Would",
+          "start": 208.56,
+          "end": 209.66,
+          "confidence": 0.72
+        },
+        {
+          "text": "you",
+          "start": 209.66,
+          "end": 209.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 209.68,
+          "end": 209.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 209.7,
+          "end": 209.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 209.72,
+          "end": 210.65,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 210.65,
+      "end": 212.74,
+      "text": " Would you like to party?",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Would",
+          "start": 210.65,
+          "end": 211.84,
+          "confidence": 0.64
+        },
+        {
+          "text": "you",
+          "start": 211.84,
+          "end": 212.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 212.34,
+          "end": 212.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 212.7,
+          "end": 212.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 212.72,
+          "end": 212.74,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 213.54,
+      "end": 214.18,
+      "text": " Would you like to party?",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Would",
+          "start": 213.54,
+          "end": 213.78,
+          "confidence": 0.63
+        },
+        {
+          "text": "you",
+          "start": 213.78,
+          "end": 213.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 213.96,
+          "end": 214.02,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 214.02,
+          "end": 214.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 214.04,
+          "end": 214.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 214.5,
+      "end": 216.9,
+      "text": " Would you like to party?",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Would",
+          "start": 214.5,
+          "end": 214.82,
+          "confidence": 0.61
+        },
+        {
+          "text": "you",
+          "start": 214.82,
+          "end": 215.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 215.84,
+          "end": 216.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 216.44,
+          "end": 216.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 216.8,
+          "end": 216.9,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 216.9,
+      "end": 217.82,
+      "text": " Would you like to party?",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Would",
+          "start": 216.9,
+          "end": 217.24,
+          "confidence": 0.71
+        },
+        {
+          "text": "you",
+          "start": 217.24,
+          "end": 217.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 217.26,
+          "end": 217.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 217.78,
+          "end": 217.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 217.8,
+          "end": 217.82,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 219.92,
+      "end": 221.04,
+      "text": " Would you like to party?",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Would",
+          "start": 219.92,
+          "end": 220.12,
+          "confidence": 0.71
+        },
+        {
+          "text": "you",
+          "start": 220.12,
+          "end": 220.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 220.22,
+          "end": 220.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 220.34,
+          "end": 220.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 220.36,
+          "end": 221.04,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 221.3,
+      "end": 222.8,
+      "text": " Would you like to party?",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Would",
+          "start": 221.3,
+          "end": 221.68,
+          "confidence": 0.88
+        },
+        {
+          "text": "you",
+          "start": 221.68,
+          "end": 221.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 221.94,
+          "end": 222.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 222.36,
+          "end": 222.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 222.6,
+          "end": 222.8,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 222.8,
+      "end": 224.44,
+      "text": " Would you like to party?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Would",
+          "start": 222.8,
+          "end": 223.66,
+          "confidence": 0.94
+        },
+        {
+          "text": "you",
+          "start": 223.66,
+          "end": 224.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 224.06,
+          "end": 224.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 224.2,
+          "end": 224.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 224.32,
+          "end": 224.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 225.2,
+      "end": 226.12,
+      "text": " Would you like to party?",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Would",
+          "start": 225.2,
+          "end": 225.48,
+          "confidence": 0.89
+        },
+        {
+          "text": "you",
+          "start": 225.48,
+          "end": 225.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 225.84,
+          "end": 225.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 225.86,
+          "end": 226.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 226.08,
+          "end": 226.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 227.24,
+      "end": 228.62,
+      "text": " Would you like to party?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Would",
+          "start": 227.24,
+          "end": 227.8,
+          "confidence": 0.95
+        },
+        {
+          "text": "you",
+          "start": 227.8,
+          "end": 227.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 227.94,
+          "end": 228.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 228.2,
+          "end": 228.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 228.52,
+          "end": 228.62,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 229.44,
+      "end": 230.42,
+      "text": " Would you like to party?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Would",
+          "start": 229.44,
+          "end": 230.12,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 230.12,
+          "end": 230.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 230.16,
+          "end": 230.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 230.18,
+          "end": 230.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 230.2,
+          "end": 230.42,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 231.1,
+      "end": 232.84,
+      "text": " Would you like to party?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Would",
+          "start": 231.1,
+          "end": 231.7,
+          "confidence": 0.97
+        },
+        {
+          "text": "you",
+          "start": 231.7,
+          "end": 232.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 232.04,
+          "end": 232.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 232.06,
+          "end": 232.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 232.08,
+          "end": 232.84,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 233.18,
+      "end": 234.78,
+      "text": " Would you like to party?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Would",
+          "start": 233.18,
+          "end": 233.84,
+          "confidence": 0.94
+        },
+        {
+          "text": "you",
+          "start": 233.84,
+          "end": 233.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 233.86,
+          "end": 234.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 234.24,
+          "end": 234.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "party?",
+          "start": 234.4,
+          "end": 234.78,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 234.88,
+      "end": 236.42,
+      "text": " Would you like to party?",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Would",
+          "start": 234.88,
+          "end": 235.34,
+          "confidence": 0.91
+        },
+        {
+          "text": "you",
+          "start": 235.34,
+          "end": 235.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 235.36,
+          "end": 235.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 235.92,
+          "end": 236.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "party?",
+          "start": 236.0,
+          "end": 236.42,
+          "confidence": 0.99
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8156179785728455,
+    "zh": 0.0022554676979780197,
+    "de": 0.009728861041367054,
+    "es": 0.00423078890889883,
+    "ru": 0.015338465571403503,
+    "ko": 0.009729594923555851,
+    "fr": 0.007778755389153957,
+    "ja": 0.011685037054121494,
+    "pt": 0.008449526503682137,
+    "tr": 0.0009313035989180207,
+    "pl": 0.0026298193261027336,
+    "ca": 0.00018084335897583514,
+    "nl": 0.004290285054594278,
+    "ar": 0.0008093614596873522,
+    "sv": 0.0022563475649803877,
+    "it": 0.0030428594909608364,
+    "id": 0.0010895709274336696,
+    "hi": 0.0005814725300297141,
+    "fi": 0.0005821710801683366,
+    "vi": 0.001960799330845475,
+    "he": 6.31683724350296e-05,
+    "uk": 0.00013544516696128994,
+    "el": 0.0003012313100043684,
+    "ms": 0.0007256120443344116,
+    "cs": 0.000262596586253494,
+    "ro": 0.0008550346246920526,
+    "da": 9.054710244527087e-05,
+    "hu": 0.0007700879359617829,
+    "ta": 0.0002098011609632522,
+    "no": 0.0002499275142326951,
+    "th": 0.0005342256627045572,
+    "ur": 2.8219919840921648e-05,
+    "hr": 7.971915329108015e-05,
+    "bg": 0.00016400091408286244,
+    "lt": 1.1777429790527094e-05,
+    "la": 0.0021614711731672287,
+    "mi": 0.0001673245569691062,
+    "ml": 0.0004010720003861934,
+    "cy": 0.0020150355994701385,
+    "sk": 2.5165421902784146e-05,
+    "te": 9.672446321928874e-05,
+    "fa": 2.2734369849786162e-05,
+    "lv": 2.454044260957744e-05,
+    "bn": 2.6847863409784622e-05,
+    "sr": 4.158700903644785e-06,
+    "az": 9.734670811667456e-07,
+    "sl": 5.520847116713412e-05,
+    "kn": 1.3432743344310438e-06,
+    "et": 8.830137630866375e-06,
+    "mk": 1.4438467133004451e-06,
+    "br": 0.0003496637800708413,
+    "eu": 1.6245878214249387e-05,
+    "is": 1.5761219401611015e-05,
+    "hy": 1.2838147085858509e-05,
+    "ne": 3.4531958590378053e-06,
+    "mn": 1.0234291039523669e-05,
+    "bs": 2.6030154913314618e-05,
+    "kk": 1.46049444538221e-06,
+    "sq": 5.007565505366074e-06,
+    "sw": 4.304001049604267e-05,
+    "gl": 7.866830856073648e-05,
+    "mr": 2.6376969799457584e-06,
+    "pa": 4.5211049837234896e-07,
+    "si": 0.00048074233927764,
+    "km": 0.041865646839141846,
+    "sn": 0.001966518582776189,
+    "yo": 0.00012565120414365083,
+    "so": 9.51180965103049e-08,
+    "af": 9.229112038156018e-06,
+    "oc": 1.9477884052321315e-05,
+    "ka": 3.125078649190982e-07,
+    "be": 1.1204627298866399e-05,
+    "tg": 9.074263118691306e-09,
+    "sd": 2.7644830424833344e-06,
+    "gu": 1.6000737446120183e-07,
+    "am": 3.0372402193279413e-07,
+    "yi": 1.3826568647345994e-05,
+    "lo": 1.040727238432737e-05,
+    "uz": 2.4994106784248515e-10,
+    "fo": 7.30268129700562e-06,
+    "ht": 3.322989141452126e-05,
+    "ps": 1.93557343663997e-06,
+    "tk": 1.5206091941166733e-09,
+    "nn": 0.035937465727329254,
+    "mt": 9.750920071383007e-07,
+    "sa": 6.0862264945171773e-05,
+    "lb": 1.8196818274418547e-08,
+    "my": 2.6229859940940514e-05,
+    "bo": 1.2055256775056478e-06,
+    "tl": 0.0007766661001369357,
+    "mg": 5.809464020956057e-10,
+    "as": 6.933759664207173e-07,
+    "tt": 3.5201936920969956e-09,
+    "haw": 0.0005570834618993104,
+    "ln": 8.592823519393278e-07,
+    "ha": 4.415430243653873e-09,
+    "ba": 1.7702638244188051e-09,
+    "jw": 0.004860042128711939,
+    "su": 3.710083973373912e-08
+  }
+}

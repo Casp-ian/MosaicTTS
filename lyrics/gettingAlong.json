@@ -1,0 +1,2598 @@
+Detected language: English
+{
+  "text": " I don't believe you when you say no more So catch your breath when you hit the floor And I'll leave you, then I'll take you back Back and forth on a one-way track Let the walls come down, turn the lights down low I can't hold on and I can't let go So believe me, I'm walking out that door Cause why get less, when you could get more I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it You don't believe me, I don't believe you too You let me down, I let down you if you need me Baby, that's just fine, get off your back, I'm killing my thing I'm part of the solution, but I'm part of the pollution Wanna really make a difference, wanna start a revolution, but believe me I'm gonna close that door, cause why get less, when you could get more I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it I start to cross my fingers, wish for something new Be lying in my sleep, and I've been double crossing you Doin' all your glory, wanna like a song, just keep on moving I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it Yeah, now there ain't nothing to it, now there ain't nothing to it Now there ain't nothing to it, now there ain't nothing to it",
+  "segments": [
+    {
+      "start": 9.94,
+      "end": 15.06,
+      "text": " I don't believe you when you say no more So catch your breath when you hit the floor",
+      "confidence": 0.7,
+      "words": [
+        {
+          "text": "I",
+          "start": 9.94,
+          "end": 9.96,
+          "confidence": 0.08
+        },
+        {
+          "text": "don't",
+          "start": 9.96,
+          "end": 10.22,
+          "confidence": 0.74
+        },
+        {
+          "text": "believe",
+          "start": 10.22,
+          "end": 10.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 10.56,
+          "end": 11.02,
+          "confidence": 0.97
+        },
+        {
+          "text": "when",
+          "start": 11.02,
+          "end": 11.48,
+          "confidence": 0.39
+        },
+        {
+          "text": "you",
+          "start": 11.48,
+          "end": 11.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "say",
+          "start": 11.6,
+          "end": 11.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "no",
+          "start": 11.86,
+          "end": 12.18,
+          "confidence": 0.96
+        },
+        {
+          "text": "more",
+          "start": 12.18,
+          "end": 12.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "So",
+          "start": 12.56,
+          "end": 12.86,
+          "confidence": 0.37
+        },
+        {
+          "text": "catch",
+          "start": 12.86,
+          "end": 13.2,
+          "confidence": 0.91
+        },
+        {
+          "text": "your",
+          "start": 13.2,
+          "end": 13.52,
+          "confidence": 0.9
+        },
+        {
+          "text": "breath",
+          "start": 13.52,
+          "end": 13.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "when",
+          "start": 13.8,
+          "end": 14.08,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 14.08,
+          "end": 14.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "hit",
+          "start": 14.22,
+          "end": 14.46,
+          "confidence": 0.35
+        },
+        {
+          "text": "the",
+          "start": 14.46,
+          "end": 14.74,
+          "confidence": 0.9
+        },
+        {
+          "text": "floor",
+          "start": 14.74,
+          "end": 15.06,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 15.16,
+      "end": 20.16,
+      "text": " And I'll leave you, then I'll take you back Back and forth on a one-way track",
+      "confidence": 0.81,
+      "words": [
+        {
+          "text": "And",
+          "start": 15.16,
+          "end": 15.34,
+          "confidence": 0.55
+        },
+        {
+          "text": "I'll",
+          "start": 15.34,
+          "end": 15.58,
+          "confidence": 0.73
+        },
+        {
+          "text": "leave",
+          "start": 15.58,
+          "end": 15.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "you,",
+          "start": 15.76,
+          "end": 16.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "then",
+          "start": 16.36,
+          "end": 16.62,
+          "confidence": 0.96
+        },
+        {
+          "text": "I'll",
+          "start": 16.62,
+          "end": 16.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "take",
+          "start": 16.78,
+          "end": 17.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 17.0,
+          "end": 17.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "back",
+          "start": 17.32,
+          "end": 17.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "Back",
+          "start": 17.74,
+          "end": 18.22,
+          "confidence": 0.2
+        },
+        {
+          "text": "and",
+          "start": 18.22,
+          "end": 18.58,
+          "confidence": 0.9
+        },
+        {
+          "text": "forth",
+          "start": 18.58,
+          "end": 18.92,
+          "confidence": 0.97
+        },
+        {
+          "text": "on",
+          "start": 18.92,
+          "end": 19.18,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 19.18,
+          "end": 19.3,
+          "confidence": 0.66
+        },
+        {
+          "text": "one-way",
+          "start": 19.3,
+          "end": 19.84,
+          "confidence": 0.82
+        },
+        {
+          "text": "track",
+          "start": 19.84,
+          "end": 20.16,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 25.23,
+      "text": " Let the walls come down, turn the lights down low I can't hold on and I can't let go",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "Let",
+          "start": 20.3,
+          "end": 20.44,
+          "confidence": 0.87
+        },
+        {
+          "text": "the",
+          "start": 20.44,
+          "end": 20.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "walls",
+          "start": 20.56,
+          "end": 20.82,
+          "confidence": 0.97
+        },
+        {
+          "text": "come",
+          "start": 20.82,
+          "end": 21.12,
+          "confidence": 0.97
+        },
+        {
+          "text": "down,",
+          "start": 21.12,
+          "end": 21.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "turn",
+          "start": 21.62,
+          "end": 21.72,
+          "confidence": 0.53
+        },
+        {
+          "text": "the",
+          "start": 21.72,
+          "end": 21.9,
+          "confidence": 0.94
+        },
+        {
+          "text": "lights",
+          "start": 21.9,
+          "end": 22.08,
+          "confidence": 0.98
+        },
+        {
+          "text": "down",
+          "start": 22.08,
+          "end": 22.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "low",
+          "start": 22.4,
+          "end": 22.78,
+          "confidence": 0.86
+        },
+        {
+          "text": "I",
+          "start": 22.78,
+          "end": 23.14,
+          "confidence": 0.75
+        },
+        {
+          "text": "can't",
+          "start": 23.14,
+          "end": 23.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "hold",
+          "start": 23.48,
+          "end": 23.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 23.74,
+          "end": 24.08,
+          "confidence": 0.96
+        },
+        {
+          "text": "and",
+          "start": 24.08,
+          "end": 24.28,
+          "confidence": 0.72
+        },
+        {
+          "text": "I",
+          "start": 24.28,
+          "end": 24.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "can't",
+          "start": 24.44,
+          "end": 24.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "let",
+          "start": 24.72,
+          "end": 24.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "go",
+          "start": 24.94,
+          "end": 25.23,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 25.23,
+      "end": 30.52,
+      "text": " So believe me, I'm walking out that door Cause why get less, when you could get more",
+      "confidence": 0.79,
+      "words": [
+        {
+          "text": "So",
+          "start": 25.23,
+          "end": 25.48,
+          "confidence": 0.97
+        },
+        {
+          "text": "believe",
+          "start": 25.48,
+          "end": 25.88,
+          "confidence": 0.96
+        },
+        {
+          "text": "me,",
+          "start": 25.88,
+          "end": 26.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "I'm",
+          "start": 26.56,
+          "end": 26.66,
+          "confidence": 0.8
+        },
+        {
+          "text": "walking",
+          "start": 26.66,
+          "end": 26.9,
+          "confidence": 0.79
+        },
+        {
+          "text": "out",
+          "start": 26.9,
+          "end": 27.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 27.22,
+          "end": 27.52,
+          "confidence": 0.97
+        },
+        {
+          "text": "door",
+          "start": 27.52,
+          "end": 27.94,
+          "confidence": 0.97
+        },
+        {
+          "text": "Cause",
+          "start": 27.94,
+          "end": 28.24,
+          "confidence": 0.34
+        },
+        {
+          "text": "why",
+          "start": 28.24,
+          "end": 28.48,
+          "confidence": 0.84
+        },
+        {
+          "text": "get",
+          "start": 28.48,
+          "end": 28.8,
+          "confidence": 0.55
+        },
+        {
+          "text": "less,",
+          "start": 28.8,
+          "end": 29.16,
+          "confidence": 0.97
+        },
+        {
+          "text": "when",
+          "start": 29.44,
+          "end": 29.52,
+          "confidence": 0.44
+        },
+        {
+          "text": "you",
+          "start": 29.52,
+          "end": 29.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "could",
+          "start": 29.66,
+          "end": 29.82,
+          "confidence": 0.48
+        },
+        {
+          "text": "get",
+          "start": 29.82,
+          "end": 30.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "more",
+          "start": 30.04,
+          "end": 30.52,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 31.3,
+      "end": 35.48,
+      "text": " I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.74,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 31.3,
+          "end": 31.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "getting",
+          "start": 31.42,
+          "end": 31.7,
+          "confidence": 0.72
+        },
+        {
+          "text": "a",
+          "start": 31.7,
+          "end": 31.96,
+          "confidence": 0.61
+        },
+        {
+          "text": "look,",
+          "start": 31.96,
+          "end": 32.18,
+          "confidence": 0.3
+        },
+        {
+          "text": "ha",
+          "start": 32.3,
+          "end": 32.44,
+          "confidence": 0.25
+        },
+        {
+          "text": "ha,",
+          "start": 32.44,
+          "end": 32.7,
+          "confidence": 0.37
+        },
+        {
+          "text": "cause",
+          "start": 33.02,
+          "end": 33.16,
+          "confidence": 0.74
+        },
+        {
+          "text": "there",
+          "start": 33.16,
+          "end": 33.36,
+          "confidence": 0.71
+        },
+        {
+          "text": "ain't",
+          "start": 33.36,
+          "end": 33.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "nothing",
+          "start": 33.86,
+          "end": 33.88,
+          "confidence": 0.75
+        },
+        {
+          "text": "to",
+          "start": 33.88,
+          "end": 34.14,
+          "confidence": 0.98
+        },
+        {
+          "text": "it,",
+          "start": 34.14,
+          "end": 34.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "there",
+          "start": 34.5,
+          "end": 34.6,
+          "confidence": 0.67
+        },
+        {
+          "text": "ain't",
+          "start": 34.6,
+          "end": 35.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "nothing",
+          "start": 35.0,
+          "end": 35.18,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 35.18,
+          "end": 35.38,
+          "confidence": 0.94
+        },
+        {
+          "text": "it",
+          "start": 35.38,
+          "end": 35.48,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 35.52,
+      "end": 40.72,
+      "text": " So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "So",
+          "start": 35.52,
+          "end": 35.72,
+          "confidence": 0.98
+        },
+        {
+          "text": "come",
+          "start": 35.72,
+          "end": 35.94,
+          "confidence": 0.93
+        },
+        {
+          "text": "on,",
+          "start": 35.94,
+          "end": 36.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "I'm",
+          "start": 36.42,
+          "end": 36.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "getting",
+          "start": 36.56,
+          "end": 36.8,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 36.8,
+          "end": 37.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "look,",
+          "start": 37.08,
+          "end": 37.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha",
+          "start": 37.38,
+          "end": 37.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "ha,",
+          "start": 37.52,
+          "end": 37.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 38.14,
+          "end": 38.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "there",
+          "start": 38.28,
+          "end": 38.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 38.5,
+          "end": 38.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 38.96,
+          "end": 38.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 38.98,
+          "end": 39.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "it,",
+          "start": 39.24,
+          "end": 39.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 39.68,
+          "end": 39.7,
+          "confidence": 0.97
+        },
+        {
+          "text": "ain't",
+          "start": 39.7,
+          "end": 40.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "nothing",
+          "start": 40.1,
+          "end": 40.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 40.28,
+          "end": 40.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 40.54,
+          "end": 40.72,
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 49.15,
+      "text": " You don't believe me, I don't believe you too You let me down, I let down you if you need me",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "You",
+          "start": 43.0,
+          "end": 43.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "don't",
+          "start": 43.24,
+          "end": 43.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "believe",
+          "start": 43.44,
+          "end": 43.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "me,",
+          "start": 43.74,
+          "end": 44.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 44.38,
+          "end": 44.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "don't",
+          "start": 44.48,
+          "end": 44.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "believe",
+          "start": 44.74,
+          "end": 45.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 45.04,
+          "end": 45.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "too",
+          "start": 45.4,
+          "end": 45.72,
+          "confidence": 0.72
+        },
+        {
+          "text": "You",
+          "start": 45.72,
+          "end": 46.1,
+          "confidence": 0.58
+        },
+        {
+          "text": "let",
+          "start": 46.1,
+          "end": 46.32,
+          "confidence": 0.88
+        },
+        {
+          "text": "me",
+          "start": 46.32,
+          "end": 46.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "down,",
+          "start": 46.62,
+          "end": 47.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 47.3,
+          "end": 47.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "let",
+          "start": 47.4,
+          "end": 47.62,
+          "confidence": 0.96
+        },
+        {
+          "text": "down",
+          "start": 47.62,
+          "end": 47.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 47.94,
+          "end": 48.24,
+          "confidence": 0.97
+        },
+        {
+          "text": "if",
+          "start": 48.24,
+          "end": 48.54,
+          "confidence": 0.59
+        },
+        {
+          "text": "you",
+          "start": 48.54,
+          "end": 48.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "need",
+          "start": 48.68,
+          "end": 48.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 48.9,
+          "end": 49.15,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 49.15,
+      "end": 53.48,
+      "text": " Baby, that's just fine, get off your back, I'm killing my thing",
+      "confidence": 0.68,
+      "words": [
+        {
+          "text": "Baby,",
+          "start": 49.15,
+          "end": 49.88,
+          "confidence": 0.84
+        },
+        {
+          "text": "that's",
+          "start": 50.1,
+          "end": 50.32,
+          "confidence": 0.77
+        },
+        {
+          "text": "just",
+          "start": 50.32,
+          "end": 50.5,
+          "confidence": 0.97
+        },
+        {
+          "text": "fine,",
+          "start": 50.5,
+          "end": 50.9,
+          "confidence": 0.98
+        },
+        {
+          "text": "get",
+          "start": 51.0,
+          "end": 51.26,
+          "confidence": 0.98
+        },
+        {
+          "text": "off",
+          "start": 51.26,
+          "end": 51.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "your",
+          "start": 51.48,
+          "end": 51.76,
+          "confidence": 0.96
+        },
+        {
+          "text": "back,",
+          "start": 51.76,
+          "end": 52.1,
+          "confidence": 0.96
+        },
+        {
+          "text": "I'm",
+          "start": 52.44,
+          "end": 52.52,
+          "confidence": 0.55
+        },
+        {
+          "text": "killing",
+          "start": 52.52,
+          "end": 52.74,
+          "confidence": 0.16
+        },
+        {
+          "text": "my",
+          "start": 52.74,
+          "end": 53.26,
+          "confidence": 0.54
+        },
+        {
+          "text": "thing",
+          "start": 53.26,
+          "end": 53.48,
+          "confidence": 0.41
+        }
+      ]
+    },
+    {
+      "start": 53.56,
+      "end": 55.88,
+      "text": " I'm part of the solution, but I'm part of the pollution",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 53.56,
+          "end": 53.84,
+          "confidence": 0.79
+        },
+        {
+          "text": "part",
+          "start": 53.84,
+          "end": 54.0,
+          "confidence": 0.94
+        },
+        {
+          "text": "of",
+          "start": 54.0,
+          "end": 54.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 54.12,
+          "end": 54.26,
+          "confidence": 0.89
+        },
+        {
+          "text": "solution,",
+          "start": 54.26,
+          "end": 54.6,
+          "confidence": 0.86
+        },
+        {
+          "text": "but",
+          "start": 54.74,
+          "end": 54.92,
+          "confidence": 0.48
+        },
+        {
+          "text": "I'm",
+          "start": 54.92,
+          "end": 55.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "part",
+          "start": 55.08,
+          "end": 55.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 55.26,
+          "end": 55.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 55.4,
+          "end": 55.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "pollution",
+          "start": 55.52,
+          "end": 55.88,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 55.94,
+      "end": 59.34,
+      "text": " Wanna really make a difference, wanna start a revolution, but believe me",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Wanna",
+          "start": 55.94,
+          "end": 56.26,
+          "confidence": 0.49
+        },
+        {
+          "text": "really",
+          "start": 56.26,
+          "end": 56.56,
+          "confidence": 0.95
+        },
+        {
+          "text": "make",
+          "start": 56.56,
+          "end": 56.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 56.8,
+          "end": 56.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "difference,",
+          "start": 56.96,
+          "end": 57.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "wanna",
+          "start": 57.28,
+          "end": 57.5,
+          "confidence": 0.97
+        },
+        {
+          "text": "start",
+          "start": 57.5,
+          "end": 57.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 57.74,
+          "end": 57.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "revolution,",
+          "start": 57.94,
+          "end": 58.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "but",
+          "start": 58.56,
+          "end": 58.72,
+          "confidence": 0.66
+        },
+        {
+          "text": "believe",
+          "start": 58.72,
+          "end": 59.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "me",
+          "start": 59.04,
+          "end": 59.34,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 59.7,
+      "end": 63.66,
+      "text": " I'm gonna close that door, cause why get less, when you could get more",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 59.7,
+          "end": 59.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "gonna",
+          "start": 59.84,
+          "end": 60.06,
+          "confidence": 0.48
+        },
+        {
+          "text": "close",
+          "start": 60.06,
+          "end": 60.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 60.38,
+          "end": 60.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "door,",
+          "start": 60.7,
+          "end": 61.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 61.22,
+          "end": 61.42,
+          "confidence": 0.67
+        },
+        {
+          "text": "why",
+          "start": 61.42,
+          "end": 61.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "get",
+          "start": 61.7,
+          "end": 62.02,
+          "confidence": 0.85
+        },
+        {
+          "text": "less,",
+          "start": 62.02,
+          "end": 62.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "when",
+          "start": 62.66,
+          "end": 62.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 62.7,
+          "end": 62.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 62.86,
+          "end": 63.02,
+          "confidence": 0.98
+        },
+        {
+          "text": "get",
+          "start": 63.02,
+          "end": 63.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "more",
+          "start": 63.22,
+          "end": 63.66,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 64.5,
+      "end": 68.5,
+      "text": " I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 64.5,
+          "end": 64.66,
+          "confidence": 0.95
+        },
+        {
+          "text": "getting",
+          "start": 64.66,
+          "end": 64.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 64.88,
+          "end": 65.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "look,",
+          "start": 65.12,
+          "end": 65.36,
+          "confidence": 0.98
+        },
+        {
+          "text": "ha",
+          "start": 65.46,
+          "end": 65.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha,",
+          "start": 65.62,
+          "end": 65.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 66.2,
+          "end": 66.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 66.36,
+          "end": 66.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 66.56,
+          "end": 67.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 67.08,
+          "end": 67.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 67.1,
+          "end": 67.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 67.34,
+          "end": 67.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 67.74,
+          "end": 67.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 67.8,
+          "end": 68.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 68.24,
+          "end": 68.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 68.34,
+          "end": 68.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 68.48,
+          "end": 68.5,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 68.5,
+      "end": 73.9,
+      "text": " So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "So",
+          "start": 68.5,
+          "end": 68.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "come",
+          "start": 68.92,
+          "end": 69.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "on,",
+          "start": 69.14,
+          "end": 69.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 69.62,
+          "end": 69.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "getting",
+          "start": 69.76,
+          "end": 70.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 70.0,
+          "end": 70.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "look,",
+          "start": 70.26,
+          "end": 70.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha",
+          "start": 70.6,
+          "end": 70.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha,",
+          "start": 70.78,
+          "end": 70.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 71.28,
+          "end": 71.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 71.46,
+          "end": 71.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 71.68,
+          "end": 72.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 72.18,
+          "end": 72.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 72.2,
+          "end": 72.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 72.44,
+          "end": 72.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 72.8,
+          "end": 72.9,
+          "confidence": 0.98
+        },
+        {
+          "text": "ain't",
+          "start": 72.9,
+          "end": 73.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 73.34,
+          "end": 73.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 73.46,
+          "end": 73.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 73.74,
+          "end": 73.9,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 74.12,
+      "end": 79.18,
+      "text": " I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 74.12,
+          "end": 74.84,
+          "confidence": 0.93
+        },
+        {
+          "text": "getting",
+          "start": 74.84,
+          "end": 75.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 75.1,
+          "end": 75.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "look,",
+          "start": 75.34,
+          "end": 75.56,
+          "confidence": 0.96
+        },
+        {
+          "text": "ha",
+          "start": 75.6,
+          "end": 75.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "ha,",
+          "start": 75.82,
+          "end": 76.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "cause",
+          "start": 76.44,
+          "end": 76.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "there",
+          "start": 76.56,
+          "end": 76.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 76.76,
+          "end": 77.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 77.28,
+          "end": 77.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 77.3,
+          "end": 77.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "it,",
+          "start": 77.54,
+          "end": 77.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 77.94,
+          "end": 78.0,
+          "confidence": 0.97
+        },
+        {
+          "text": "ain't",
+          "start": 78.0,
+          "end": 78.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 78.42,
+          "end": 78.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 78.58,
+          "end": 78.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 78.82,
+          "end": 79.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 79.18,
+      "end": 84.1,
+      "text": " So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "So",
+          "start": 79.18,
+          "end": 79.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "come",
+          "start": 79.2,
+          "end": 79.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "on,",
+          "start": 79.36,
+          "end": 79.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 79.84,
+          "end": 79.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "getting",
+          "start": 79.96,
+          "end": 80.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 80.2,
+          "end": 80.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "look,",
+          "start": 80.44,
+          "end": 80.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha",
+          "start": 80.76,
+          "end": 81.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha,",
+          "start": 81.0,
+          "end": 81.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 81.58,
+          "end": 81.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 81.7,
+          "end": 81.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 81.88,
+          "end": 82.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 82.38,
+          "end": 82.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 82.4,
+          "end": 82.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 82.66,
+          "end": 82.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 83.06,
+          "end": 83.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 83.1,
+          "end": 83.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 83.5,
+          "end": 83.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 83.68,
+          "end": 83.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 83.92,
+          "end": 84.1,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 84.14,
+      "end": 89.76,
+      "text": " I start to cross my fingers, wish for something new",
+      "confidence": 0.79,
+      "words": [
+        {
+          "text": "I",
+          "start": 84.14,
+          "end": 84.74,
+          "confidence": 0.3
+        },
+        {
+          "text": "start",
+          "start": 84.74,
+          "end": 85.86,
+          "confidence": 0.39
+        },
+        {
+          "text": "to",
+          "start": 85.86,
+          "end": 86.12,
+          "confidence": 0.97
+        },
+        {
+          "text": "cross",
+          "start": 86.12,
+          "end": 86.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 86.4,
+          "end": 86.72,
+          "confidence": 0.91
+        },
+        {
+          "text": "fingers,",
+          "start": 86.72,
+          "end": 87.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "wish",
+          "start": 88.2,
+          "end": 88.5,
+          "confidence": 0.96
+        },
+        {
+          "text": "for",
+          "start": 88.5,
+          "end": 88.74,
+          "confidence": 0.96
+        },
+        {
+          "text": "something",
+          "start": 88.74,
+          "end": 89.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "new",
+          "start": 89.2,
+          "end": 89.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 90.62,
+      "end": 94.94,
+      "text": " Be lying in my sleep, and I've been double crossing you",
+      "confidence": 0.72,
+      "words": [
+        {
+          "text": "Be",
+          "start": 90.62,
+          "end": 90.8,
+          "confidence": 0.27
+        },
+        {
+          "text": "lying",
+          "start": 90.8,
+          "end": 91.16,
+          "confidence": 0.76
+        },
+        {
+          "text": "in",
+          "start": 91.16,
+          "end": 91.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 91.52,
+          "end": 91.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "sleep,",
+          "start": 91.78,
+          "end": 92.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "and",
+          "start": 92.6,
+          "end": 92.8,
+          "confidence": 0.81
+        },
+        {
+          "text": "I've",
+          "start": 92.8,
+          "end": 93.0,
+          "confidence": 0.68
+        },
+        {
+          "text": "been",
+          "start": 93.0,
+          "end": 93.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "double",
+          "start": 93.16,
+          "end": 93.58,
+          "confidence": 0.55
+        },
+        {
+          "text": "crossing",
+          "start": 93.58,
+          "end": 94.38,
+          "confidence": 0.53
+        },
+        {
+          "text": "you",
+          "start": 94.38,
+          "end": 94.94,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 95.86,
+      "end": 101.8,
+      "text": " Doin' all your glory, wanna like a song, just keep on moving",
+      "confidence": 0.53,
+      "words": [
+        {
+          "text": "Doin'",
+          "start": 95.86,
+          "end": 96.58,
+          "confidence": 0.56
+        },
+        {
+          "text": "all",
+          "start": 96.58,
+          "end": 96.66,
+          "confidence": 0.34
+        },
+        {
+          "text": "your",
+          "start": 96.66,
+          "end": 96.92,
+          "confidence": 0.44
+        },
+        {
+          "text": "glory,",
+          "start": 96.92,
+          "end": 97.54,
+          "confidence": 0.13
+        },
+        {
+          "text": "wanna",
+          "start": 98.2,
+          "end": 98.76,
+          "confidence": 0.37
+        },
+        {
+          "text": "like",
+          "start": 98.76,
+          "end": 99.22,
+          "confidence": 0.48
+        },
+        {
+          "text": "a",
+          "start": 99.22,
+          "end": 99.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "song,",
+          "start": 99.48,
+          "end": 100.02,
+          "confidence": 0.58
+        },
+        {
+          "text": "just",
+          "start": 100.68,
+          "end": 100.92,
+          "confidence": 0.93
+        },
+        {
+          "text": "keep",
+          "start": 100.92,
+          "end": 101.2,
+          "confidence": 0.98
+        },
+        {
+          "text": "on",
+          "start": 101.2,
+          "end": 101.48,
+          "confidence": 0.76
+        },
+        {
+          "text": "moving",
+          "start": 101.48,
+          "end": 101.8,
+          "confidence": 0.54
+        }
+      ]
+    },
+    {
+      "start": 105.2,
+      "end": 109.48,
+      "text": " I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 105.2,
+          "end": 105.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "getting",
+          "start": 105.5,
+          "end": 105.72,
+          "confidence": 0.92
+        },
+        {
+          "text": "a",
+          "start": 105.72,
+          "end": 105.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "look,",
+          "start": 105.98,
+          "end": 106.2,
+          "confidence": 0.98
+        },
+        {
+          "text": "ha",
+          "start": 106.4,
+          "end": 106.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "ha,",
+          "start": 106.46,
+          "end": 106.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 107.06,
+          "end": 107.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 107.2,
+          "end": 107.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 107.4,
+          "end": 107.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 107.68,
+          "end": 107.92,
+          "confidence": 0.96
+        },
+        {
+          "text": "to",
+          "start": 107.92,
+          "end": 108.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 108.18,
+          "end": 108.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 108.54,
+          "end": 108.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "ain't",
+          "start": 108.7,
+          "end": 109.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 109.0,
+          "end": 109.2,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 109.2,
+          "end": 109.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 109.42,
+          "end": 109.48,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 109.48,
+      "end": 114.92,
+      "text": " So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "So",
+          "start": 109.48,
+          "end": 109.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "come",
+          "start": 109.76,
+          "end": 109.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "on,",
+          "start": 109.98,
+          "end": 110.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 110.42,
+          "end": 110.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "getting",
+          "start": 110.58,
+          "end": 110.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 110.84,
+          "end": 111.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "look,",
+          "start": 111.12,
+          "end": 111.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "ha",
+          "start": 111.34,
+          "end": 111.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha,",
+          "start": 111.56,
+          "end": 111.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 112.16,
+          "end": 112.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 112.32,
+          "end": 112.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 112.5,
+          "end": 113.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 113.02,
+          "end": 113.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 113.04,
+          "end": 113.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 113.28,
+          "end": 113.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 113.5,
+          "end": 113.62,
+          "confidence": 0.81
+        },
+        {
+          "text": "ain't",
+          "start": 113.62,
+          "end": 114.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 114.3,
+          "end": 114.32,
+          "confidence": 0.96
+        },
+        {
+          "text": "to",
+          "start": 114.32,
+          "end": 114.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 114.58,
+          "end": 114.92,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 115.6,
+      "end": 119.5,
+      "text": " I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 115.6,
+          "end": 115.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "getting",
+          "start": 115.7,
+          "end": 115.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 115.96,
+          "end": 116.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "look,",
+          "start": 116.24,
+          "end": 116.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha",
+          "start": 116.5,
+          "end": 116.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "ha,",
+          "start": 116.68,
+          "end": 116.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 117.28,
+          "end": 117.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 117.44,
+          "end": 117.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 117.62,
+          "end": 117.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 117.98,
+          "end": 118.14,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 118.14,
+          "end": 118.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 118.4,
+          "end": 118.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 118.8,
+          "end": 118.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 118.88,
+          "end": 119.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 119.3,
+          "end": 119.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 119.38,
+          "end": 119.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 119.48,
+          "end": 119.5,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 119.5,
+      "end": 124.92,
+      "text": " So come on, I'm getting a look, ha ha, cause there ain't nothing to it, there ain't nothing to it",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "So",
+          "start": 119.5,
+          "end": 119.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "come",
+          "start": 119.96,
+          "end": 120.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "on,",
+          "start": 120.18,
+          "end": 120.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 120.68,
+          "end": 120.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "getting",
+          "start": 120.84,
+          "end": 121.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 121.06,
+          "end": 121.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "look,",
+          "start": 121.34,
+          "end": 121.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha",
+          "start": 121.64,
+          "end": 121.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "ha,",
+          "start": 121.78,
+          "end": 122.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 122.44,
+          "end": 122.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "there",
+          "start": 122.56,
+          "end": 122.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 122.74,
+          "end": 123.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 123.24,
+          "end": 123.26,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 123.26,
+          "end": 123.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 123.5,
+          "end": 123.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "there",
+          "start": 123.76,
+          "end": 124.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 124.0,
+          "end": 124.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 124.5,
+          "end": 124.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 124.52,
+          "end": 124.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 124.78,
+          "end": 124.92,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 124.92,
+      "end": 130.34,
+      "text": " Yeah, now there ain't nothing to it, now there ain't nothing to it",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 124.92,
+          "end": 125.38,
+          "confidence": 0.55
+        },
+        {
+          "text": "now",
+          "start": 126.22,
+          "end": 126.4,
+          "confidence": 0.36
+        },
+        {
+          "text": "there",
+          "start": 126.4,
+          "end": 126.6,
+          "confidence": 0.95
+        },
+        {
+          "text": "ain't",
+          "start": 126.6,
+          "end": 126.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "nothing",
+          "start": 126.92,
+          "end": 127.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 127.08,
+          "end": 127.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "it,",
+          "start": 127.36,
+          "end": 127.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "now",
+          "start": 128.64,
+          "end": 128.94,
+          "confidence": 0.88
+        },
+        {
+          "text": "there",
+          "start": 128.94,
+          "end": 129.12,
+          "confidence": 0.98
+        },
+        {
+          "text": "ain't",
+          "start": 129.12,
+          "end": 129.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 129.42,
+          "end": 129.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 129.64,
+          "end": 129.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 129.9,
+          "end": 130.34,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 131.26,
+      "end": 135.36,
+      "text": " Now there ain't nothing to it, now there ain't nothing to it",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Now",
+          "start": 131.26,
+          "end": 131.48,
+          "confidence": 0.91
+        },
+        {
+          "text": "there",
+          "start": 131.48,
+          "end": 131.62,
+          "confidence": 0.97
+        },
+        {
+          "text": "ain't",
+          "start": 131.62,
+          "end": 132.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 132.1,
+          "end": 132.18,
+          "confidence": 0.94
+        },
+        {
+          "text": "to",
+          "start": 132.18,
+          "end": 132.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "it,",
+          "start": 132.44,
+          "end": 132.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "now",
+          "start": 133.46,
+          "end": 134.04,
+          "confidence": 0.94
+        },
+        {
+          "text": "there",
+          "start": 134.04,
+          "end": 134.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "ain't",
+          "start": 134.22,
+          "end": 134.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "nothing",
+          "start": 134.7,
+          "end": 134.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 134.74,
+          "end": 134.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 134.98,
+          "end": 135.36,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8988129496574402,
+    "zh": 0.004908049013465643,
+    "de": 0.006522958632558584,
+    "es": 0.003698023036122322,
+    "ru": 0.02644074335694313,
+    "ko": 0.00747773889452219,
+    "fr": 0.006246681325137615,
+    "ja": 0.011134807951748371,
+    "pt": 0.007935098372399807,
+    "tr": 0.0006042985478416085,
+    "pl": 0.0016536925686523318,
+    "ca": 0.0003135552688036114,
+    "nl": 0.002861521439626813,
+    "ar": 0.00017088529421016574,
+    "sv": 0.0011004469124600291,
+    "it": 0.0017558916006237268,
+    "id": 0.00021394770010374486,
+    "hi": 8.5562547610607e-05,
+    "fi": 0.00038578370003961027,
+    "vi": 0.0011741520138457417,
+    "he": 3.1122719519771636e-05,
+    "uk": 2.479368049534969e-05,
+    "el": 0.00012239789066370577,
+    "ms": 0.00016667443560436368,
+    "cs": 0.00020227243658155203,
+    "ro": 7.390035170828924e-05,
+    "da": 0.00026759409229271114,
+    "hu": 0.0005031899199821055,
+    "ta": 6.400392885552719e-05,
+    "no": 0.0002068276226054877,
+    "th": 0.0004222620336804539,
+    "ur": 5.0386406655889004e-06,
+    "hr": 9.391662024427205e-05,
+    "bg": 2.7495711037772708e-05,
+    "lt": 1.0879220099013764e-05,
+    "la": 0.0004750441003125161,
+    "mi": 0.000601614301558584,
+    "ml": 0.0001250772038474679,
+    "cy": 0.005978010594844818,
+    "sk": 3.214749085600488e-05,
+    "te": 3.054952321690507e-05,
+    "fa": 3.121202325928607e-06,
+    "lv": 3.252804890507832e-05,
+    "bn": 1.2943292858835775e-05,
+    "sr": 1.8915745840786258e-06,
+    "az": 1.116799808187352e-06,
+    "sl": 3.2857755286386237e-05,
+    "kn": 3.651786073533003e-07,
+    "et": 4.806322976946831e-06,
+    "mk": 1.8256145040140836e-06,
+    "br": 0.0002221377653768286,
+    "eu": 0.0002535238745622337,
+    "is": 2.751583087956533e-05,
+    "hy": 2.709777618292719e-06,
+    "ne": 7.41847361496184e-06,
+    "mn": 5.018432148062857e-06,
+    "bs": 3.857860792777501e-05,
+    "kk": 2.451565933370148e-06,
+    "sq": 4.2168571781076025e-06,
+    "sw": 2.834312545019202e-05,
+    "gl": 7.073834422044456e-05,
+    "mr": 5.618252316708094e-07,
+    "pa": 2.22157140683521e-07,
+    "si": 3.590195774449967e-05,
+    "km": 0.0031738984398543835,
+    "sn": 0.000290450407192111,
+    "yo": 3.2101874239742756e-05,
+    "so": 7.193296625018775e-08,
+    "af": 2.968457920360379e-06,
+    "oc": 9.832587238634005e-06,
+    "ka": 2.9453923389155534e-07,
+    "be": 1.714583413559012e-05,
+    "tg": 2.1360526680780367e-09,
+    "sd": 8.39708548028284e-07,
+    "gu": 8.635266368628436e-08,
+    "am": 8.704189013997166e-08,
+    "yi": 8.984336091089062e-06,
+    "lo": 2.261272811665549e-06,
+    "uz": 1.1559565804564187e-10,
+    "fo": 3.321422354929382e-06,
+    "ht": 1.695877108431887e-05,
+    "ps": 3.4028263939944736e-07,
+    "tk": 1.2770069446332855e-09,
+    "nn": 0.0021603975910693407,
+    "mt": 2.173967743601679e-07,
+    "sa": 3.924026259483071e-06,
+    "lb": 1.1839461855345235e-08,
+    "my": 8.772419823799282e-05,
+    "bo": 4.8341248657379765e-06,
+    "tl": 0.00010919867781922221,
+    "mg": 5.132376745820011e-10,
+    "as": 9.557953717376222e-07,
+    "tt": 3.857599129020173e-09,
+    "haw": 0.00010049479169538245,
+    "ln": 2.9039068749625585e-07,
+    "ha": 6.509214278693776e-10,
+    "ba": 2.0017083546264303e-09,
+    "jw": 0.00021972699323669076,
+    "su": 8.334980705626549e-09
+  }
+}

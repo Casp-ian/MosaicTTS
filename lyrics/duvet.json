@@ -1,0 +1,2208 @@
+Detected language: English
+{
+  "text": " And you don't seem to understand The shame you seem done on this man And all the fears you hold today Will turn to whisper in your ear And you know what they say, I'ma hurt you And you know that it means so much And you don't even think of them I am falling, I am fading My heart, I've lost it all And you don't seem to lie in time The shame that I can read your mind And all the things that I read there Can't help but smile, the people say And you know I don't mean to hurt you But you know that it means so much And you don't even think of them I am falling, I am fading I am drowning, how may to breathe I am hurting, I have lost it all I am losing, how may to breathe I am falling I am falling I am falling I am falling I am falling I am drowning, how may to breathe I am hurting, I have lost it all I am losing, how may to breathe Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh I am hurting, I have lost it all, I am losing, tell me to breathe",
+  "segments": [
+    {
+      "start": 0.42,
+      "end": 3.84,
+      "text": " And you don't seem to understand",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "And",
+          "start": 0.42,
+          "end": 1.36,
+          "confidence": 0.29
+        },
+        {
+          "text": "you",
+          "start": 1.36,
+          "end": 1.68,
+          "confidence": 0.97
+        },
+        {
+          "text": "don't",
+          "start": 1.68,
+          "end": 2.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "seem",
+          "start": 2.0,
+          "end": 2.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 2.28,
+          "end": 2.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "understand",
+          "start": 2.6,
+          "end": 3.84,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 6.26,
+      "end": 9.46,
+      "text": " The shame you seem done on this man",
+      "confidence": 0.61,
+      "words": [
+        {
+          "text": "The",
+          "start": 6.26,
+          "end": 6.44,
+          "confidence": 0.19
+        },
+        {
+          "text": "shame",
+          "start": 6.44,
+          "end": 6.76,
+          "confidence": 0.92
+        },
+        {
+          "text": "you",
+          "start": 6.76,
+          "end": 7.06,
+          "confidence": 0.94
+        },
+        {
+          "text": "seem",
+          "start": 7.06,
+          "end": 7.42,
+          "confidence": 0.65
+        },
+        {
+          "text": "done",
+          "start": 7.42,
+          "end": 7.78,
+          "confidence": 0.6
+        },
+        {
+          "text": "on",
+          "start": 7.78,
+          "end": 8.32,
+          "confidence": 0.79
+        },
+        {
+          "text": "this",
+          "start": 8.32,
+          "end": 8.72,
+          "confidence": 0.93
+        },
+        {
+          "text": "man",
+          "start": 8.72,
+          "end": 9.46,
+          "confidence": 0.41
+        }
+      ]
+    },
+    {
+      "start": 11.4,
+      "end": 14.16,
+      "text": " And all the fears you hold today",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "And",
+          "start": 11.4,
+          "end": 11.7,
+          "confidence": 0.84
+        },
+        {
+          "text": "all",
+          "start": 11.7,
+          "end": 12.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 12.0,
+          "end": 12.22,
+          "confidence": 0.95
+        },
+        {
+          "text": "fears",
+          "start": 12.22,
+          "end": 12.6,
+          "confidence": 0.65
+        },
+        {
+          "text": "you",
+          "start": 12.6,
+          "end": 12.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "hold",
+          "start": 12.88,
+          "end": 13.26,
+          "confidence": 0.93
+        },
+        {
+          "text": "today",
+          "start": 13.26,
+          "end": 14.16,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "start": 16.52,
+      "end": 19.98,
+      "text": " Will turn to whisper in your ear",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Will",
+          "start": 16.52,
+          "end": 16.72,
+          "confidence": 0.85
+        },
+        {
+          "text": "turn",
+          "start": 16.72,
+          "end": 17.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 17.04,
+          "end": 17.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "whisper",
+          "start": 17.42,
+          "end": 17.84,
+          "confidence": 0.93
+        },
+        {
+          "text": "in",
+          "start": 17.84,
+          "end": 18.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "your",
+          "start": 18.46,
+          "end": 18.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "ear",
+          "start": 18.96,
+          "end": 19.98,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 21.56,
+      "end": 23.96,
+      "text": " And you know what they say, I'ma hurt you",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "And",
+          "start": 21.56,
+          "end": 21.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 21.7,
+          "end": 21.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 21.86,
+          "end": 22.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "what",
+          "start": 22.06,
+          "end": 22.42,
+          "confidence": 0.92
+        },
+        {
+          "text": "they",
+          "start": 22.42,
+          "end": 22.6,
+          "confidence": 0.64
+        },
+        {
+          "text": "say,",
+          "start": 22.6,
+          "end": 22.84,
+          "confidence": 0.98
+        },
+        {
+          "text": "I'ma",
+          "start": 22.96,
+          "end": 23.18,
+          "confidence": 0.74
+        },
+        {
+          "text": "hurt",
+          "start": 23.18,
+          "end": 23.48,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 23.48,
+          "end": 23.96,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 25.86,
+      "text": " And you know that it means so much",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "And",
+          "start": 24.3,
+          "end": 24.46,
+          "confidence": 0.93
+        },
+        {
+          "text": "you",
+          "start": 24.46,
+          "end": 24.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 24.58,
+          "end": 24.76,
+          "confidence": 0.91
+        },
+        {
+          "text": "that",
+          "start": 24.76,
+          "end": 24.94,
+          "confidence": 0.58
+        },
+        {
+          "text": "it",
+          "start": 24.94,
+          "end": 25.06,
+          "confidence": 0.78
+        },
+        {
+          "text": "means",
+          "start": 25.06,
+          "end": 25.3,
+          "confidence": 0.93
+        },
+        {
+          "text": "so",
+          "start": 25.3,
+          "end": 25.56,
+          "confidence": 0.72
+        },
+        {
+          "text": "much",
+          "start": 25.56,
+          "end": 25.86,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 26.86,
+      "end": 30.06,
+      "text": " And you don't even think of them",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "And",
+          "start": 26.86,
+          "end": 27.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 27.14,
+          "end": 27.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "don't",
+          "start": 27.4,
+          "end": 27.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "even",
+          "start": 27.9,
+          "end": 28.18,
+          "confidence": 0.97
+        },
+        {
+          "text": "think",
+          "start": 28.18,
+          "end": 28.72,
+          "confidence": 0.81
+        },
+        {
+          "text": "of",
+          "start": 28.72,
+          "end": 29.26,
+          "confidence": 0.47
+        },
+        {
+          "text": "them",
+          "start": 29.26,
+          "end": 30.06,
+          "confidence": 0.36
+        }
+      ]
+    },
+    {
+      "start": 32.02,
+      "end": 36.54,
+      "text": " I am falling, I am fading",
+      "confidence": 0.66,
+      "words": [
+        {
+          "text": "I",
+          "start": 32.02,
+          "end": 32.4,
+          "confidence": 0.72
+        },
+        {
+          "text": "am",
+          "start": 32.4,
+          "end": 32.98,
+          "confidence": 0.93
+        },
+        {
+          "text": "falling,",
+          "start": 32.98,
+          "end": 34.02,
+          "confidence": 0.24
+        },
+        {
+          "text": "I",
+          "start": 34.9,
+          "end": 35.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "am",
+          "start": 35.24,
+          "end": 35.62,
+          "confidence": 0.95
+        },
+        {
+          "text": "fading",
+          "start": 35.62,
+          "end": 36.54,
+          "confidence": 0.53
+        }
+      ]
+    },
+    {
+      "start": 37.4,
+      "end": 40.0,
+      "text": " My heart, I've lost it all",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "My",
+          "start": 37.4,
+          "end": 37.7,
+          "confidence": 0.44
+        },
+        {
+          "text": "heart,",
+          "start": 37.7,
+          "end": 38.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "I've",
+          "start": 38.1,
+          "end": 38.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "lost",
+          "start": 38.4,
+          "end": 38.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 38.9,
+          "end": 39.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "all",
+          "start": 39.42,
+          "end": 40.0,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 42.3,
+      "end": 45.6,
+      "text": " And you don't seem to lie in time",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "And",
+          "start": 42.3,
+          "end": 42.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 42.64,
+          "end": 42.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "don't",
+          "start": 42.94,
+          "end": 43.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "seem",
+          "start": 43.22,
+          "end": 43.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 43.52,
+          "end": 43.8,
+          "confidence": 0.83
+        },
+        {
+          "text": "lie",
+          "start": 43.8,
+          "end": 44.28,
+          "confidence": 0.6
+        },
+        {
+          "text": "in",
+          "start": 44.28,
+          "end": 44.8,
+          "confidence": 0.7
+        },
+        {
+          "text": "time",
+          "start": 44.8,
+          "end": 45.6,
+          "confidence": 0.21
+        }
+      ]
+    },
+    {
+      "start": 47.5,
+      "end": 51.54,
+      "text": " The shame that I can read your mind",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "The",
+          "start": 47.5,
+          "end": 47.68,
+          "confidence": 0.71
+        },
+        {
+          "text": "shame",
+          "start": 47.68,
+          "end": 48.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 48.04,
+          "end": 48.48,
+          "confidence": 0.94
+        },
+        {
+          "text": "I",
+          "start": 48.48,
+          "end": 48.72,
+          "confidence": 0.98
+        },
+        {
+          "text": "can",
+          "start": 48.72,
+          "end": 48.98,
+          "confidence": 0.98
+        },
+        {
+          "text": "read",
+          "start": 48.98,
+          "end": 49.44,
+          "confidence": 0.53
+        },
+        {
+          "text": "your",
+          "start": 49.44,
+          "end": 49.86,
+          "confidence": 0.97
+        },
+        {
+          "text": "mind",
+          "start": 49.86,
+          "end": 51.54,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 52.62,
+      "end": 55.72,
+      "text": " And all the things that I read there",
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "And",
+          "start": 52.62,
+          "end": 52.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "all",
+          "start": 52.96,
+          "end": 53.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 53.26,
+          "end": 53.46,
+          "confidence": 0.97
+        },
+        {
+          "text": "things",
+          "start": 53.46,
+          "end": 53.84,
+          "confidence": 0.49
+        },
+        {
+          "text": "that",
+          "start": 53.84,
+          "end": 54.2,
+          "confidence": 0.94
+        },
+        {
+          "text": "I",
+          "start": 54.2,
+          "end": 54.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "read",
+          "start": 54.58,
+          "end": 54.92,
+          "confidence": 0.76
+        },
+        {
+          "text": "there",
+          "start": 54.92,
+          "end": 55.72,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "start": 57.16,
+      "end": 60.8,
+      "text": " Can't help but smile, the people say",
+      "confidence": 0.5,
+      "words": [
+        {
+          "text": "Can't",
+          "start": 57.16,
+          "end": 58.22,
+          "confidence": 0.64
+        },
+        {
+          "text": "help",
+          "start": 58.22,
+          "end": 58.36,
+          "confidence": 0.16
+        },
+        {
+          "text": "but",
+          "start": 58.36,
+          "end": 58.64,
+          "confidence": 0.53
+        },
+        {
+          "text": "smile,",
+          "start": 58.64,
+          "end": 58.96,
+          "confidence": 0.85
+        },
+        {
+          "text": "the",
+          "start": 59.16,
+          "end": 59.32,
+          "confidence": 0.64
+        },
+        {
+          "text": "people",
+          "start": 59.32,
+          "end": 59.96,
+          "confidence": 0.58
+        },
+        {
+          "text": "say",
+          "start": 59.96,
+          "end": 60.8,
+          "confidence": 0.38
+        }
+      ]
+    },
+    {
+      "start": 62.34,
+      "end": 65.2,
+      "text": " And you know I don't mean to hurt you",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "And",
+          "start": 62.34,
+          "end": 62.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "you",
+          "start": 62.98,
+          "end": 63.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 63.1,
+          "end": 63.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 63.34,
+          "end": 63.7,
+          "confidence": 0.62
+        },
+        {
+          "text": "don't",
+          "start": 63.7,
+          "end": 63.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "mean",
+          "start": 63.94,
+          "end": 64.2,
+          "confidence": 0.85
+        },
+        {
+          "text": "to",
+          "start": 64.2,
+          "end": 64.44,
+          "confidence": 0.93
+        },
+        {
+          "text": "hurt",
+          "start": 64.44,
+          "end": 64.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 64.72,
+          "end": 65.2,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 65.5,
+      "end": 67.16,
+      "text": " But you know that it means so much",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "But",
+          "start": 65.5,
+          "end": 65.68,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 65.68,
+          "end": 65.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 65.84,
+          "end": 66.0,
+          "confidence": 0.98
+        },
+        {
+          "text": "that",
+          "start": 66.0,
+          "end": 66.2,
+          "confidence": 0.95
+        },
+        {
+          "text": "it",
+          "start": 66.2,
+          "end": 66.34,
+          "confidence": 0.97
+        },
+        {
+          "text": "means",
+          "start": 66.34,
+          "end": 66.54,
+          "confidence": 0.93
+        },
+        {
+          "text": "so",
+          "start": 66.54,
+          "end": 66.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "much",
+          "start": 66.8,
+          "end": 67.16,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 68.12,
+      "end": 71.6,
+      "text": " And you don't even think of them",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "And",
+          "start": 68.12,
+          "end": 68.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 68.42,
+          "end": 68.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "don't",
+          "start": 68.64,
+          "end": 69.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "even",
+          "start": 69.08,
+          "end": 69.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "think",
+          "start": 69.44,
+          "end": 70.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 70.06,
+          "end": 70.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "them",
+          "start": 70.44,
+          "end": 71.6,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 73.22,
+      "end": 77.7,
+      "text": " I am falling, I am fading",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 73.22,
+          "end": 73.62,
+          "confidence": 0.97
+        },
+        {
+          "text": "am",
+          "start": 73.62,
+          "end": 74.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling,",
+          "start": 74.18,
+          "end": 75.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 76.18,
+          "end": 76.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "am",
+          "start": 76.44,
+          "end": 76.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "fading",
+          "start": 76.82,
+          "end": 77.7,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 78.64,
+      "end": 82.68,
+      "text": " I am drowning, how may to breathe",
+      "confidence": 0.74,
+      "words": [
+        {
+          "text": "I",
+          "start": 78.64,
+          "end": 79.0,
+          "confidence": 0.97
+        },
+        {
+          "text": "am",
+          "start": 79.0,
+          "end": 79.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "drowning,",
+          "start": 79.4,
+          "end": 80.48,
+          "confidence": 0.89
+        },
+        {
+          "text": "how",
+          "start": 81.16,
+          "end": 81.5,
+          "confidence": 0.4
+        },
+        {
+          "text": "may",
+          "start": 81.5,
+          "end": 81.78,
+          "confidence": 0.47
+        },
+        {
+          "text": "to",
+          "start": 81.78,
+          "end": 82.16,
+          "confidence": 0.76
+        },
+        {
+          "text": "breathe",
+          "start": 82.16,
+          "end": 82.68,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 83.56,
+      "end": 88.74,
+      "text": " I am hurting, I have lost it all",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "I",
+          "start": 83.56,
+          "end": 84.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "am",
+          "start": 84.02,
+          "end": 84.68,
+          "confidence": 0.97
+        },
+        {
+          "text": "hurting,",
+          "start": 84.68,
+          "end": 85.66,
+          "confidence": 0.81
+        },
+        {
+          "text": "I",
+          "start": 86.48,
+          "end": 86.7,
+          "confidence": 0.82
+        },
+        {
+          "text": "have",
+          "start": 86.7,
+          "end": 87.2,
+          "confidence": 0.9
+        },
+        {
+          "text": "lost",
+          "start": 87.2,
+          "end": 87.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 87.82,
+          "end": 88.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "all",
+          "start": 88.38,
+          "end": 88.74,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 88.84,
+      "end": 93.18,
+      "text": " I am losing, how may to breathe",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "I",
+          "start": 88.84,
+          "end": 89.4,
+          "confidence": 0.92
+        },
+        {
+          "text": "am",
+          "start": 89.4,
+          "end": 89.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "losing,",
+          "start": 89.76,
+          "end": 90.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "how",
+          "start": 91.58,
+          "end": 91.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "may",
+          "start": 91.82,
+          "end": 92.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 92.12,
+          "end": 92.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "breathe",
+          "start": 92.44,
+          "end": 93.18,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 108.18,
+      "end": 109.24,
+      "text": " I am falling",
+      "confidence": 0.52,
+      "words": [
+        {
+          "text": "I",
+          "start": 108.18,
+          "end": 109.1,
+          "confidence": 0.15
+        },
+        {
+          "text": "am",
+          "start": 109.1,
+          "end": 109.12,
+          "confidence": 0.95
+        },
+        {
+          "text": "falling",
+          "start": 109.12,
+          "end": 109.24,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 115.6,
+      "end": 120.08,
+      "text": " I am falling",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "I",
+          "start": 115.6,
+          "end": 115.94,
+          "confidence": 0.53
+        },
+        {
+          "text": "am",
+          "start": 115.94,
+          "end": 116.84,
+          "confidence": 0.95
+        },
+        {
+          "text": "falling",
+          "start": 116.84,
+          "end": 120.08,
+          "confidence": 0.84
+        }
+      ]
+    },
+    {
+      "start": 120.82,
+      "end": 127.0,
+      "text": " I am falling",
+      "confidence": 0.81,
+      "words": [
+        {
+          "text": "I",
+          "start": 120.82,
+          "end": 121.32,
+          "confidence": 0.7
+        },
+        {
+          "text": "am",
+          "start": 121.32,
+          "end": 126.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "falling",
+          "start": 126.98,
+          "end": 127.0,
+          "confidence": 0.77
+        }
+      ]
+    },
+    {
+      "start": 127.5,
+      "end": 133.46,
+      "text": " I am falling",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "I",
+          "start": 127.5,
+          "end": 129.26,
+          "confidence": 0.66
+        },
+        {
+          "text": "am",
+          "start": 129.26,
+          "end": 133.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "falling",
+          "start": 133.34,
+          "end": 133.46,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 135.38,
+      "end": 137.16,
+      "text": " I am falling",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "I",
+          "start": 135.38,
+          "end": 135.8,
+          "confidence": 0.96
+        },
+        {
+          "text": "am",
+          "start": 135.8,
+          "end": 136.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "falling",
+          "start": 136.1,
+          "end": 137.16,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 140.46,
+      "end": 144.76,
+      "text": " I am drowning, how may to breathe",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I",
+          "start": 140.46,
+          "end": 140.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "am",
+          "start": 140.92,
+          "end": 141.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "drowning,",
+          "start": 141.24,
+          "end": 142.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "how",
+          "start": 143.16,
+          "end": 143.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "may",
+          "start": 143.3,
+          "end": 143.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 143.66,
+          "end": 144.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "breathe",
+          "start": 144.0,
+          "end": 144.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 145.36,
+      "end": 150.58,
+      "text": " I am hurting, I have lost it all",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 145.36,
+          "end": 145.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "am",
+          "start": 145.8,
+          "end": 146.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "hurting,",
+          "start": 146.36,
+          "end": 147.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 148.46,
+          "end": 148.58,
+          "confidence": 0.93
+        },
+        {
+          "text": "have",
+          "start": 148.58,
+          "end": 148.82,
+          "confidence": 0.98
+        },
+        {
+          "text": "lost",
+          "start": 148.82,
+          "end": 149.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 149.72,
+          "end": 150.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 150.24,
+          "end": 150.58,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 150.82,
+      "end": 155.42,
+      "text": " I am losing, how may to breathe",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 150.82,
+          "end": 151.26,
+          "confidence": 0.98
+        },
+        {
+          "text": "am",
+          "start": 151.26,
+          "end": 151.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "losing,",
+          "start": 151.78,
+          "end": 152.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "how",
+          "start": 153.04,
+          "end": 153.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "may",
+          "start": 153.66,
+          "end": 153.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 153.98,
+          "end": 154.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "breathe",
+          "start": 154.3,
+          "end": 155.42,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 157.24,
+      "end": 186.98,
+      "text": " Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 157.24,
+          "end": 159.0,
+          "confidence": 0.64
+        },
+        {
+          "text": "oh,",
+          "start": 161.18,
+          "end": 161.2,
+          "confidence": 0.54
+        },
+        {
+          "text": "oh,",
+          "start": 161.26,
+          "end": 161.84,
+          "confidence": 0.91
+        },
+        {
+          "text": "oh,",
+          "start": 161.84,
+          "end": 162.72,
+          "confidence": 0.85
+        },
+        {
+          "text": "oh,",
+          "start": 163.42,
+          "end": 165.22,
+          "confidence": 0.83
+        },
+        {
+          "text": "oh,",
+          "start": 165.54,
+          "end": 165.56,
+          "confidence": 0.87
+        },
+        {
+          "text": "oh,",
+          "start": 165.98,
+          "end": 166.0,
+          "confidence": 0.93
+        },
+        {
+          "text": "oh,",
+          "start": 170.16,
+          "end": 172.06,
+          "confidence": 0.96
+        },
+        {
+          "text": "oh,",
+          "start": 172.46,
+          "end": 172.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 172.56,
+          "end": 172.6,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 172.6,
+          "end": 173.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 173.54,
+          "end": 173.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 173.62,
+          "end": 173.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 173.66,
+          "end": 173.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 173.7,
+          "end": 173.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 173.76,
+          "end": 173.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 173.78,
+          "end": 173.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 173.92,
+          "end": 174.66,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 175.62,
+          "end": 175.64,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 175.64,
+          "end": 175.66,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 176.02,
+          "end": 176.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 176.04,
+          "end": 176.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 176.52,
+          "end": 176.54,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 176.62,
+          "end": 176.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 176.78,
+          "end": 176.8,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.1,
+          "end": 177.14,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.14,
+          "end": 177.16,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.22,
+          "end": 177.24,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.24,
+          "end": 177.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.28,
+          "end": 177.3,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.3,
+          "end": 177.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.32,
+          "end": 177.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.34,
+          "end": 177.36,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.36,
+          "end": 177.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.38,
+          "end": 177.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.4,
+          "end": 177.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.42,
+          "end": 177.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.56,
+          "end": 177.58,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.58,
+          "end": 177.6,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.6,
+          "end": 177.62,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.62,
+          "end": 177.64,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.64,
+          "end": 177.66,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.66,
+          "end": 177.68,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.68,
+          "end": 177.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.7,
+          "end": 177.72,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.72,
+          "end": 177.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.74,
+          "end": 177.76,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.76,
+          "end": 177.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.78,
+          "end": 177.8,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.8,
+          "end": 177.82,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.82,
+          "end": 177.84,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.84,
+          "end": 177.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.86,
+          "end": 177.88,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.88,
+          "end": 177.9,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.9,
+          "end": 177.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.92,
+          "end": 177.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.94,
+          "end": 177.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "oh,",
+          "start": 177.96,
+          "end": 177.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 177.98,
+          "end": 178.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.0,
+          "end": 178.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.02,
+          "end": 178.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.04,
+          "end": 178.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.06,
+          "end": 178.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.08,
+          "end": 178.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.1,
+          "end": 178.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.12,
+          "end": 178.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.14,
+          "end": 178.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.16,
+          "end": 178.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.18,
+          "end": 178.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.2,
+          "end": 178.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.22,
+          "end": 178.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.24,
+          "end": 178.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.26,
+          "end": 178.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.28,
+          "end": 178.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.3,
+          "end": 178.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.32,
+          "end": 178.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.34,
+          "end": 178.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.36,
+          "end": 178.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.38,
+          "end": 178.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.4,
+          "end": 178.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.42,
+          "end": 178.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.44,
+          "end": 178.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.46,
+          "end": 178.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.48,
+          "end": 178.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.5,
+          "end": 178.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.52,
+          "end": 178.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.54,
+          "end": 178.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.56,
+          "end": 178.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.58,
+          "end": 178.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.6,
+          "end": 178.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.62,
+          "end": 178.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.64,
+          "end": 178.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.66,
+          "end": 178.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.68,
+          "end": 178.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.7,
+          "end": 178.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.72,
+          "end": 178.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.74,
+          "end": 178.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.76,
+          "end": 178.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.78,
+          "end": 178.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.8,
+          "end": 178.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.82,
+          "end": 178.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.84,
+          "end": 178.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.86,
+          "end": 178.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.88,
+          "end": 178.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.9,
+          "end": 178.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.92,
+          "end": 178.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.94,
+          "end": 178.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.96,
+          "end": 178.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 178.98,
+          "end": 179.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh,",
+          "start": 179.0,
+          "end": 182.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "oh",
+          "start": 183.52,
+          "end": 186.98,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 187.0,
+      "end": 196.5,
+      "text": " I am hurting, I have lost it all, I am losing, tell me to breathe",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "I",
+          "start": 187.0,
+          "end": 187.32,
+          "confidence": 0.3
+        },
+        {
+          "text": "am",
+          "start": 187.32,
+          "end": 187.6,
+          "confidence": 0.44
+        },
+        {
+          "text": "hurting,",
+          "start": 187.6,
+          "end": 188.82,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 189.72,
+          "end": 189.82,
+          "confidence": 0.8
+        },
+        {
+          "text": "have",
+          "start": 189.82,
+          "end": 190.44,
+          "confidence": 0.86
+        },
+        {
+          "text": "lost",
+          "start": 190.44,
+          "end": 190.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 190.98,
+          "end": 191.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "all,",
+          "start": 191.46,
+          "end": 191.8,
+          "confidence": 0.94
+        },
+        {
+          "text": "I",
+          "start": 192.08,
+          "end": 192.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "am",
+          "start": 192.44,
+          "end": 192.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "losing,",
+          "start": 192.78,
+          "end": 193.82,
+          "confidence": 0.98
+        },
+        {
+          "text": "tell",
+          "start": 194.52,
+          "end": 194.88,
+          "confidence": 0.88
+        },
+        {
+          "text": "me",
+          "start": 194.88,
+          "end": 195.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 195.2,
+          "end": 195.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "breathe",
+          "start": 195.5,
+          "end": 196.5,
+          "confidence": 0.89
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.4515720307826996,
+    "zh": 0.02217109128832817,
+    "de": 0.01828179694712162,
+    "es": 0.011192865669727325,
+    "ru": 0.04215652123093605,
+    "ko": 0.020473001524806023,
+    "fr": 0.02194148302078247,
+    "ja": 0.009203058667480946,
+    "pt": 0.010994542390108109,
+    "tr": 0.0024705196265131235,
+    "pl": 0.006687825080007315,
+    "ca": 0.004301564302295446,
+    "nl": 0.032148461788892746,
+    "ar": 0.0020703535992652178,
+    "sv": 0.010623968206346035,
+    "it": 0.005081892944872379,
+    "id": 0.0008597198175266385,
+    "hi": 0.00023150458582676947,
+    "fi": 0.0018856266979128122,
+    "vi": 0.004243089351803064,
+    "he": 0.0001496552868047729,
+    "uk": 0.00029942524270154536,
+    "el": 0.0020503236446529627,
+    "ms": 0.001942488830536604,
+    "cs": 0.0006517297588288784,
+    "ro": 0.0003023483441211283,
+    "da": 0.0022244297433644533,
+    "hu": 0.000584634835831821,
+    "ta": 0.0002509320911485702,
+    "no": 0.002038477221503854,
+    "th": 0.0005746713723056018,
+    "ur": 7.511116564273834e-05,
+    "hr": 0.0003928984806407243,
+    "bg": 0.00013703260628972203,
+    "lt": 4.454770896700211e-05,
+    "la": 0.006955497898161411,
+    "mi": 0.007550776936113834,
+    "ml": 0.0002610186638776213,
+    "cy": 0.22281135618686676,
+    "sk": 6.257832137634978e-05,
+    "te": 9.595070878276601e-05,
+    "fa": 2.553947524575051e-05,
+    "lv": 0.00015846324095036834,
+    "bn": 1.9414015696384013e-05,
+    "sr": 9.323976883024443e-06,
+    "az": 6.880763066874351e-06,
+    "sl": 0.00016494518786203116,
+    "kn": 1.3421040421235375e-06,
+    "et": 4.862851710640825e-05,
+    "mk": 6.78622336636181e-06,
+    "br": 0.0023202875163406134,
+    "eu": 0.0003774020296987146,
+    "is": 0.0006330761243589222,
+    "hy": 9.32765851757722e-06,
+    "ne": 2.9281012757564895e-05,
+    "mn": 3.187898255418986e-05,
+    "bs": 0.00016115927428472787,
+    "kk": 1.9987559426226653e-05,
+    "sq": 3.60221674782224e-05,
+    "sw": 0.00011164155876031145,
+    "gl": 0.001713652047328651,
+    "mr": 1.950254045368638e-06,
+    "pa": 8.16396095615346e-07,
+    "si": 0.0002723392390180379,
+    "km": 0.02029317431151867,
+    "sn": 0.0069890632294118404,
+    "yo": 0.00040309823816642165,
+    "so": 5.340573352441425e-07,
+    "af": 0.00012509153748396784,
+    "oc": 0.00034222740214318037,
+    "ka": 1.9615540622908156e-06,
+    "be": 0.0002152082888642326,
+    "tg": 3.842990992097839e-08,
+    "sd": 8.875559615262318e-06,
+    "gu": 1.3881850691177533e-07,
+    "am": 7.263082011377264e-07,
+    "yi": 0.00022405435447581112,
+    "lo": 1.9287163013359532e-05,
+    "uz": 1.423302142811167e-09,
+    "fo": 0.00018177711172029376,
+    "ht": 0.00010510243009775877,
+    "ps": 6.268071956583299e-06,
+    "tk": 1.0201477884663745e-08,
+    "nn": 0.025843746960163116,
+    "mt": 6.320745796983829e-06,
+    "sa": 0.00010235821537207812,
+    "lb": 1.1860399240504194e-07,
+    "my": 0.00025132865994237363,
+    "bo": 4.382783663459122e-05,
+    "tl": 0.0010062268702313304,
+    "mg": 7.657828149376655e-09,
+    "as": 1.515697817922046e-06,
+    "tt": 9.599504835478001e-08,
+    "haw": 0.0019615795463323593,
+    "ln": 3.7024465200374834e-06,
+    "ha": 1.1874121241817193e-08,
+    "ba": 1.656750825418385e-08,
+    "jw": 0.007655419409275055,
+    "su": 1.886299259012958e-07
+  }
+}

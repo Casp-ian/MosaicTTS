@@ -1,0 +1,2434 @@
+Detected language: English
+{
+  "text": " Music Rising up back on the street Did my time, took my chances With the distance now I'm back on my feet Just a man and his will to survive So many times it happens too fast You trade your passion for glory Don't lose your grip on the dreams of the past You must fight just to keep them alive It's deep, high up the tiger It's the thrill of the fight Rising up to the challenge of our rival And the last known survivor strikes He's spread in the night And he's watching us know with fear Of the tiger Face the face, out in the heat Hanging the tub, staying hungry Face that the odds still we take to the street Oh, the guilt, with the skills to survive It's deep, high up the tiger It's the thrill of the fight Rising up to the challenge of our rival And the last known survivor strikes He's spread in the night And he's watching us know with fear Of the tiger Rising up straight to the top And the guts got the glory When the distance now I'm not gonna stop Just a man and his will to survive It's deep, high up the tiger It's the thrill of the fight Rising up to the challenge of our rival And the last known survivor strikes He's spread in the night And he's watching us know with fear Of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger",
+  "segments": [
+    {
+      "start": 30.0,
+      "end": 33.12,
+      "text": " Music",
+      "confidence": 0.03,
+      "words": [
+        {
+          "text": "Music",
+          "start": 30.0,
+          "end": 33.12,
+          "confidence": 0.03
+        }
+      ]
+    },
+    {
+      "start": 49.76,
+      "end": 52.68,
+      "text": " Rising up back on the street",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "Rising",
+          "start": 49.76,
+          "end": 50.18,
+          "confidence": 0.76
+        },
+        {
+          "text": "up",
+          "start": 50.18,
+          "end": 50.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "back",
+          "start": 50.66,
+          "end": 51.68,
+          "confidence": 0.6
+        },
+        {
+          "text": "on",
+          "start": 51.68,
+          "end": 51.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 51.98,
+          "end": 52.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "street",
+          "start": 52.2,
+          "end": 52.68,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 54.14,
+      "end": 56.46,
+      "text": " Did my time, took my chances",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Did",
+          "start": 54.14,
+          "end": 54.36,
+          "confidence": 0.68
+        },
+        {
+          "text": "my",
+          "start": 54.36,
+          "end": 54.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "time,",
+          "start": 54.54,
+          "end": 55.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "took",
+          "start": 55.16,
+          "end": 55.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 55.5,
+          "end": 55.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "chances",
+          "start": 55.78,
+          "end": 56.46,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 58.4,
+      "end": 61.64,
+      "text": " With the distance now I'm back on my feet",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "With",
+          "start": 58.4,
+          "end": 58.82,
+          "confidence": 0.7
+        },
+        {
+          "text": "the",
+          "start": 58.82,
+          "end": 59.06,
+          "confidence": 0.64
+        },
+        {
+          "text": "distance",
+          "start": 59.06,
+          "end": 59.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "now",
+          "start": 59.54,
+          "end": 59.96,
+          "confidence": 0.58
+        },
+        {
+          "text": "I'm",
+          "start": 59.96,
+          "end": 60.22,
+          "confidence": 0.9
+        },
+        {
+          "text": "back",
+          "start": 60.22,
+          "end": 60.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "on",
+          "start": 60.58,
+          "end": 60.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 60.94,
+          "end": 61.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "feet",
+          "start": 61.28,
+          "end": 61.64,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 61.96,
+      "end": 64.86,
+      "text": " Just a man and his will to survive",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Just",
+          "start": 61.96,
+          "end": 62.14,
+          "confidence": 0.95
+        },
+        {
+          "text": "a",
+          "start": 62.14,
+          "end": 62.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "man",
+          "start": 62.4,
+          "end": 62.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 62.78,
+          "end": 63.32,
+          "confidence": 0.73
+        },
+        {
+          "text": "his",
+          "start": 63.32,
+          "end": 63.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "will",
+          "start": 63.56,
+          "end": 63.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 63.96,
+          "end": 64.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "survive",
+          "start": 64.34,
+          "end": 64.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 66.9,
+      "end": 70.46,
+      "text": " So many times it happens too fast",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "So",
+          "start": 66.9,
+          "end": 67.36,
+          "confidence": 0.97
+        },
+        {
+          "text": "many",
+          "start": 67.36,
+          "end": 67.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "times",
+          "start": 67.74,
+          "end": 68.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 68.4,
+          "end": 69.1,
+          "confidence": 0.64
+        },
+        {
+          "text": "happens",
+          "start": 69.1,
+          "end": 69.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "too",
+          "start": 69.5,
+          "end": 69.86,
+          "confidence": 0.96
+        },
+        {
+          "text": "fast",
+          "start": 69.86,
+          "end": 70.46,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 71.56,
+      "end": 73.88,
+      "text": " You trade your passion for glory",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "You",
+          "start": 71.56,
+          "end": 71.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "trade",
+          "start": 71.78,
+          "end": 72.08,
+          "confidence": 0.84
+        },
+        {
+          "text": "your",
+          "start": 72.08,
+          "end": 72.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "passion",
+          "start": 72.32,
+          "end": 72.78,
+          "confidence": 0.93
+        },
+        {
+          "text": "for",
+          "start": 72.78,
+          "end": 73.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "glory",
+          "start": 73.18,
+          "end": 73.88,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 79.32,
+      "text": " Don't lose your grip on the dreams of the past",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 76.0,
+          "end": 76.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "lose",
+          "start": 76.32,
+          "end": 76.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "your",
+          "start": 76.54,
+          "end": 76.76,
+          "confidence": 0.77
+        },
+        {
+          "text": "grip",
+          "start": 76.76,
+          "end": 77.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 77.08,
+          "end": 77.64,
+          "confidence": 0.93
+        },
+        {
+          "text": "the",
+          "start": 77.64,
+          "end": 77.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "dreams",
+          "start": 77.86,
+          "end": 78.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 78.3,
+          "end": 78.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 78.64,
+          "end": 78.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "past",
+          "start": 78.96,
+          "end": 79.32,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 79.6,
+      "end": 82.66,
+      "text": " You must fight just to keep them alive",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "You",
+          "start": 79.6,
+          "end": 79.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "must",
+          "start": 79.72,
+          "end": 80.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "fight",
+          "start": 80.0,
+          "end": 80.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "just",
+          "start": 80.44,
+          "end": 80.92,
+          "confidence": 0.94
+        },
+        {
+          "text": "to",
+          "start": 80.92,
+          "end": 81.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "keep",
+          "start": 81.18,
+          "end": 81.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "them",
+          "start": 81.52,
+          "end": 82.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "alive",
+          "start": 82.08,
+          "end": 82.66,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 83.74,
+      "end": 86.08,
+      "text": " It's deep, high up the tiger",
+      "confidence": 0.65,
+      "words": [
+        {
+          "text": "It's",
+          "start": 83.74,
+          "end": 84.12,
+          "confidence": 0.8
+        },
+        {
+          "text": "deep,",
+          "start": 84.12,
+          "end": 84.48,
+          "confidence": 0.61
+        },
+        {
+          "text": "high",
+          "start": 84.84,
+          "end": 85.2,
+          "confidence": 0.65
+        },
+        {
+          "text": "up",
+          "start": 85.2,
+          "end": 85.46,
+          "confidence": 0.87
+        },
+        {
+          "text": "the",
+          "start": 85.46,
+          "end": 85.64,
+          "confidence": 0.4
+        },
+        {
+          "text": "tiger",
+          "start": 85.64,
+          "end": 86.08,
+          "confidence": 0.56
+        }
+      ]
+    },
+    {
+      "start": 86.28,
+      "end": 87.84,
+      "text": " It's the thrill of the fight",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "It's",
+          "start": 86.28,
+          "end": 86.54,
+          "confidence": 0.96
+        },
+        {
+          "text": "the",
+          "start": 86.54,
+          "end": 86.66,
+          "confidence": 0.98
+        },
+        {
+          "text": "thrill",
+          "start": 86.66,
+          "end": 87.08,
+          "confidence": 0.89
+        },
+        {
+          "text": "of",
+          "start": 87.08,
+          "end": 87.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 87.36,
+          "end": 87.54,
+          "confidence": 0.72
+        },
+        {
+          "text": "fight",
+          "start": 87.54,
+          "end": 87.84,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 88.18,
+      "end": 91.8,
+      "text": " Rising up to the challenge of our rival",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Rising",
+          "start": 88.18,
+          "end": 88.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "up",
+          "start": 88.74,
+          "end": 89.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 89.24,
+          "end": 89.8,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 89.8,
+          "end": 90.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "challenge",
+          "start": 90.0,
+          "end": 90.5,
+          "confidence": 0.91
+        },
+        {
+          "text": "of",
+          "start": 90.5,
+          "end": 90.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "our",
+          "start": 90.84,
+          "end": 91.14,
+          "confidence": 0.94
+        },
+        {
+          "text": "rival",
+          "start": 91.14,
+          "end": 91.8,
+          "confidence": 0.56
+        }
+      ]
+    },
+    {
+      "start": 92.66,
+      "end": 95.24,
+      "text": " And the last known survivor strikes",
+      "confidence": 0.59,
+      "words": [
+        {
+          "text": "And",
+          "start": 92.66,
+          "end": 92.9,
+          "confidence": 0.8
+        },
+        {
+          "text": "the",
+          "start": 92.9,
+          "end": 93.28,
+          "confidence": 0.61
+        },
+        {
+          "text": "last",
+          "start": 93.28,
+          "end": 93.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "known",
+          "start": 93.7,
+          "end": 94.2,
+          "confidence": 0.22
+        },
+        {
+          "text": "survivor",
+          "start": 94.2,
+          "end": 94.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "strikes",
+          "start": 94.8,
+          "end": 95.24,
+          "confidence": 0.42
+        }
+      ]
+    },
+    {
+      "start": 95.36,
+      "end": 96.72,
+      "text": " He's spread in the night",
+      "confidence": 0.52,
+      "words": [
+        {
+          "text": "He's",
+          "start": 95.36,
+          "end": 95.6,
+          "confidence": 0.43
+        },
+        {
+          "text": "spread",
+          "start": 95.6,
+          "end": 95.9,
+          "confidence": 0.14
+        },
+        {
+          "text": "in",
+          "start": 95.9,
+          "end": 96.18,
+          "confidence": 0.85
+        },
+        {
+          "text": "the",
+          "start": 96.18,
+          "end": 96.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "night",
+          "start": 96.4,
+          "end": 96.72,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 97.06,
+      "end": 100.1,
+      "text": " And he's watching us know with fear",
+      "confidence": 0.54,
+      "words": [
+        {
+          "text": "And",
+          "start": 97.06,
+          "end": 97.3,
+          "confidence": 0.94
+        },
+        {
+          "text": "he's",
+          "start": 97.3,
+          "end": 97.88,
+          "confidence": 0.68
+        },
+        {
+          "text": "watching",
+          "start": 97.88,
+          "end": 98.38,
+          "confidence": 0.29
+        },
+        {
+          "text": "us",
+          "start": 98.38,
+          "end": 98.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "know",
+          "start": 98.86,
+          "end": 99.28,
+          "confidence": 0.23
+        },
+        {
+          "text": "with",
+          "start": 99.28,
+          "end": 99.6,
+          "confidence": 0.41
+        },
+        {
+          "text": "fear",
+          "start": 99.6,
+          "end": 100.1,
+          "confidence": 0.59
+        }
+      ]
+    },
+    {
+      "start": 101.6,
+      "end": 102.8,
+      "text": " Of the tiger",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Of",
+          "start": 101.6,
+          "end": 101.9,
+          "confidence": 0.93
+        },
+        {
+          "text": "the",
+          "start": 101.9,
+          "end": 102.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "tiger",
+          "start": 102.04,
+          "end": 102.8,
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "start": 107.2,
+      "end": 110.32,
+      "text": " Face the face, out in the heat",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "Face",
+          "start": 107.2,
+          "end": 107.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 107.48,
+          "end": 107.68,
+          "confidence": 0.5
+        },
+        {
+          "text": "face,",
+          "start": 107.68,
+          "end": 108.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "out",
+          "start": 108.86,
+          "end": 109.2,
+          "confidence": 0.98
+        },
+        {
+          "text": "in",
+          "start": 109.2,
+          "end": 109.5,
+          "confidence": 0.65
+        },
+        {
+          "text": "the",
+          "start": 109.5,
+          "end": 109.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "heat",
+          "start": 109.7,
+          "end": 110.32,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 111.64,
+      "end": 113.7,
+      "text": " Hanging the tub, staying hungry",
+      "confidence": 0.49,
+      "words": [
+        {
+          "text": "Hanging",
+          "start": 111.64,
+          "end": 111.94,
+          "confidence": 0.61
+        },
+        {
+          "text": "the",
+          "start": 111.94,
+          "end": 112.14,
+          "confidence": 0.48
+        },
+        {
+          "text": "tub,",
+          "start": 112.14,
+          "end": 112.44,
+          "confidence": 0.13
+        },
+        {
+          "text": "staying",
+          "start": 112.72,
+          "end": 113.02,
+          "confidence": 0.73
+        },
+        {
+          "text": "hungry",
+          "start": 113.02,
+          "end": 113.7,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 115.78,
+      "end": 119.12,
+      "text": " Face that the odds still we take to the street",
+      "confidence": 0.51,
+      "words": [
+        {
+          "text": "Face",
+          "start": 115.78,
+          "end": 116.02,
+          "confidence": 0.8
+        },
+        {
+          "text": "that",
+          "start": 116.02,
+          "end": 116.32,
+          "confidence": 0.42
+        },
+        {
+          "text": "the",
+          "start": 116.32,
+          "end": 116.58,
+          "confidence": 0.72
+        },
+        {
+          "text": "odds",
+          "start": 116.58,
+          "end": 117.06,
+          "confidence": 0.13
+        },
+        {
+          "text": "still",
+          "start": 117.06,
+          "end": 117.42,
+          "confidence": 0.21
+        },
+        {
+          "text": "we",
+          "start": 117.42,
+          "end": 117.66,
+          "confidence": 0.66
+        },
+        {
+          "text": "take",
+          "start": 117.66,
+          "end": 118.04,
+          "confidence": 0.55
+        },
+        {
+          "text": "to",
+          "start": 118.04,
+          "end": 118.42,
+          "confidence": 0.55
+        },
+        {
+          "text": "the",
+          "start": 118.42,
+          "end": 118.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "street",
+          "start": 118.72,
+          "end": 119.12,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 119.42,
+      "end": 122.56,
+      "text": " Oh, the guilt, with the skills to survive",
+      "confidence": 0.59,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 119.42,
+          "end": 119.66,
+          "confidence": 0.18
+        },
+        {
+          "text": "the",
+          "start": 119.68,
+          "end": 119.82,
+          "confidence": 0.29
+        },
+        {
+          "text": "guilt,",
+          "start": 119.82,
+          "end": 120.2,
+          "confidence": 0.64
+        },
+        {
+          "text": "with",
+          "start": 120.36,
+          "end": 120.7,
+          "confidence": 0.56
+        },
+        {
+          "text": "the",
+          "start": 120.7,
+          "end": 120.88,
+          "confidence": 0.97
+        },
+        {
+          "text": "skills",
+          "start": 120.88,
+          "end": 121.42,
+          "confidence": 0.82
+        },
+        {
+          "text": "to",
+          "start": 121.42,
+          "end": 121.78,
+          "confidence": 0.97
+        },
+        {
+          "text": "survive",
+          "start": 121.78,
+          "end": 122.56,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 123.54,
+      "end": 125.84,
+      "text": " It's deep, high up the tiger",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "It's",
+          "start": 123.54,
+          "end": 123.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "deep,",
+          "start": 123.86,
+          "end": 124.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "high",
+          "start": 124.76,
+          "end": 124.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "up",
+          "start": 124.96,
+          "end": 125.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 125.18,
+          "end": 125.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 125.34,
+          "end": 125.84,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 125.92,
+      "end": 127.6,
+      "text": " It's the thrill of the fight",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "It's",
+          "start": 125.92,
+          "end": 126.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 126.28,
+          "end": 126.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "thrill",
+          "start": 126.42,
+          "end": 126.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 126.82,
+          "end": 127.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 127.12,
+          "end": 127.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "fight",
+          "start": 127.28,
+          "end": 127.6,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 127.64,
+      "end": 131.58,
+      "text": " Rising up to the challenge of our rival",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Rising",
+          "start": 127.64,
+          "end": 128.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "up",
+          "start": 128.48,
+          "end": 129.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 129.0,
+          "end": 129.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 129.56,
+          "end": 129.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "challenge",
+          "start": 129.74,
+          "end": 130.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 130.24,
+          "end": 130.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "our",
+          "start": 130.58,
+          "end": 130.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "rival",
+          "start": 130.86,
+          "end": 131.58,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 132.38,
+      "end": 135.0,
+      "text": " And the last known survivor strikes",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "And",
+          "start": 132.38,
+          "end": 132.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 132.62,
+          "end": 132.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "last",
+          "start": 132.88,
+          "end": 133.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "known",
+          "start": 133.44,
+          "end": 133.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "survivor",
+          "start": 133.96,
+          "end": 134.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "strikes",
+          "start": 134.56,
+          "end": 135.0,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 135.04,
+      "end": 136.44,
+      "text": " He's spread in the night",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "He's",
+          "start": 135.04,
+          "end": 135.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "spread",
+          "start": 135.32,
+          "end": 135.62,
+          "confidence": 0.97
+        },
+        {
+          "text": "in",
+          "start": 135.62,
+          "end": 135.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 135.88,
+          "end": 136.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "night",
+          "start": 136.14,
+          "end": 136.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 136.74,
+      "end": 139.84,
+      "text": " And he's watching us know with fear",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "And",
+          "start": 136.74,
+          "end": 137.04,
+          "confidence": 0.91
+        },
+        {
+          "text": "he's",
+          "start": 137.04,
+          "end": 137.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "watching",
+          "start": 137.56,
+          "end": 138.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "us",
+          "start": 138.08,
+          "end": 138.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "know",
+          "start": 138.56,
+          "end": 139.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "with",
+          "start": 139.02,
+          "end": 139.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "fear",
+          "start": 139.32,
+          "end": 139.84,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 141.32,
+      "end": 142.74,
+      "text": " Of the tiger",
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "Of",
+          "start": 141.32,
+          "end": 141.66,
+          "confidence": 0.73
+        },
+        {
+          "text": "the",
+          "start": 141.66,
+          "end": 141.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 141.86,
+          "end": 142.74,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 145.0,
+      "end": 154.44,
+      "text": " Rising up straight to the top",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "Rising",
+          "start": 145.0,
+          "end": 151.74,
+          "confidence": 0.6
+        },
+        {
+          "text": "up",
+          "start": 151.74,
+          "end": 152.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "straight",
+          "start": 152.26,
+          "end": 153.24,
+          "confidence": 0.36
+        },
+        {
+          "text": "to",
+          "start": 153.24,
+          "end": 153.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 153.6,
+          "end": 153.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "top",
+          "start": 153.84,
+          "end": 154.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 155.84,
+      "end": 158.18,
+      "text": " And the guts got the glory",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "And",
+          "start": 155.84,
+          "end": 156.08,
+          "confidence": 0.54
+        },
+        {
+          "text": "the",
+          "start": 156.08,
+          "end": 156.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "guts",
+          "start": 156.24,
+          "end": 156.6,
+          "confidence": 0.86
+        },
+        {
+          "text": "got",
+          "start": 156.6,
+          "end": 157.1,
+          "confidence": 0.88
+        },
+        {
+          "text": "the",
+          "start": 157.1,
+          "end": 157.38,
+          "confidence": 0.96
+        },
+        {
+          "text": "glory",
+          "start": 157.38,
+          "end": 158.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 160.2,
+      "end": 163.2,
+      "text": " When the distance now I'm not gonna stop",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "When",
+          "start": 160.2,
+          "end": 160.42,
+          "confidence": 0.64
+        },
+        {
+          "text": "the",
+          "start": 160.42,
+          "end": 160.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "distance",
+          "start": 160.62,
+          "end": 161.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "now",
+          "start": 161.14,
+          "end": 161.56,
+          "confidence": 0.94
+        },
+        {
+          "text": "I'm",
+          "start": 161.56,
+          "end": 161.8,
+          "confidence": 0.91
+        },
+        {
+          "text": "not",
+          "start": 161.8,
+          "end": 162.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "gonna",
+          "start": 162.14,
+          "end": 162.66,
+          "confidence": 0.75
+        },
+        {
+          "text": "stop",
+          "start": 162.66,
+          "end": 163.2,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 163.4,
+      "end": 166.72,
+      "text": " Just a man and his will to survive",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Just",
+          "start": 163.4,
+          "end": 163.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 163.72,
+          "end": 163.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "man",
+          "start": 163.96,
+          "end": 164.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 164.34,
+          "end": 164.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "his",
+          "start": 164.86,
+          "end": 165.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "will",
+          "start": 165.14,
+          "end": 165.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 165.54,
+          "end": 165.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "survive",
+          "start": 165.88,
+          "end": 166.72,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 167.66,
+      "end": 170.0,
+      "text": " It's deep, high up the tiger",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "It's",
+          "start": 167.66,
+          "end": 168.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "deep,",
+          "start": 168.06,
+          "end": 168.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 168.9,
+          "end": 169.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "up",
+          "start": 169.08,
+          "end": 169.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 169.36,
+          "end": 169.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 169.54,
+          "end": 170.0,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 170.1,
+      "end": 171.74,
+      "text": " It's the thrill of the fight",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "It's",
+          "start": 170.1,
+          "end": 170.44,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 170.44,
+          "end": 170.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "thrill",
+          "start": 170.6,
+          "end": 170.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 170.98,
+          "end": 171.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 171.28,
+          "end": 171.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "fight",
+          "start": 171.46,
+          "end": 171.74,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 172.1,
+      "end": 175.76,
+      "text": " Rising up to the challenge of our rival",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Rising",
+          "start": 172.1,
+          "end": 172.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "up",
+          "start": 172.66,
+          "end": 173.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 173.2,
+          "end": 173.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 173.72,
+          "end": 173.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "challenge",
+          "start": 173.88,
+          "end": 174.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 174.4,
+          "end": 174.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "our",
+          "start": 174.76,
+          "end": 175.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "rival",
+          "start": 175.04,
+          "end": 175.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 176.54,
+      "end": 179.16,
+      "text": " And the last known survivor strikes",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "And",
+          "start": 176.54,
+          "end": 176.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 176.8,
+          "end": 177.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "last",
+          "start": 177.26,
+          "end": 177.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "known",
+          "start": 177.62,
+          "end": 178.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "survivor",
+          "start": 178.12,
+          "end": 178.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "strikes",
+          "start": 178.72,
+          "end": 179.16,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 179.2,
+      "end": 180.6,
+      "text": " He's spread in the night",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "He's",
+          "start": 179.2,
+          "end": 179.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "spread",
+          "start": 179.62,
+          "end": 179.82,
+          "confidence": 0.95
+        },
+        {
+          "text": "in",
+          "start": 179.82,
+          "end": 180.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 180.12,
+          "end": 180.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "night",
+          "start": 180.32,
+          "end": 180.6,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 180.94,
+      "end": 184.02,
+      "text": " And he's watching us know with fear",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "And",
+          "start": 180.94,
+          "end": 181.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "he's",
+          "start": 181.18,
+          "end": 181.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "watching",
+          "start": 181.76,
+          "end": 182.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "us",
+          "start": 182.3,
+          "end": 182.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "know",
+          "start": 182.76,
+          "end": 183.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "with",
+          "start": 183.22,
+          "end": 183.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "fear",
+          "start": 183.56,
+          "end": 184.02,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 187.74,
+      "end": 189.08,
+      "text": " Of the tiger",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Of",
+          "start": 187.74,
+          "end": 188.02,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 188.02,
+          "end": 188.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 188.24,
+          "end": 189.08,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 191.0,
+      "end": 201.96,
+      "text": " The eye of the tiger",
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "The",
+          "start": 191.0,
+          "end": 200.42,
+          "confidence": 0.32
+        },
+        {
+          "text": "eye",
+          "start": 200.42,
+          "end": 200.9,
+          "confidence": 0.71
+        },
+        {
+          "text": "of",
+          "start": 200.9,
+          "end": 201.14,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 201.14,
+          "end": 201.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "tiger",
+          "start": 201.34,
+          "end": 201.96,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 209.16,
+      "end": 210.86,
+      "text": " The eye of the tiger",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "The",
+          "start": 209.16,
+          "end": 209.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "eye",
+          "start": 209.38,
+          "end": 209.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 209.72,
+          "end": 209.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 209.96,
+          "end": 210.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 210.18,
+          "end": 210.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 212.0,
+      "end": 217.32,
+      "text": " The eye of the tiger",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 212.0,
+          "end": 213.44,
+          "confidence": 0.85
+        },
+        {
+          "text": "eye",
+          "start": 213.44,
+          "end": 214.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 214.12,
+          "end": 214.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 214.88,
+          "end": 217.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 217.3,
+          "end": 217.32,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 218.26,
+      "end": 219.56,
+      "text": " The eye of the tiger",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "The",
+          "start": 218.26,
+          "end": 218.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "eye",
+          "start": 218.38,
+          "end": 218.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 218.54,
+          "end": 218.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 218.78,
+          "end": 219.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 219.0,
+          "end": 219.56,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 219.56,
+      "end": 222.52,
+      "text": " The eye of the tiger",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 219.56,
+          "end": 221.02,
+          "confidence": 0.88
+        },
+        {
+          "text": "eye",
+          "start": 221.02,
+          "end": 222.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 222.34,
+          "end": 222.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 222.48,
+          "end": 222.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 222.5,
+          "end": 222.52,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 222.52,
+      "end": 224.48,
+      "text": " The eye of the tiger",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 222.52,
+          "end": 222.54,
+          "confidence": 0.89
+        },
+        {
+          "text": "eye",
+          "start": 222.54,
+          "end": 222.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 222.9,
+          "end": 223.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 223.06,
+          "end": 224.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 224.46,
+          "end": 224.48,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 224.48,
+      "end": 225.12,
+      "text": " The eye of the tiger",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "The",
+          "start": 224.48,
+          "end": 224.5,
+          "confidence": 0.93
+        },
+        {
+          "text": "eye",
+          "start": 224.5,
+          "end": 224.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "of",
+          "start": 224.52,
+          "end": 224.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 224.64,
+          "end": 224.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 224.76,
+          "end": 225.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 226.82,
+      "end": 227.85,
+      "text": " The eye of the tiger",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "The",
+          "start": 226.82,
+          "end": 226.92,
+          "confidence": 0.93
+        },
+        {
+          "text": "eye",
+          "start": 226.92,
+          "end": 227.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 227.38,
+          "end": 227.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 227.6,
+          "end": 227.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 227.82,
+          "end": 227.85,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 227.85,
+      "end": 228.5,
+      "text": " The eye of the tiger",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "The",
+          "start": 227.85,
+          "end": 227.87,
+          "confidence": 0.85
+        },
+        {
+          "text": "eye",
+          "start": 227.87,
+          "end": 227.89,
+          "confidence": 0.98
+        },
+        {
+          "text": "of",
+          "start": 227.89,
+          "end": 227.91,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 227.91,
+          "end": 227.93,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 227.93,
+          "end": 228.5,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 230.06,
+      "end": 232.15,
+      "text": " The eye of the tiger",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "The",
+          "start": 230.06,
+          "end": 230.28,
+          "confidence": 0.82
+        },
+        {
+          "text": "eye",
+          "start": 230.28,
+          "end": 230.58,
+          "confidence": 0.98
+        },
+        {
+          "text": "of",
+          "start": 230.58,
+          "end": 231.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 231.44,
+          "end": 232.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "tiger",
+          "start": 232.02,
+          "end": 232.15,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 232.15,
+      "end": 234.5,
+      "text": " The eye of the tiger",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 232.15,
+          "end": 232.72,
+          "confidence": 0.89
+        },
+        {
+          "text": "eye",
+          "start": 232.72,
+          "end": 233.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "of",
+          "start": 233.46,
+          "end": 233.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 233.5,
+          "end": 234.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "tiger",
+          "start": 234.48,
+          "end": 234.5,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 234.5,
+      "end": 235.84,
+      "text": " The eye of the tiger",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 234.5,
+          "end": 235.42,
+          "confidence": 0.89
+        },
+        {
+          "text": "eye",
+          "start": 235.42,
+          "end": 235.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 235.72,
+          "end": 235.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 235.8,
+          "end": 235.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "tiger",
+          "start": 235.82,
+          "end": 235.84,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 235.84,
+      "end": 238.28,
+      "text": " The eye of the tiger",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 235.84,
+          "end": 237.22,
+          "confidence": 0.9
+        },
+        {
+          "text": "eye",
+          "start": 237.22,
+          "end": 237.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 237.52,
+          "end": 237.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 237.54,
+          "end": 238.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "tiger",
+          "start": 238.2,
+          "end": 238.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 238.28,
+      "end": 239.52,
+      "text": " The eye of the tiger",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "The",
+          "start": 238.28,
+          "end": 238.8,
+          "confidence": 0.81
+        },
+        {
+          "text": "eye",
+          "start": 238.8,
+          "end": 238.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 238.82,
+          "end": 238.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 238.88,
+          "end": 238.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "tiger",
+          "start": 238.9,
+          "end": 239.52,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 240.0,
+      "end": 242.5,
+      "text": " The eye of the tiger",
+      "confidence": 0.76,
+      "words": [
+        {
+          "text": "The",
+          "start": 240.0,
+          "end": 240.82,
+          "confidence": 0.3
+        },
+        {
+          "text": "eye",
+          "start": 240.82,
+          "end": 241.4,
+          "confidence": 0.9
+        },
+        {
+          "text": "of",
+          "start": 241.4,
+          "end": 242.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 242.0,
+          "end": 242.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "tiger",
+          "start": 242.48,
+          "end": 242.5,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.5771968960762024,
+    "zh": 0.01069224625825882,
+    "de": 0.01244400441646576,
+    "es": 0.018372252583503723,
+    "ru": 0.06478291749954224,
+    "ko": 0.014740334823727608,
+    "fr": 0.021069496870040894,
+    "ja": 0.05323975905776024,
+    "pt": 0.053042057901620865,
+    "tr": 0.006346955895423889,
+    "pl": 0.011379927396774292,
+    "ca": 0.000680615077726543,
+    "nl": 0.003565086517482996,
+    "ar": 0.0030718110501766205,
+    "sv": 0.002678563352674246,
+    "it": 0.005066937301307917,
+    "id": 0.0009374304208904505,
+    "hi": 0.001343487179838121,
+    "fi": 0.000928456720430404,
+    "vi": 0.0021259943023324013,
+    "he": 0.0004409557150211185,
+    "uk": 0.0002878030063584447,
+    "el": 0.0019964289385825396,
+    "ms": 0.0007343541365116835,
+    "cs": 0.0008557970286346972,
+    "ro": 0.0015804263530299067,
+    "da": 0.00014848053979221731,
+    "hu": 0.001829501474276185,
+    "ta": 0.0009157279273495078,
+    "no": 0.00020871864398941398,
+    "th": 0.0010030005360022187,
+    "ur": 0.0001316282869083807,
+    "hr": 0.0011176918633282185,
+    "bg": 0.0004078434139955789,
+    "lt": 3.615454988903366e-05,
+    "la": 0.0046735601499676704,
+    "mi": 0.001106558833271265,
+    "ml": 0.0007950362050905824,
+    "cy": 0.04427305608987808,
+    "sk": 0.00013964601384941489,
+    "te": 0.0004770833475049585,
+    "fa": 0.00021770907915197313,
+    "lv": 6.246969860512763e-05,
+    "bn": 0.00025069393450394273,
+    "sr": 5.135055835125968e-05,
+    "az": 1.1234014891670085e-05,
+    "sl": 0.00024344873963855207,
+    "kn": 9.560881153447554e-06,
+    "et": 2.1568104784819297e-05,
+    "mk": 1.6360803783754818e-05,
+    "br": 0.0009861630387604237,
+    "eu": 0.0008849827572703362,
+    "is": 2.9800308766425587e-05,
+    "hy": 1.9281120330560952e-05,
+    "ne": 2.1220157577772625e-05,
+    "mn": 3.6156794521957636e-05,
+    "bs": 0.0005474771605804563,
+    "kk": 9.974355634767562e-06,
+    "sq": 2.2297999748843722e-05,
+    "sw": 0.00025130552239716053,
+    "gl": 0.0005140104913152754,
+    "mr": 5.356645942811156e-06,
+    "pa": 2.6524353415879887e-06,
+    "si": 0.002293940866366029,
+    "km": 0.027921760454773903,
+    "sn": 0.003701320616528392,
+    "yo": 0.0008620181470178068,
+    "so": 5.999190193506365e-07,
+    "af": 1.942245216923766e-05,
+    "oc": 7.581806858070195e-05,
+    "ka": 3.483050704744528e-06,
+    "be": 0.00010887721145991236,
+    "tg": 6.768780735910696e-08,
+    "sd": 1.32885479615652e-05,
+    "gu": 7.069609750942618e-07,
+    "am": 1.2807551001969841e-06,
+    "yi": 4.13362831750419e-05,
+    "lo": 2.09180452657165e-05,
+    "uz": 9.938462275371762e-10,
+    "fo": 1.127945779444417e-05,
+    "ht": 7.008823013165966e-05,
+    "ps": 1.851497836469207e-05,
+    "tk": 8.374729354443389e-09,
+    "nn": 0.02769150212407112,
+    "mt": 1.8774317140923813e-06,
+    "sa": 0.00023666940978728235,
+    "lb": 2.8789905570647534e-08,
+    "my": 0.00014197883137967438,
+    "bo": 1.596282709215302e-05,
+    "tl": 0.000990968313999474,
+    "mg": 2.8768809556822816e-09,
+    "as": 4.5284109546628315e-06,
+    "tt": 2.204861360155519e-08,
+    "haw": 0.001047434052452445,
+    "ln": 4.0250988604384474e-06,
+    "ha": 8.600730794228184e-09,
+    "ba": 1.0884003920352825e-08,
+    "jw": 0.003620258066803217,
+    "su": 7.387350109411273e-08
+  }
+}

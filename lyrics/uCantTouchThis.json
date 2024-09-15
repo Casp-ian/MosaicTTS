@@ -1,0 +1,3672 @@
+Detected language: English
+{
+  "text": " And the winner is MC Hamer You can't touch this You can't touch this You can't touch this You can't touch this My, my, my, my music hits so hard Makes me say, oh my lord Thank you for blessing me When I'm out to run and do my business Good, when you know you're down I'll sweep the whole way from the oak down And I'm known as such And this is a dream, uh, you can't touch I told you homeboy You can't touch this Yeah, that's how we living and you know You can't touch this Look at my eyes, man You can't touch this Yo, let me bust the funk from lyrics Fresh new kills and pants You got it like that Now you know you wanna dance the woo Out of your seat And get a five-girl and catch this beat while I was rollin' Hold on, pump a little bit And let a noise go on like that Like that, hold on a minute Just a bump on the back Let em know that you're too much And this is a beat, uh, you can't touch Yo, I told you You can't touch this Why you standing there, man? You can't touch this Yo, sound the bell, school is in, sucker You can't touch this Give me a song, a rhythm, makin' em' sweat That's what I'm giving em' now They know, you talkin' bout the hammer You talkin' bout a show that's hot And tight, singles are sweating so fast I'm a white quartete To learn, what's it gonna take In the 90s to learn the charts Legit, either work hard Or your minds will quit That's word, because you know You can't touch this You can't touch this Break it down Stop, hammer time Go with the flow, it is said If you can't move the list Then you probably ought to dance away Your hands in the air, bust a few moves Put your fingers through your head This is it, for I went now Dance to this, and you're gonna get in the mood Slide your rump, just for a minute Let's all do the rump Rump, rump, rump, yeah You can't touch this Look, man, you can't touch this You better get a height, boy, cause you know you can't You can't touch this Bring the bell, school's back in Break it down Stop, hammer time You can't touch this You can't touch this You can't touch this Break it down Stop, hammer time Every time you see me, the hair is just so high I've done it before, and I'm magic on the mic Now why would I ever stop doing this With others making packets It just don't get I'm doing around the world From London to the Bay It's hammer go, hammer empty, hammer yo Hammer and the rest can't go in play You can't touch this You can't touch this You can't touch this You can't touch this I told you, you can't touch this You can't touch this You can't touch this",
+  "segments": [
+    {
+      "start": 4.14,
+      "end": 8.88,
+      "text": " And the winner is MC Hamer",
+      "confidence": 0.41,
+      "words": [
+        {
+          "text": "And",
+          "start": 4.14,
+          "end": 4.22,
+          "confidence": 0.07
+        },
+        {
+          "text": "the",
+          "start": 4.22,
+          "end": 4.34,
+          "confidence": 0.71
+        },
+        {
+          "text": "winner",
+          "start": 4.34,
+          "end": 5.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "is",
+          "start": 5.42,
+          "end": 6.46,
+          "confidence": 0.38
+        },
+        {
+          "text": "MC",
+          "start": 6.46,
+          "end": 7.62,
+          "confidence": 0.58
+        },
+        {
+          "text": "Hamer",
+          "start": 7.62,
+          "end": 8.88,
+          "confidence": 0.43
+        }
+      ]
+    },
+    {
+      "start": 15.04,
+      "end": 19.38,
+      "text": " You can't touch this You can't touch this",
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "You",
+          "start": 15.04,
+          "end": 15.1,
+          "confidence": 0.41
+        },
+        {
+          "text": "can't",
+          "start": 15.1,
+          "end": 15.3,
+          "confidence": 0.95
+        },
+        {
+          "text": "touch",
+          "start": 15.3,
+          "end": 15.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "this",
+          "start": 15.5,
+          "end": 15.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "You",
+          "start": 15.76,
+          "end": 16.66,
+          "confidence": 0.39
+        },
+        {
+          "text": "can't",
+          "start": 16.66,
+          "end": 18.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 18.94,
+          "end": 19.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "this",
+          "start": 19.12,
+          "end": 19.38,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 22.16,
+      "end": 26.6,
+      "text": " You can't touch this You can't touch this",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "You",
+          "start": 22.16,
+          "end": 22.3,
+          "confidence": 0.58
+        },
+        {
+          "text": "can't",
+          "start": 22.3,
+          "end": 22.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 22.54,
+          "end": 22.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 22.72,
+          "end": 23.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "You",
+          "start": 23.0,
+          "end": 23.5,
+          "confidence": 0.92
+        },
+        {
+          "text": "can't",
+          "start": 23.5,
+          "end": 26.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 26.18,
+          "end": 26.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 26.34,
+          "end": 26.6,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 28.42,
+      "end": 33.62,
+      "text": " My, my, my, my music hits so hard Makes me say, oh my lord",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "My,",
+          "start": 28.42,
+          "end": 28.68,
+          "confidence": 0.86
+        },
+        {
+          "text": "my,",
+          "start": 28.76,
+          "end": 29.1,
+          "confidence": 0.78
+        },
+        {
+          "text": "my,",
+          "start": 29.32,
+          "end": 29.54,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 29.58,
+          "end": 29.94,
+          "confidence": 0.95
+        },
+        {
+          "text": "music",
+          "start": 29.94,
+          "end": 30.5,
+          "confidence": 0.79
+        },
+        {
+          "text": "hits",
+          "start": 30.5,
+          "end": 30.88,
+          "confidence": 0.55
+        },
+        {
+          "text": "so",
+          "start": 30.88,
+          "end": 31.52,
+          "confidence": 0.52
+        },
+        {
+          "text": "hard",
+          "start": 31.52,
+          "end": 31.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "Makes",
+          "start": 31.9,
+          "end": 32.18,
+          "confidence": 0.36
+        },
+        {
+          "text": "me",
+          "start": 32.18,
+          "end": 32.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "say,",
+          "start": 32.4,
+          "end": 32.66,
+          "confidence": 0.66
+        },
+        {
+          "text": "oh",
+          "start": 32.74,
+          "end": 33.12,
+          "confidence": 0.8
+        },
+        {
+          "text": "my",
+          "start": 33.12,
+          "end": 33.32,
+          "confidence": 0.84
+        },
+        {
+          "text": "lord",
+          "start": 33.32,
+          "end": 33.62,
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "start": 33.88,
+      "end": 37.18,
+      "text": " Thank you for blessing me When I'm out to run and do my business",
+      "confidence": 0.46,
+      "words": [
+        {
+          "text": "Thank",
+          "start": 33.88,
+          "end": 34.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 34.06,
+          "end": 34.26,
+          "confidence": 0.97
+        },
+        {
+          "text": "for",
+          "start": 34.26,
+          "end": 34.62,
+          "confidence": 0.98
+        },
+        {
+          "text": "blessing",
+          "start": 34.62,
+          "end": 35.0,
+          "confidence": 0.97
+        },
+        {
+          "text": "me",
+          "start": 35.0,
+          "end": 35.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "When",
+          "start": 35.34,
+          "end": 35.5,
+          "confidence": 0.29
+        },
+        {
+          "text": "I'm",
+          "start": 35.5,
+          "end": 35.68,
+          "confidence": 0.63
+        },
+        {
+          "text": "out",
+          "start": 35.68,
+          "end": 35.84,
+          "confidence": 0.09
+        },
+        {
+          "text": "to",
+          "start": 35.84,
+          "end": 36.04,
+          "confidence": 0.29
+        },
+        {
+          "text": "run",
+          "start": 36.04,
+          "end": 36.28,
+          "confidence": 0.86
+        },
+        {
+          "text": "and",
+          "start": 36.28,
+          "end": 36.52,
+          "confidence": 0.5
+        },
+        {
+          "text": "do",
+          "start": 36.52,
+          "end": 36.7,
+          "confidence": 0.31
+        },
+        {
+          "text": "my",
+          "start": 36.7,
+          "end": 36.92,
+          "confidence": 0.13
+        },
+        {
+          "text": "business",
+          "start": 36.92,
+          "end": 37.18,
+          "confidence": 0.19
+        }
+      ]
+    },
+    {
+      "start": 37.28,
+      "end": 40.76,
+      "text": " Good, when you know you're down I'll sweep the whole way from the oak down",
+      "confidence": 0.72,
+      "words": [
+        {
+          "text": "Good,",
+          "start": 37.28,
+          "end": 37.74,
+          "confidence": 0.58
+        },
+        {
+          "text": "when",
+          "start": 38.14,
+          "end": 38.22,
+          "confidence": 0.75
+        },
+        {
+          "text": "you",
+          "start": 38.22,
+          "end": 38.36,
+          "confidence": 0.94
+        },
+        {
+          "text": "know",
+          "start": 38.36,
+          "end": 38.48,
+          "confidence": 0.83
+        },
+        {
+          "text": "you're",
+          "start": 38.48,
+          "end": 38.76,
+          "confidence": 0.93
+        },
+        {
+          "text": "down",
+          "start": 38.76,
+          "end": 39.04,
+          "confidence": 0.96
+        },
+        {
+          "text": "I'll",
+          "start": 39.04,
+          "end": 39.3,
+          "confidence": 0.59
+        },
+        {
+          "text": "sweep",
+          "start": 39.3,
+          "end": 39.42,
+          "confidence": 0.5
+        },
+        {
+          "text": "the",
+          "start": 39.42,
+          "end": 39.62,
+          "confidence": 0.73
+        },
+        {
+          "text": "whole",
+          "start": 39.62,
+          "end": 39.88,
+          "confidence": 0.92
+        },
+        {
+          "text": "way",
+          "start": 39.88,
+          "end": 40.1,
+          "confidence": 0.24
+        },
+        {
+          "text": "from",
+          "start": 40.1,
+          "end": 40.24,
+          "confidence": 0.95
+        },
+        {
+          "text": "the",
+          "start": 40.24,
+          "end": 40.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "oak",
+          "start": 40.4,
+          "end": 40.56,
+          "confidence": 0.63
+        },
+        {
+          "text": "down",
+          "start": 40.56,
+          "end": 40.76,
+          "confidence": 0.86
+        }
+      ]
+    },
+    {
+      "start": 40.76,
+      "end": 44.42,
+      "text": " And I'm known as such And this is a dream, uh, you can't touch",
+      "confidence": 0.7,
+      "words": [
+        {
+          "text": "And",
+          "start": 40.76,
+          "end": 40.92,
+          "confidence": 0.92
+        },
+        {
+          "text": "I'm",
+          "start": 40.92,
+          "end": 41.14,
+          "confidence": 0.76
+        },
+        {
+          "text": "known",
+          "start": 41.14,
+          "end": 41.38,
+          "confidence": 0.93
+        },
+        {
+          "text": "as",
+          "start": 41.38,
+          "end": 42.34,
+          "confidence": 0.59
+        },
+        {
+          "text": "such",
+          "start": 42.34,
+          "end": 42.62,
+          "confidence": 0.97
+        },
+        {
+          "text": "And",
+          "start": 42.62,
+          "end": 42.88,
+          "confidence": 0.5
+        },
+        {
+          "text": "this",
+          "start": 42.88,
+          "end": 43.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "is",
+          "start": 43.06,
+          "end": 43.24,
+          "confidence": 0.93
+        },
+        {
+          "text": "a",
+          "start": 43.24,
+          "end": 43.32,
+          "confidence": 0.54
+        },
+        {
+          "text": "dream,",
+          "start": 43.32,
+          "end": 43.52,
+          "confidence": 0.09
+        },
+        {
+          "text": "uh,",
+          "start": 43.6,
+          "end": 43.74,
+          "confidence": 0.53
+        },
+        {
+          "text": "you",
+          "start": 43.8,
+          "end": 43.98,
+          "confidence": 0.95
+        },
+        {
+          "text": "can't",
+          "start": 43.98,
+          "end": 44.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 44.22,
+          "end": 44.42,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 45.7,
+      "end": 48.28,
+      "text": " I told you homeboy You can't touch this",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "I",
+          "start": 45.7,
+          "end": 45.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "told",
+          "start": 45.82,
+          "end": 46.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 46.12,
+          "end": 46.38,
+          "confidence": 0.91
+        },
+        {
+          "text": "homeboy",
+          "start": 46.38,
+          "end": 46.94,
+          "confidence": 0.57
+        },
+        {
+          "text": "You",
+          "start": 46.94,
+          "end": 47.44,
+          "confidence": 0.65
+        },
+        {
+          "text": "can't",
+          "start": 47.44,
+          "end": 47.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 47.84,
+          "end": 48.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 48.02,
+          "end": 48.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 49.24,
+      "end": 51.92,
+      "text": " Yeah, that's how we living and you know You can't touch this",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 49.24,
+          "end": 49.44,
+          "confidence": 0.84
+        },
+        {
+          "text": "that's",
+          "start": 49.52,
+          "end": 49.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "how",
+          "start": 49.72,
+          "end": 49.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "we",
+          "start": 49.86,
+          "end": 50.02,
+          "confidence": 0.98
+        },
+        {
+          "text": "living",
+          "start": 50.02,
+          "end": 50.32,
+          "confidence": 0.46
+        },
+        {
+          "text": "and",
+          "start": 50.32,
+          "end": 50.5,
+          "confidence": 0.46
+        },
+        {
+          "text": "you",
+          "start": 50.5,
+          "end": 50.62,
+          "confidence": 0.95
+        },
+        {
+          "text": "know",
+          "start": 50.62,
+          "end": 50.94,
+          "confidence": 0.97
+        },
+        {
+          "text": "You",
+          "start": 50.94,
+          "end": 51.24,
+          "confidence": 0.76
+        },
+        {
+          "text": "can't",
+          "start": 51.24,
+          "end": 51.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 51.46,
+          "end": 51.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 51.62,
+          "end": 51.92,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 55.52,
+      "text": " Look at my eyes, man You can't touch this",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Look",
+          "start": 53.0,
+          "end": 53.12,
+          "confidence": 0.83
+        },
+        {
+          "text": "at",
+          "start": 53.12,
+          "end": 53.26,
+          "confidence": 0.68
+        },
+        {
+          "text": "my",
+          "start": 53.26,
+          "end": 53.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "eyes,",
+          "start": 53.4,
+          "end": 53.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "man",
+          "start": 53.84,
+          "end": 54.24,
+          "confidence": 0.8
+        },
+        {
+          "text": "You",
+          "start": 54.24,
+          "end": 54.82,
+          "confidence": 0.79
+        },
+        {
+          "text": "can't",
+          "start": 54.82,
+          "end": 55.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 55.04,
+          "end": 55.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 55.24,
+          "end": 55.52,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 57.02,
+      "end": 60.7,
+      "text": " Yo, let me bust the funk from lyrics Fresh new kills and pants",
+      "confidence": 0.65,
+      "words": [
+        {
+          "text": "Yo,",
+          "start": 57.02,
+          "end": 57.22,
+          "confidence": 0.86
+        },
+        {
+          "text": "let",
+          "start": 57.28,
+          "end": 57.38,
+          "confidence": 0.91
+        },
+        {
+          "text": "me",
+          "start": 57.38,
+          "end": 57.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "bust",
+          "start": 57.48,
+          "end": 57.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 57.7,
+          "end": 57.94,
+          "confidence": 0.34
+        },
+        {
+          "text": "funk",
+          "start": 57.94,
+          "end": 58.14,
+          "confidence": 0.3
+        },
+        {
+          "text": "from",
+          "start": 58.14,
+          "end": 58.32,
+          "confidence": 0.3
+        },
+        {
+          "text": "lyrics",
+          "start": 58.32,
+          "end": 58.48,
+          "confidence": 0.81
+        },
+        {
+          "text": "Fresh",
+          "start": 58.48,
+          "end": 59.24,
+          "confidence": 0.67
+        },
+        {
+          "text": "new",
+          "start": 59.24,
+          "end": 59.5,
+          "confidence": 0.82
+        },
+        {
+          "text": "kills",
+          "start": 59.5,
+          "end": 59.82,
+          "confidence": 0.55
+        },
+        {
+          "text": "and",
+          "start": 59.82,
+          "end": 60.38,
+          "confidence": 0.91
+        },
+        {
+          "text": "pants",
+          "start": 60.38,
+          "end": 60.7,
+          "confidence": 0.66
+        }
+      ]
+    },
+    {
+      "start": 60.76,
+      "end": 62.94,
+      "text": " You got it like that Now you know you wanna dance the woo",
+      "confidence": 0.69,
+      "words": [
+        {
+          "text": "You",
+          "start": 60.76,
+          "end": 60.94,
+          "confidence": 0.95
+        },
+        {
+          "text": "got",
+          "start": 60.94,
+          "end": 61.04,
+          "confidence": 0.85
+        },
+        {
+          "text": "it",
+          "start": 61.04,
+          "end": 61.14,
+          "confidence": 0.94
+        },
+        {
+          "text": "like",
+          "start": 61.14,
+          "end": 61.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 61.3,
+          "end": 61.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "Now",
+          "start": 61.5,
+          "end": 61.68,
+          "confidence": 0.37
+        },
+        {
+          "text": "you",
+          "start": 61.68,
+          "end": 61.8,
+          "confidence": 0.97
+        },
+        {
+          "text": "know",
+          "start": 61.8,
+          "end": 61.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 61.92,
+          "end": 62.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "wanna",
+          "start": 62.04,
+          "end": 62.2,
+          "confidence": 0.64
+        },
+        {
+          "text": "dance",
+          "start": 62.2,
+          "end": 62.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 62.44,
+          "end": 62.68,
+          "confidence": 0.22
+        },
+        {
+          "text": "woo",
+          "start": 62.68,
+          "end": 62.94,
+          "confidence": 0.23
+        }
+      ]
+    },
+    {
+      "start": 63.66,
+      "end": 67.4,
+      "text": " Out of your seat And get a five-girl and catch this beat while I was rollin'",
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "Out",
+          "start": 63.66,
+          "end": 63.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "of",
+          "start": 63.78,
+          "end": 63.88,
+          "confidence": 0.87
+        },
+        {
+          "text": "your",
+          "start": 63.88,
+          "end": 64.0,
+          "confidence": 0.96
+        },
+        {
+          "text": "seat",
+          "start": 64.0,
+          "end": 64.26,
+          "confidence": 0.8
+        },
+        {
+          "text": "And",
+          "start": 64.26,
+          "end": 64.52,
+          "confidence": 0.71
+        },
+        {
+          "text": "get",
+          "start": 64.52,
+          "end": 64.64,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 64.64,
+          "end": 64.76,
+          "confidence": 0.97
+        },
+        {
+          "text": "five-girl",
+          "start": 64.76,
+          "end": 65.16,
+          "confidence": 0.59
+        },
+        {
+          "text": "and",
+          "start": 65.16,
+          "end": 65.36,
+          "confidence": 0.71
+        },
+        {
+          "text": "catch",
+          "start": 65.36,
+          "end": 65.56,
+          "confidence": 0.87
+        },
+        {
+          "text": "this",
+          "start": 65.56,
+          "end": 65.8,
+          "confidence": 0.74
+        },
+        {
+          "text": "beat",
+          "start": 65.8,
+          "end": 66.02,
+          "confidence": 0.92
+        },
+        {
+          "text": "while",
+          "start": 66.02,
+          "end": 66.2,
+          "confidence": 0.65
+        },
+        {
+          "text": "I",
+          "start": 66.2,
+          "end": 66.28,
+          "confidence": 0.64
+        },
+        {
+          "text": "was",
+          "start": 66.28,
+          "end": 66.38,
+          "confidence": 0.86
+        },
+        {
+          "text": "rollin'",
+          "start": 66.38,
+          "end": 67.4,
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "start": 67.42,
+      "end": 70.22,
+      "text": " Hold on, pump a little bit And let a noise go on like that",
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "Hold",
+          "start": 67.42,
+          "end": 67.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "on,",
+          "start": 67.64,
+          "end": 67.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "pump",
+          "start": 68.1,
+          "end": 68.28,
+          "confidence": 0.85
+        },
+        {
+          "text": "a",
+          "start": 68.28,
+          "end": 68.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "little",
+          "start": 68.44,
+          "end": 68.56,
+          "confidence": 0.97
+        },
+        {
+          "text": "bit",
+          "start": 68.56,
+          "end": 68.74,
+          "confidence": 0.95
+        },
+        {
+          "text": "And",
+          "start": 68.74,
+          "end": 68.86,
+          "confidence": 0.57
+        },
+        {
+          "text": "let",
+          "start": 68.86,
+          "end": 68.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 68.92,
+          "end": 69.02,
+          "confidence": 0.33
+        },
+        {
+          "text": "noise",
+          "start": 69.02,
+          "end": 69.2,
+          "confidence": 0.95
+        },
+        {
+          "text": "go",
+          "start": 69.2,
+          "end": 69.42,
+          "confidence": 0.64
+        },
+        {
+          "text": "on",
+          "start": 69.42,
+          "end": 69.54,
+          "confidence": 0.9
+        },
+        {
+          "text": "like",
+          "start": 69.54,
+          "end": 69.82,
+          "confidence": 0.58
+        },
+        {
+          "text": "that",
+          "start": 69.82,
+          "end": 70.22,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 70.96,
+      "end": 73.24,
+      "text": " Like that, hold on a minute Just a bump on the back",
+      "confidence": 0.65,
+      "words": [
+        {
+          "text": "Like",
+          "start": 70.96,
+          "end": 71.24,
+          "confidence": 0.92
+        },
+        {
+          "text": "that,",
+          "start": 71.24,
+          "end": 71.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "hold",
+          "start": 71.6,
+          "end": 71.96,
+          "confidence": 0.5
+        },
+        {
+          "text": "on",
+          "start": 71.96,
+          "end": 72.12,
+          "confidence": 0.87
+        },
+        {
+          "text": "a",
+          "start": 72.12,
+          "end": 72.24,
+          "confidence": 0.66
+        },
+        {
+          "text": "minute",
+          "start": 72.24,
+          "end": 72.34,
+          "confidence": 0.38
+        },
+        {
+          "text": "Just",
+          "start": 72.34,
+          "end": 72.48,
+          "confidence": 0.7
+        },
+        {
+          "text": "a",
+          "start": 72.48,
+          "end": 72.6,
+          "confidence": 0.68
+        },
+        {
+          "text": "bump",
+          "start": 72.6,
+          "end": 72.86,
+          "confidence": 0.27
+        },
+        {
+          "text": "on",
+          "start": 72.86,
+          "end": 73.06,
+          "confidence": 0.92
+        },
+        {
+          "text": "the",
+          "start": 73.06,
+          "end": 73.14,
+          "confidence": 0.53
+        },
+        {
+          "text": "back",
+          "start": 73.14,
+          "end": 73.24,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 73.24,
+      "end": 76.92,
+      "text": " Let em know that you're too much And this is a beat, uh, you can't touch",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "Let",
+          "start": 73.24,
+          "end": 73.44,
+          "confidence": 0.97
+        },
+        {
+          "text": "em",
+          "start": 73.44,
+          "end": 73.54,
+          "confidence": 0.41
+        },
+        {
+          "text": "know",
+          "start": 73.54,
+          "end": 73.8,
+          "confidence": 0.79
+        },
+        {
+          "text": "that",
+          "start": 73.8,
+          "end": 74.44,
+          "confidence": 0.82
+        },
+        {
+          "text": "you're",
+          "start": 74.44,
+          "end": 74.66,
+          "confidence": 0.93
+        },
+        {
+          "text": "too",
+          "start": 74.66,
+          "end": 74.82,
+          "confidence": 0.96
+        },
+        {
+          "text": "much",
+          "start": 74.82,
+          "end": 75.1,
+          "confidence": 0.98
+        },
+        {
+          "text": "And",
+          "start": 75.1,
+          "end": 75.36,
+          "confidence": 0.96
+        },
+        {
+          "text": "this",
+          "start": 75.36,
+          "end": 75.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "is",
+          "start": 75.52,
+          "end": 75.72,
+          "confidence": 0.91
+        },
+        {
+          "text": "a",
+          "start": 75.72,
+          "end": 75.82,
+          "confidence": 0.96
+        },
+        {
+          "text": "beat,",
+          "start": 75.82,
+          "end": 75.98,
+          "confidence": 0.69
+        },
+        {
+          "text": "uh,",
+          "start": 76.08,
+          "end": 76.18,
+          "confidence": 0.95
+        },
+        {
+          "text": "you",
+          "start": 76.3,
+          "end": 76.44,
+          "confidence": 0.79
+        },
+        {
+          "text": "can't",
+          "start": 76.44,
+          "end": 76.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 76.7,
+          "end": 76.92,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 77.18,
+      "end": 80.76,
+      "text": " Yo, I told you You can't touch this",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Yo,",
+          "start": 77.18,
+          "end": 79.12,
+          "confidence": 0.72
+        },
+        {
+          "text": "I",
+          "start": 79.2,
+          "end": 79.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "told",
+          "start": 79.34,
+          "end": 79.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 79.56,
+          "end": 79.84,
+          "confidence": 0.96
+        },
+        {
+          "text": "You",
+          "start": 79.84,
+          "end": 80.06,
+          "confidence": 0.6
+        },
+        {
+          "text": "can't",
+          "start": 80.06,
+          "end": 80.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 80.3,
+          "end": 80.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 80.48,
+          "end": 80.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 82.22,
+      "end": 84.38,
+      "text": " Why you standing there, man? You can't touch this",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "Why",
+          "start": 82.22,
+          "end": 82.44,
+          "confidence": 0.82
+        },
+        {
+          "text": "you",
+          "start": 82.44,
+          "end": 82.56,
+          "confidence": 0.81
+        },
+        {
+          "text": "standing",
+          "start": 82.56,
+          "end": 82.92,
+          "confidence": 0.33
+        },
+        {
+          "text": "there,",
+          "start": 82.92,
+          "end": 83.18,
+          "confidence": 0.82
+        },
+        {
+          "text": "man?",
+          "start": 83.22,
+          "end": 83.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "You",
+          "start": 83.6,
+          "end": 83.74,
+          "confidence": 0.86
+        },
+        {
+          "text": "can't",
+          "start": 83.74,
+          "end": 83.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 83.92,
+          "end": 84.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 84.12,
+          "end": 84.38,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 84.72,
+      "end": 87.94,
+      "text": " Yo, sound the bell, school is in, sucker You can't touch this",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "Yo,",
+          "start": 84.72,
+          "end": 85.08,
+          "confidence": 0.94
+        },
+        {
+          "text": "sound",
+          "start": 85.1,
+          "end": 85.38,
+          "confidence": 0.86
+        },
+        {
+          "text": "the",
+          "start": 85.38,
+          "end": 85.58,
+          "confidence": 0.95
+        },
+        {
+          "text": "bell,",
+          "start": 85.58,
+          "end": 85.8,
+          "confidence": 0.58
+        },
+        {
+          "text": "school",
+          "start": 85.92,
+          "end": 86.2,
+          "confidence": 0.9
+        },
+        {
+          "text": "is",
+          "start": 86.2,
+          "end": 86.44,
+          "confidence": 0.7
+        },
+        {
+          "text": "in,",
+          "start": 86.44,
+          "end": 86.58,
+          "confidence": 0.95
+        },
+        {
+          "text": "sucker",
+          "start": 86.74,
+          "end": 86.94,
+          "confidence": 0.64
+        },
+        {
+          "text": "You",
+          "start": 86.94,
+          "end": 87.28,
+          "confidence": 0.84
+        },
+        {
+          "text": "can't",
+          "start": 87.28,
+          "end": 87.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 87.5,
+          "end": 87.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 87.72,
+          "end": 87.94,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 87.96,
+      "end": 91.94,
+      "text": " Give me a song, a rhythm, makin' em' sweat That's what I'm giving em' now",
+      "confidence": 0.67,
+      "words": [
+        {
+          "text": "Give",
+          "start": 87.96,
+          "end": 88.12,
+          "confidence": 0.58
+        },
+        {
+          "text": "me",
+          "start": 88.12,
+          "end": 88.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 88.28,
+          "end": 88.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "song,",
+          "start": 88.42,
+          "end": 88.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 89.1,
+          "end": 89.24,
+          "confidence": 0.51
+        },
+        {
+          "text": "rhythm,",
+          "start": 89.24,
+          "end": 89.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "makin'",
+          "start": 89.92,
+          "end": 90.04,
+          "confidence": 0.77
+        },
+        {
+          "text": "em'",
+          "start": 90.04,
+          "end": 90.24,
+          "confidence": 0.24
+        },
+        {
+          "text": "sweat",
+          "start": 90.24,
+          "end": 90.4,
+          "confidence": 0.22
+        },
+        {
+          "text": "That's",
+          "start": 90.4,
+          "end": 90.68,
+          "confidence": 0.86
+        },
+        {
+          "text": "what",
+          "start": 90.68,
+          "end": 90.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "I'm",
+          "start": 90.86,
+          "end": 91.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "giving",
+          "start": 91.12,
+          "end": 91.3,
+          "confidence": 0.47
+        },
+        {
+          "text": "em'",
+          "start": 91.3,
+          "end": 91.58,
+          "confidence": 0.69
+        },
+        {
+          "text": "now",
+          "start": 91.58,
+          "end": 91.94,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 92.68,
+      "end": 95.42,
+      "text": " They know, you talkin' bout the hammer You talkin' bout a show that's hot",
+      "confidence": 0.76,
+      "words": [
+        {
+          "text": "They",
+          "start": 92.68,
+          "end": 92.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "know,",
+          "start": 92.86,
+          "end": 93.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 93.26,
+          "end": 93.38,
+          "confidence": 0.74
+        },
+        {
+          "text": "talkin'",
+          "start": 93.38,
+          "end": 93.62,
+          "confidence": 0.68
+        },
+        {
+          "text": "bout",
+          "start": 93.62,
+          "end": 93.72,
+          "confidence": 0.61
+        },
+        {
+          "text": "the",
+          "start": 93.72,
+          "end": 93.86,
+          "confidence": 0.93
+        },
+        {
+          "text": "hammer",
+          "start": 93.86,
+          "end": 94.06,
+          "confidence": 0.23
+        },
+        {
+          "text": "You",
+          "start": 94.06,
+          "end": 94.26,
+          "confidence": 0.69
+        },
+        {
+          "text": "talkin'",
+          "start": 94.26,
+          "end": 94.48,
+          "confidence": 0.97
+        },
+        {
+          "text": "bout",
+          "start": 94.48,
+          "end": 94.62,
+          "confidence": 0.96
+        },
+        {
+          "text": "a",
+          "start": 94.62,
+          "end": 94.7,
+          "confidence": 0.56
+        },
+        {
+          "text": "show",
+          "start": 94.7,
+          "end": 94.9,
+          "confidence": 0.69
+        },
+        {
+          "text": "that's",
+          "start": 94.9,
+          "end": 95.16,
+          "confidence": 0.98
+        },
+        {
+          "text": "hot",
+          "start": 95.16,
+          "end": 95.42,
+          "confidence": 0.84
+        }
+      ]
+    },
+    {
+      "start": 96.34,
+      "end": 99.08,
+      "text": " And tight, singles are sweating so fast I'm a white quartete",
+      "confidence": 0.57,
+      "words": [
+        {
+          "text": "And",
+          "start": 96.34,
+          "end": 96.52,
+          "confidence": 0.96
+        },
+        {
+          "text": "tight,",
+          "start": 96.52,
+          "end": 96.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "singles",
+          "start": 97.0,
+          "end": 97.2,
+          "confidence": 0.95
+        },
+        {
+          "text": "are",
+          "start": 97.2,
+          "end": 97.38,
+          "confidence": 0.79
+        },
+        {
+          "text": "sweating",
+          "start": 97.38,
+          "end": 97.6,
+          "confidence": 0.47
+        },
+        {
+          "text": "so",
+          "start": 97.6,
+          "end": 97.82,
+          "confidence": 0.72
+        },
+        {
+          "text": "fast",
+          "start": 97.82,
+          "end": 98.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "I'm",
+          "start": 98.08,
+          "end": 98.3,
+          "confidence": 0.51
+        },
+        {
+          "text": "a",
+          "start": 98.3,
+          "end": 98.4,
+          "confidence": 0.31
+        },
+        {
+          "text": "white",
+          "start": 98.4,
+          "end": 98.52,
+          "confidence": 0.9
+        },
+        {
+          "text": "quartete",
+          "start": 98.52,
+          "end": 99.08,
+          "confidence": 0.2
+        }
+      ]
+    },
+    {
+      "start": 99.9,
+      "end": 102.68,
+      "text": " To learn, what's it gonna take In the 90s to learn the charts",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "To",
+          "start": 99.9,
+          "end": 100.1,
+          "confidence": 0.77
+        },
+        {
+          "text": "learn,",
+          "start": 100.1,
+          "end": 100.42,
+          "confidence": 0.7
+        },
+        {
+          "text": "what's",
+          "start": 100.64,
+          "end": 100.84,
+          "confidence": 0.83
+        },
+        {
+          "text": "it",
+          "start": 100.84,
+          "end": 100.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "gonna",
+          "start": 100.94,
+          "end": 101.0,
+          "confidence": 0.94
+        },
+        {
+          "text": "take",
+          "start": 101.0,
+          "end": 101.24,
+          "confidence": 0.97
+        },
+        {
+          "text": "In",
+          "start": 101.24,
+          "end": 101.42,
+          "confidence": 0.38
+        },
+        {
+          "text": "the",
+          "start": 101.42,
+          "end": 101.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "90s",
+          "start": 101.52,
+          "end": 101.78,
+          "confidence": 0.56
+        },
+        {
+          "text": "to",
+          "start": 101.78,
+          "end": 101.9,
+          "confidence": 0.97
+        },
+        {
+          "text": "learn",
+          "start": 101.9,
+          "end": 102.12,
+          "confidence": 0.61
+        },
+        {
+          "text": "the",
+          "start": 102.12,
+          "end": 102.3,
+          "confidence": 0.97
+        },
+        {
+          "text": "charts",
+          "start": 102.3,
+          "end": 102.68,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 103.48,
+      "end": 105.76,
+      "text": " Legit, either work hard Or your minds will quit",
+      "confidence": 0.76,
+      "words": [
+        {
+          "text": "Legit,",
+          "start": 103.48,
+          "end": 104.0,
+          "confidence": 0.78
+        },
+        {
+          "text": "either",
+          "start": 104.18,
+          "end": 104.38,
+          "confidence": 0.92
+        },
+        {
+          "text": "work",
+          "start": 104.38,
+          "end": 104.58,
+          "confidence": 0.96
+        },
+        {
+          "text": "hard",
+          "start": 104.58,
+          "end": 104.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "Or",
+          "start": 104.82,
+          "end": 104.98,
+          "confidence": 0.52
+        },
+        {
+          "text": "your",
+          "start": 104.98,
+          "end": 105.08,
+          "confidence": 0.83
+        },
+        {
+          "text": "minds",
+          "start": 105.08,
+          "end": 105.26,
+          "confidence": 0.48
+        },
+        {
+          "text": "will",
+          "start": 105.26,
+          "end": 105.46,
+          "confidence": 0.64
+        },
+        {
+          "text": "quit",
+          "start": 105.46,
+          "end": 105.76,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 106.36,
+      "end": 109.62,
+      "text": " That's word, because you know You can't touch this",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "That's",
+          "start": 106.36,
+          "end": 106.66,
+          "confidence": 0.9
+        },
+        {
+          "text": "word,",
+          "start": 106.66,
+          "end": 106.98,
+          "confidence": 0.84
+        },
+        {
+          "text": "because",
+          "start": 107.1,
+          "end": 107.44,
+          "confidence": 0.97
+        },
+        {
+          "text": "you",
+          "start": 107.44,
+          "end": 107.74,
+          "confidence": 0.79
+        },
+        {
+          "text": "know",
+          "start": 107.74,
+          "end": 108.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "You",
+          "start": 108.02,
+          "end": 108.84,
+          "confidence": 0.88
+        },
+        {
+          "text": "can't",
+          "start": 108.84,
+          "end": 109.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 109.14,
+          "end": 109.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 109.34,
+          "end": 109.62,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 112.0,
+      "end": 113.28,
+      "text": " You can't touch this",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You",
+          "start": 112.0,
+          "end": 112.6,
+          "confidence": 0.91
+        },
+        {
+          "text": "can't",
+          "start": 112.6,
+          "end": 112.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 112.8,
+          "end": 112.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 112.98,
+          "end": 113.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 116.14,
+      "end": 116.72,
+      "text": " Break it down",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Break",
+          "start": 116.14,
+          "end": 116.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "it",
+          "start": 116.28,
+          "end": 116.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "down",
+          "start": 116.44,
+          "end": 116.72,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 129.86,
+      "end": 131.06,
+      "text": " Stop, hammer time",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "Stop,",
+          "start": 129.86,
+          "end": 130.12,
+          "confidence": 0.95
+        },
+        {
+          "text": "hammer",
+          "start": 130.52,
+          "end": 130.76,
+          "confidence": 0.64
+        },
+        {
+          "text": "time",
+          "start": 130.76,
+          "end": 131.06,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 131.26,
+      "end": 133.74,
+      "text": " Go with the flow, it is said If you can't move the list",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "Go",
+          "start": 131.26,
+          "end": 131.42,
+          "confidence": 0.76
+        },
+        {
+          "text": "with",
+          "start": 131.42,
+          "end": 131.6,
+          "confidence": 0.85
+        },
+        {
+          "text": "the",
+          "start": 131.6,
+          "end": 131.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "flow,",
+          "start": 131.74,
+          "end": 131.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "it",
+          "start": 132.02,
+          "end": 132.52,
+          "confidence": 0.85
+        },
+        {
+          "text": "is",
+          "start": 132.52,
+          "end": 132.64,
+          "confidence": 0.9
+        },
+        {
+          "text": "said",
+          "start": 132.64,
+          "end": 132.86,
+          "confidence": 0.96
+        },
+        {
+          "text": "If",
+          "start": 132.86,
+          "end": 133.0,
+          "confidence": 0.83
+        },
+        {
+          "text": "you",
+          "start": 133.0,
+          "end": 133.08,
+          "confidence": 0.96
+        },
+        {
+          "text": "can't",
+          "start": 133.08,
+          "end": 133.3,
+          "confidence": 0.93
+        },
+        {
+          "text": "move",
+          "start": 133.3,
+          "end": 133.46,
+          "confidence": 0.36
+        },
+        {
+          "text": "the",
+          "start": 133.46,
+          "end": 133.58,
+          "confidence": 0.49
+        },
+        {
+          "text": "list",
+          "start": 133.58,
+          "end": 133.74,
+          "confidence": 0.33
+        }
+      ]
+    },
+    {
+      "start": 133.78,
+      "end": 137.32,
+      "text": " Then you probably ought to dance away Your hands in the air, bust a few moves",
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "Then",
+          "start": 133.78,
+          "end": 133.92,
+          "confidence": 0.7
+        },
+        {
+          "text": "you",
+          "start": 133.92,
+          "end": 133.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "probably",
+          "start": 133.98,
+          "end": 134.18,
+          "confidence": 0.91
+        },
+        {
+          "text": "ought",
+          "start": 134.18,
+          "end": 134.4,
+          "confidence": 0.38
+        },
+        {
+          "text": "to",
+          "start": 134.4,
+          "end": 134.48,
+          "confidence": 0.78
+        },
+        {
+          "text": "dance",
+          "start": 134.48,
+          "end": 134.62,
+          "confidence": 0.98
+        },
+        {
+          "text": "away",
+          "start": 134.62,
+          "end": 135.04,
+          "confidence": 0.97
+        },
+        {
+          "text": "Your",
+          "start": 135.04,
+          "end": 135.72,
+          "confidence": 0.52
+        },
+        {
+          "text": "hands",
+          "start": 135.72,
+          "end": 135.98,
+          "confidence": 0.95
+        },
+        {
+          "text": "in",
+          "start": 135.98,
+          "end": 136.16,
+          "confidence": 0.95
+        },
+        {
+          "text": "the",
+          "start": 136.16,
+          "end": 136.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "air,",
+          "start": 136.3,
+          "end": 136.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "bust",
+          "start": 136.68,
+          "end": 136.86,
+          "confidence": 0.85
+        },
+        {
+          "text": "a",
+          "start": 136.86,
+          "end": 137.0,
+          "confidence": 0.75
+        },
+        {
+          "text": "few",
+          "start": 137.0,
+          "end": 137.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "moves",
+          "start": 137.12,
+          "end": 137.32,
+          "confidence": 0.84
+        }
+      ]
+    },
+    {
+      "start": 137.34,
+      "end": 140.22,
+      "text": " Put your fingers through your head This is it, for I went now",
+      "confidence": 0.66,
+      "words": [
+        {
+          "text": "Put",
+          "start": 137.34,
+          "end": 137.48,
+          "confidence": 0.23
+        },
+        {
+          "text": "your",
+          "start": 137.48,
+          "end": 137.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "fingers",
+          "start": 137.58,
+          "end": 137.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "through",
+          "start": 137.76,
+          "end": 137.94,
+          "confidence": 0.95
+        },
+        {
+          "text": "your",
+          "start": 137.94,
+          "end": 138.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "head",
+          "start": 138.06,
+          "end": 138.2,
+          "confidence": 0.58
+        },
+        {
+          "text": "This",
+          "start": 138.2,
+          "end": 138.38,
+          "confidence": 0.38
+        },
+        {
+          "text": "is",
+          "start": 138.38,
+          "end": 138.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "it,",
+          "start": 138.54,
+          "end": 138.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 139.48,
+          "end": 139.72,
+          "confidence": 0.84
+        },
+        {
+          "text": "I",
+          "start": 139.72,
+          "end": 139.84,
+          "confidence": 0.67
+        },
+        {
+          "text": "went",
+          "start": 139.84,
+          "end": 140.04,
+          "confidence": 0.87
+        },
+        {
+          "text": "now",
+          "start": 140.04,
+          "end": 140.22,
+          "confidence": 0.18
+        }
+      ]
+    },
+    {
+      "start": 140.24,
+      "end": 142.22,
+      "text": " Dance to this, and you're gonna get in the mood",
+      "confidence": 0.71,
+      "words": [
+        {
+          "text": "Dance",
+          "start": 140.24,
+          "end": 140.5,
+          "confidence": 0.9
+        },
+        {
+          "text": "to",
+          "start": 140.5,
+          "end": 140.72,
+          "confidence": 0.7
+        },
+        {
+          "text": "this,",
+          "start": 140.72,
+          "end": 140.96,
+          "confidence": 0.66
+        },
+        {
+          "text": "and",
+          "start": 141.04,
+          "end": 141.12,
+          "confidence": 0.66
+        },
+        {
+          "text": "you're",
+          "start": 141.12,
+          "end": 141.26,
+          "confidence": 0.81
+        },
+        {
+          "text": "gonna",
+          "start": 141.26,
+          "end": 141.4,
+          "confidence": 0.86
+        },
+        {
+          "text": "get",
+          "start": 141.4,
+          "end": 141.6,
+          "confidence": 0.96
+        },
+        {
+          "text": "in",
+          "start": 141.6,
+          "end": 141.84,
+          "confidence": 0.42
+        },
+        {
+          "text": "the",
+          "start": 141.84,
+          "end": 142.02,
+          "confidence": 0.78
+        },
+        {
+          "text": "mood",
+          "start": 142.02,
+          "end": 142.22,
+          "confidence": 0.46
+        }
+      ]
+    },
+    {
+      "start": 142.76,
+      "end": 145.44,
+      "text": " Slide your rump, just for a minute Let's all do the rump",
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "Slide",
+          "start": 142.76,
+          "end": 143.08,
+          "confidence": 0.92
+        },
+        {
+          "text": "your",
+          "start": 143.08,
+          "end": 143.42,
+          "confidence": 0.6
+        },
+        {
+          "text": "rump,",
+          "start": 143.42,
+          "end": 143.7,
+          "confidence": 0.4
+        },
+        {
+          "text": "just",
+          "start": 143.76,
+          "end": 144.06,
+          "confidence": 0.96
+        },
+        {
+          "text": "for",
+          "start": 144.06,
+          "end": 144.28,
+          "confidence": 0.66
+        },
+        {
+          "text": "a",
+          "start": 144.28,
+          "end": 144.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "minute",
+          "start": 144.38,
+          "end": 144.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "Let's",
+          "start": 144.52,
+          "end": 144.78,
+          "confidence": 0.88
+        },
+        {
+          "text": "all",
+          "start": 144.78,
+          "end": 144.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "do",
+          "start": 144.98,
+          "end": 145.16,
+          "confidence": 0.97
+        },
+        {
+          "text": "the",
+          "start": 145.16,
+          "end": 145.26,
+          "confidence": 0.97
+        },
+        {
+          "text": "rump",
+          "start": 145.26,
+          "end": 145.44,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 145.7,
+      "end": 149.3,
+      "text": " Rump, rump, rump, yeah You can't touch this",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "Rump,",
+          "start": 145.7,
+          "end": 146.0,
+          "confidence": 0.73
+        },
+        {
+          "text": "rump,",
+          "start": 146.1,
+          "end": 146.56,
+          "confidence": 0.97
+        },
+        {
+          "text": "rump,",
+          "start": 146.56,
+          "end": 147.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "yeah",
+          "start": 147.54,
+          "end": 147.56,
+          "confidence": 0.55
+        },
+        {
+          "text": "You",
+          "start": 147.56,
+          "end": 148.6,
+          "confidence": 0.66
+        },
+        {
+          "text": "can't",
+          "start": 148.6,
+          "end": 148.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 148.84,
+          "end": 149.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 149.02,
+          "end": 149.3,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 151.18,
+      "end": 155.5,
+      "text": " Look, man, you can't touch this You better get a height, boy, cause you know you can't",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "Look,",
+          "start": 151.18,
+          "end": 151.38,
+          "confidence": 0.95
+        },
+        {
+          "text": "man,",
+          "start": 151.44,
+          "end": 151.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 152.22,
+          "end": 152.28,
+          "confidence": 0.9
+        },
+        {
+          "text": "can't",
+          "start": 152.28,
+          "end": 152.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 152.52,
+          "end": 152.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 152.7,
+          "end": 152.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "You",
+          "start": 152.96,
+          "end": 154.02,
+          "confidence": 0.74
+        },
+        {
+          "text": "better",
+          "start": 154.02,
+          "end": 154.24,
+          "confidence": 0.69
+        },
+        {
+          "text": "get",
+          "start": 154.24,
+          "end": 154.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 154.42,
+          "end": 154.54,
+          "confidence": 0.87
+        },
+        {
+          "text": "height,",
+          "start": 154.54,
+          "end": 154.66,
+          "confidence": 0.62
+        },
+        {
+          "text": "boy,",
+          "start": 154.76,
+          "end": 154.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "cause",
+          "start": 155.0,
+          "end": 155.1,
+          "confidence": 0.61
+        },
+        {
+          "text": "you",
+          "start": 155.1,
+          "end": 155.2,
+          "confidence": 0.91
+        },
+        {
+          "text": "know",
+          "start": 155.2,
+          "end": 155.38,
+          "confidence": 0.92
+        },
+        {
+          "text": "you",
+          "start": 155.38,
+          "end": 155.48,
+          "confidence": 0.72
+        },
+        {
+          "text": "can't",
+          "start": 155.48,
+          "end": 155.5,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 155.84,
+      "end": 156.56,
+      "text": " You can't touch this",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "You",
+          "start": 155.84,
+          "end": 155.9,
+          "confidence": 0.96
+        },
+        {
+          "text": "can't",
+          "start": 155.9,
+          "end": 156.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 156.1,
+          "end": 156.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 156.28,
+          "end": 156.56,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 157.22,
+      "end": 160.0,
+      "text": " Bring the bell, school's back in Break it down",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "Bring",
+          "start": 157.22,
+          "end": 157.42,
+          "confidence": 0.77
+        },
+        {
+          "text": "the",
+          "start": 157.42,
+          "end": 157.6,
+          "confidence": 0.98
+        },
+        {
+          "text": "bell,",
+          "start": 157.6,
+          "end": 157.84,
+          "confidence": 0.85
+        },
+        {
+          "text": "school's",
+          "start": 157.92,
+          "end": 158.32,
+          "confidence": 0.7
+        },
+        {
+          "text": "back",
+          "start": 158.32,
+          "end": 158.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "in",
+          "start": 158.52,
+          "end": 158.8,
+          "confidence": 0.86
+        },
+        {
+          "text": "Break",
+          "start": 158.8,
+          "end": 159.56,
+          "confidence": 0.81
+        },
+        {
+          "text": "it",
+          "start": 159.56,
+          "end": 159.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 159.72,
+          "end": 160.0,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 170.92,
+      "end": 174.32,
+      "text": " Stop, hammer time",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Stop,",
+          "start": 170.92,
+          "end": 173.4,
+          "confidence": 0.93
+        },
+        {
+          "text": "hammer",
+          "start": 173.92,
+          "end": 174.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "time",
+          "start": 174.08,
+          "end": 174.32,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 190.82,
+      "end": 192.62,
+      "text": " You can't touch this",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "You",
+          "start": 190.82,
+          "end": 191.94,
+          "confidence": 0.94
+        },
+        {
+          "text": "can't",
+          "start": 191.94,
+          "end": 192.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 192.16,
+          "end": 192.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 192.34,
+          "end": 192.62,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 195.52,
+      "end": 196.26,
+      "text": " You can't touch this",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You",
+          "start": 195.52,
+          "end": 195.58,
+          "confidence": 0.9
+        },
+        {
+          "text": "can't",
+          "start": 195.58,
+          "end": 195.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 195.78,
+          "end": 195.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 195.98,
+          "end": 196.26,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 199.0,
+      "end": 199.86,
+      "text": " You can't touch this",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "You",
+          "start": 199.0,
+          "end": 199.2,
+          "confidence": 0.83
+        },
+        {
+          "text": "can't",
+          "start": 199.2,
+          "end": 199.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 199.38,
+          "end": 199.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 199.58,
+          "end": 199.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 201.54,
+      "end": 203.34,
+      "text": " Break it down",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Break",
+          "start": 201.54,
+          "end": 202.88,
+          "confidence": 0.97
+        },
+        {
+          "text": "it",
+          "start": 202.88,
+          "end": 203.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 203.04,
+          "end": 203.34,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 216.2,
+      "end": 217.68,
+      "text": " Stop, hammer time",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Stop,",
+          "start": 216.2,
+          "end": 216.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "hammer",
+          "start": 217.2,
+          "end": 217.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 217.38,
+          "end": 217.68,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 217.94,
+      "end": 220.78,
+      "text": " Every time you see me, the hair is just so high",
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "Every",
+          "start": 217.94,
+          "end": 218.24,
+          "confidence": 0.98
+        },
+        {
+          "text": "time",
+          "start": 218.24,
+          "end": 218.56,
+          "confidence": 0.95
+        },
+        {
+          "text": "you",
+          "start": 218.56,
+          "end": 218.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "see",
+          "start": 218.76,
+          "end": 218.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "me,",
+          "start": 218.96,
+          "end": 219.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 219.24,
+          "end": 219.66,
+          "confidence": 0.66
+        },
+        {
+          "text": "hair",
+          "start": 219.66,
+          "end": 219.9,
+          "confidence": 0.54
+        },
+        {
+          "text": "is",
+          "start": 219.9,
+          "end": 220.12,
+          "confidence": 0.97
+        },
+        {
+          "text": "just",
+          "start": 220.12,
+          "end": 220.32,
+          "confidence": 0.76
+        },
+        {
+          "text": "so",
+          "start": 220.32,
+          "end": 220.54,
+          "confidence": 0.72
+        },
+        {
+          "text": "high",
+          "start": 220.54,
+          "end": 220.78,
+          "confidence": 0.63
+        }
+      ]
+    },
+    {
+      "start": 221.28,
+      "end": 224.42,
+      "text": " I've done it before, and I'm magic on the mic",
+      "confidence": 0.76,
+      "words": [
+        {
+          "text": "I've",
+          "start": 221.28,
+          "end": 221.48,
+          "confidence": 0.77
+        },
+        {
+          "text": "done",
+          "start": 221.48,
+          "end": 221.7,
+          "confidence": 0.52
+        },
+        {
+          "text": "it",
+          "start": 221.7,
+          "end": 221.82,
+          "confidence": 0.41
+        },
+        {
+          "text": "before,",
+          "start": 221.82,
+          "end": 222.14,
+          "confidence": 0.81
+        },
+        {
+          "text": "and",
+          "start": 222.18,
+          "end": 223.02,
+          "confidence": 0.84
+        },
+        {
+          "text": "I'm",
+          "start": 223.02,
+          "end": 223.34,
+          "confidence": 0.82
+        },
+        {
+          "text": "magic",
+          "start": 223.34,
+          "end": 223.64,
+          "confidence": 0.88
+        },
+        {
+          "text": "on",
+          "start": 223.64,
+          "end": 223.94,
+          "confidence": 0.75
+        },
+        {
+          "text": "the",
+          "start": 223.94,
+          "end": 224.14,
+          "confidence": 0.97
+        },
+        {
+          "text": "mic",
+          "start": 224.14,
+          "end": 224.42,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 224.84,
+      "end": 228.06,
+      "text": " Now why would I ever stop doing this",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "Now",
+          "start": 224.84,
+          "end": 225.02,
+          "confidence": 0.53
+        },
+        {
+          "text": "why",
+          "start": 225.02,
+          "end": 225.36,
+          "confidence": 0.7
+        },
+        {
+          "text": "would",
+          "start": 225.36,
+          "end": 225.72,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 225.72,
+          "end": 225.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "ever",
+          "start": 225.92,
+          "end": 226.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "stop",
+          "start": 226.32,
+          "end": 227.06,
+          "confidence": 0.73
+        },
+        {
+          "text": "doing",
+          "start": 227.06,
+          "end": 227.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "this",
+          "start": 227.62,
+          "end": 228.06,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 228.42,
+      "end": 229.98,
+      "text": " With others making packets",
+      "confidence": 0.54,
+      "words": [
+        {
+          "text": "With",
+          "start": 228.42,
+          "end": 228.66,
+          "confidence": 0.4
+        },
+        {
+          "text": "others",
+          "start": 228.66,
+          "end": 229.02,
+          "confidence": 0.77
+        },
+        {
+          "text": "making",
+          "start": 229.02,
+          "end": 229.44,
+          "confidence": 0.86
+        },
+        {
+          "text": "packets",
+          "start": 229.44,
+          "end": 229.98,
+          "confidence": 0.33
+        }
+      ]
+    },
+    {
+      "start": 230.28,
+      "end": 231.58,
+      "text": " It just don't get",
+      "confidence": 0.64,
+      "words": [
+        {
+          "text": "It",
+          "start": 230.28,
+          "end": 230.44,
+          "confidence": 0.58
+        },
+        {
+          "text": "just",
+          "start": 230.44,
+          "end": 230.76,
+          "confidence": 0.83
+        },
+        {
+          "text": "don't",
+          "start": 230.76,
+          "end": 231.32,
+          "confidence": 0.54
+        },
+        {
+          "text": "get",
+          "start": 231.32,
+          "end": 231.58,
+          "confidence": 0.78
+        }
+      ]
+    },
+    {
+      "start": 232.06,
+      "end": 235.24,
+      "text": " I'm doing around the world From London to the Bay",
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 232.06,
+          "end": 232.3,
+          "confidence": 0.67
+        },
+        {
+          "text": "doing",
+          "start": 232.3,
+          "end": 232.5,
+          "confidence": 0.69
+        },
+        {
+          "text": "around",
+          "start": 232.5,
+          "end": 232.92,
+          "confidence": 0.62
+        },
+        {
+          "text": "the",
+          "start": 232.92,
+          "end": 233.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "world",
+          "start": 233.16,
+          "end": 233.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "From",
+          "start": 233.54,
+          "end": 234.04,
+          "confidence": 0.56
+        },
+        {
+          "text": "London",
+          "start": 234.04,
+          "end": 234.42,
+          "confidence": 0.96
+        },
+        {
+          "text": "to",
+          "start": 234.42,
+          "end": 234.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 234.74,
+          "end": 234.94,
+          "confidence": 0.51
+        },
+        {
+          "text": "Bay",
+          "start": 234.94,
+          "end": 235.24,
+          "confidence": 0.57
+        }
+      ]
+    },
+    {
+      "start": 235.7,
+      "end": 238.8,
+      "text": " It's hammer go, hammer empty, hammer yo Hammer and the rest can't go in play",
+      "confidence": 0.66,
+      "words": [
+        {
+          "text": "It's",
+          "start": 235.7,
+          "end": 235.9,
+          "confidence": 0.96
+        },
+        {
+          "text": "hammer",
+          "start": 235.9,
+          "end": 236.08,
+          "confidence": 0.51
+        },
+        {
+          "text": "go,",
+          "start": 236.08,
+          "end": 236.28,
+          "confidence": 0.58
+        },
+        {
+          "text": "hammer",
+          "start": 236.36,
+          "end": 236.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "empty,",
+          "start": 236.52,
+          "end": 236.78,
+          "confidence": 0.59
+        },
+        {
+          "text": "hammer",
+          "start": 236.92,
+          "end": 237.0,
+          "confidence": 0.93
+        },
+        {
+          "text": "yo",
+          "start": 237.0,
+          "end": 237.2,
+          "confidence": 0.34
+        },
+        {
+          "text": "Hammer",
+          "start": 237.2,
+          "end": 237.42,
+          "confidence": 0.49
+        },
+        {
+          "text": "and",
+          "start": 237.42,
+          "end": 237.6,
+          "confidence": 0.22
+        },
+        {
+          "text": "the",
+          "start": 237.6,
+          "end": 237.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "rest",
+          "start": 237.72,
+          "end": 237.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "can't",
+          "start": 237.92,
+          "end": 238.16,
+          "confidence": 0.88
+        },
+        {
+          "text": "go",
+          "start": 238.16,
+          "end": 238.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "in",
+          "start": 238.34,
+          "end": 238.58,
+          "confidence": 0.76
+        },
+        {
+          "text": "play",
+          "start": 238.58,
+          "end": 238.8,
+          "confidence": 0.26
+        }
+      ]
+    },
+    {
+      "start": 238.8,
+      "end": 239.54,
+      "text": " You can't touch this",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You",
+          "start": 238.8,
+          "end": 238.96,
+          "confidence": 0.91
+        },
+        {
+          "text": "can't",
+          "start": 238.96,
+          "end": 239.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 239.14,
+          "end": 239.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 239.28,
+          "end": 239.54,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 241.56,
+      "end": 243.18,
+      "text": " You can't touch this",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "You",
+          "start": 241.56,
+          "end": 242.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "can't",
+          "start": 242.56,
+          "end": 242.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 242.7,
+          "end": 242.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 242.9,
+          "end": 243.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 246.0,
+      "end": 246.76,
+      "text": " You can't touch this",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "You",
+          "start": 246.0,
+          "end": 246.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "can't",
+          "start": 246.12,
+          "end": 246.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 246.32,
+          "end": 246.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 246.5,
+          "end": 246.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 248.34,
+      "end": 250.38,
+      "text": " You can't touch this",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "You",
+          "start": 248.34,
+          "end": 248.5,
+          "confidence": 0.6
+        },
+        {
+          "text": "can't",
+          "start": 248.5,
+          "end": 249.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "touch",
+          "start": 249.88,
+          "end": 250.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "this",
+          "start": 250.1,
+          "end": 250.38,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 251.96,
+      "end": 253.94,
+      "text": " I told you, you can't touch this",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "I",
+          "start": 251.96,
+          "end": 252.12,
+          "confidence": 0.96
+        },
+        {
+          "text": "told",
+          "start": 252.12,
+          "end": 252.36,
+          "confidence": 0.94
+        },
+        {
+          "text": "you,",
+          "start": 252.36,
+          "end": 252.58,
+          "confidence": 0.9
+        },
+        {
+          "text": "you",
+          "start": 252.78,
+          "end": 253.08,
+          "confidence": 0.8
+        },
+        {
+          "text": "can't",
+          "start": 253.08,
+          "end": 253.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 253.56,
+          "end": 253.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 253.72,
+          "end": 253.94,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 256.46,
+      "end": 257.56,
+      "text": " You can't touch this",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "You",
+          "start": 256.46,
+          "end": 256.6,
+          "confidence": 0.83
+        },
+        {
+          "text": "can't",
+          "start": 256.6,
+          "end": 256.86,
+          "confidence": 0.96
+        },
+        {
+          "text": "touch",
+          "start": 256.86,
+          "end": 257.28,
+          "confidence": 0.96
+        },
+        {
+          "text": "this",
+          "start": 257.28,
+          "end": 257.56,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 259.16,
+      "end": 261.18,
+      "text": " You can't touch this",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "You",
+          "start": 259.16,
+          "end": 259.36,
+          "confidence": 0.95
+        },
+        {
+          "text": "can't",
+          "start": 259.36,
+          "end": 259.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "touch",
+          "start": 259.86,
+          "end": 260.88,
+          "confidence": 0.94
+        },
+        {
+          "text": "this",
+          "start": 260.88,
+          "end": 261.18,
+          "confidence": 0.99
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.9529298543930054,
+    "zh": 0.0011651796521618962,
+    "de": 0.0032263172324746847,
+    "es": 0.0019190276507288218,
+    "ru": 0.003363735508173704,
+    "ko": 0.005488171242177486,
+    "fr": 0.0018347447039559484,
+    "ja": 0.0012577910674735904,
+    "pt": 0.0035819041077047586,
+    "tr": 0.0006044416804797947,
+    "pl": 0.0003189746639691293,
+    "ca": 1.1485655704746023e-05,
+    "nl": 0.00042587894131429493,
+    "ar": 0.0009212926961481571,
+    "sv": 0.00038915645563974977,
+    "it": 0.0002316870668437332,
+    "id": 0.00027574197156354785,
+    "hi": 0.0004705080937128514,
+    "fi": 2.270540971949231e-05,
+    "vi": 0.0017235452542081475,
+    "he": 4.0929495298769325e-05,
+    "uk": 1.9942552171414718e-05,
+    "el": 5.5744378187227994e-05,
+    "ms": 0.00020118286192882806,
+    "cs": 3.2983098208205774e-05,
+    "ro": 0.00010395696153864264,
+    "da": 9.716875501908362e-05,
+    "hu": 3.4654352930374444e-05,
+    "ta": 7.47972444514744e-05,
+    "no": 6.764150748495013e-05,
+    "th": 0.0006190736894495785,
+    "ur": 2.8402639145497233e-05,
+    "hr": 2.0857683921349235e-05,
+    "bg": 1.6699996194802225e-05,
+    "lt": 2.4515857148799114e-06,
+    "la": 0.00027888675685971975,
+    "mi": 0.0001683459704509005,
+    "ml": 0.00032181659480556846,
+    "cy": 0.001410839962773025,
+    "sk": 5.123835308040725e-06,
+    "te": 8.520406117895618e-05,
+    "fa": 1.3687676073459443e-05,
+    "lv": 2.78976358458749e-06,
+    "bn": 2.922508429037407e-05,
+    "sr": 4.961819399795786e-07,
+    "az": 2.886353627218341e-07,
+    "sl": 6.877779924252536e-06,
+    "kn": 5.075906983620371e-07,
+    "et": 5.85442535339098e-07,
+    "mk": 5.756031100645487e-07,
+    "br": 8.414829790126532e-05,
+    "eu": 5.340628376870882e-06,
+    "is": 4.02382784159272e-06,
+    "hy": 2.9844172786397394e-06,
+    "ne": 2.271297717015841e-06,
+    "mn": 3.0365392831299687e-06,
+    "bs": 5.3598951126332395e-06,
+    "kk": 5.052695541962748e-07,
+    "sq": 1.6707363101886585e-06,
+    "sw": 5.2666899136966094e-05,
+    "gl": 1.722406523185782e-05,
+    "mr": 7.915086257526127e-07,
+    "pa": 5.745314979321847e-07,
+    "si": 0.0002927224268205464,
+    "km": 0.008392990566790104,
+    "sn": 0.0010832914849743247,
+    "yo": 0.00011651867680484429,
+    "so": 7.564973003582054e-08,
+    "af": 3.3771436847018776e-06,
+    "oc": 2.420201781205833e-06,
+    "ka": 8.932352812962563e-08,
+    "be": 3.957894477935042e-06,
+    "tg": 3.971409423542127e-09,
+    "sd": 2.316393192813848e-06,
+    "gu": 6.365147697806606e-08,
+    "am": 1.3886780436678237e-07,
+    "yi": 7.175096015998861e-06,
+    "lo": 5.565414994634921e-06,
+    "uz": 1.2233793145188798e-10,
+    "fo": 1.985647941182833e-06,
+    "ht": 3.36997072736267e-05,
+    "ps": 1.182744881589315e-06,
+    "tk": 6.932104890111646e-10,
+    "nn": 0.0046114567667245865,
+    "mt": 2.2985302905453864e-07,
+    "sa": 1.9884100765921175e-05,
+    "lb": 6.236319016750258e-09,
+    "my": 3.397662294446491e-05,
+    "bo": 1.2972442391401273e-06,
+    "tl": 0.0004643785650841892,
+    "mg": 3.3025757129045985e-10,
+    "as": 7.832981054889387e-07,
+    "tt": 9.413458901263994e-10,
+    "haw": 0.00039102471782825887,
+    "ln": 4.017889807528263e-07,
+    "ha": 3.7132377173065834e-09,
+    "ba": 7.624036402198442e-10,
+    "jw": 0.0004446921811904758,
+    "su": 1.1840596059187192e-08
+  }
+}

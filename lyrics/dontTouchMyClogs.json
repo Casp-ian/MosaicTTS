@@ -1,0 +1,3550 @@
+Detected language: English
+{
+  "text": " [\"Money in the Tree\"] Oh-ho. Years before I was born, Father told this to me. It was one Christmas morning in 73. There was one lonely gift, Napsled under the tree. My grandfather said, Don't touch money. He said, Boy, listen close, I am saying this once. These were worn by my parents, And their parents' parents. Now they're yours, But be sure to guard them with your light. He said, Don't ever let them touch my clogs. You can take my cash, You could burn my house, You could force me trash. I'd let you kick my balls, While I chewed on glass, Before I even thought About letting someone touch my clogs. To take my life, You'll have to steal my dog, You'll have to beat my wife, You'll have to kill my mom, With a rusty knife, You'll have to break my legs, Before I ever let you touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. To touch my clogs. For the bulk of my youth, Now these clogs, They are yours. Protect them with your light. I pray you never let them touch your clogs. You can slap my wrist, I'd let you shave my head, Let you wax my pits, I even butt-chug bleach, While you twist my nips, And after all of that, I spill wood and let you touch my clogs. You could eat my lunch, And you could knock me out, With a one-inch punch, And make me drink your sweat, From a dirty sponge, You'd have to shoot me dead, Before I ever let you touch my clogs. Here's my purpose in life, To keep them safe until my trial, Is at least 25, Then I will pass the clock to them, And the weather will bright, And every single day from then, To make sure no one has touched the cells. They're the one thing I love, The only thing that makes me sure, There's a kind of pop-up, Those wooden clogs on my feet, Yeah, they feel like a club, I would give up everything, For I haven't let you touch me. You could take my gush, Gush, Gush, Gush, Love, You could force me trash, I'd let you kick my balls, While I chewed on glass, Before I even thought, About letting someone touch my legs. You'd have to take my legs, You'd have to steal my dog, Have to feed my wife, You'd have to kill my mom, With a rusty knife, You'd have to break my legs, Before I ever let you touch my...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.12,
+      "text": " [\"Money in the Tree\"]",
+      "confidence": 0.08,
+      "words": [
+        {
+          "text": "[\"Money",
+          "start": 0.0,
+          "end": 1.6,
+          "confidence": 0.07
+        },
+        {
+          "text": "in",
+          "start": 1.6,
+          "end": 8.6,
+          "confidence": 0.07
+        },
+        {
+          "text": "the",
+          "start": 8.6,
+          "end": 11.1,
+          "confidence": 0.11
+        },
+        {
+          "text": "Tree\"]",
+          "start": 11.1,
+          "end": 13.12,
+          "confidence": 0.12
+        }
+      ]
+    },
+    {
+      "start": 13.24,
+      "end": 13.58,
+      "text": " Oh-ho.",
+      "confidence": 0.41,
+      "words": [
+        {
+          "text": "Oh-ho.",
+          "start": 13.24,
+          "end": 13.58,
+          "confidence": 0.41
+        }
+      ]
+    },
+    {
+      "start": 14.12,
+      "end": 15.64,
+      "text": " Years before I was born,",
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "Years",
+          "start": 14.12,
+          "end": 14.28,
+          "confidence": 0.91
+        },
+        {
+          "text": "before",
+          "start": 14.28,
+          "end": 14.7,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 14.7,
+          "end": 15.16,
+          "confidence": 0.78
+        },
+        {
+          "text": "was",
+          "start": 15.16,
+          "end": 15.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "born,",
+          "start": 15.34,
+          "end": 15.64,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "start": 15.82,
+      "end": 17.08,
+      "text": " Father told this to me.",
+      "confidence": 0.64,
+      "words": [
+        {
+          "text": "Father",
+          "start": 15.82,
+          "end": 16.1,
+          "confidence": 0.2
+        },
+        {
+          "text": "told",
+          "start": 16.1,
+          "end": 16.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "this",
+          "start": 16.42,
+          "end": 16.66,
+          "confidence": 0.53
+        },
+        {
+          "text": "to",
+          "start": 16.66,
+          "end": 16.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "me.",
+          "start": 16.84,
+          "end": 17.08,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 17.56,
+      "end": 20.36,
+      "text": " It was one Christmas morning in 73.",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "It",
+          "start": 17.56,
+          "end": 17.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 17.7,
+          "end": 17.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 17.92,
+          "end": 18.18,
+          "confidence": 0.97
+        },
+        {
+          "text": "Christmas",
+          "start": 18.18,
+          "end": 18.68,
+          "confidence": 0.81
+        },
+        {
+          "text": "morning",
+          "start": 18.68,
+          "end": 19.3,
+          "confidence": 0.98
+        },
+        {
+          "text": "in",
+          "start": 19.3,
+          "end": 19.66,
+          "confidence": 0.72
+        },
+        {
+          "text": "73.",
+          "start": 19.66,
+          "end": 20.36,
+          "confidence": 0.68
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 22.48,
+      "text": " There was one lonely gift,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "There",
+          "start": 21.0,
+          "end": 21.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 21.16,
+          "end": 21.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 21.36,
+          "end": 21.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "lonely",
+          "start": 21.64,
+          "end": 22.08,
+          "confidence": 0.96
+        },
+        {
+          "text": "gift,",
+          "start": 22.08,
+          "end": 22.48,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 22.68,
+      "end": 23.96,
+      "text": " Napsled under the tree.",
+      "confidence": 0.6,
+      "words": [
+        {
+          "text": "Napsled",
+          "start": 22.68,
+          "end": 23.1,
+          "confidence": 0.38
+        },
+        {
+          "text": "under",
+          "start": 23.1,
+          "end": 23.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 23.42,
+          "end": 23.68,
+          "confidence": 0.89
+        },
+        {
+          "text": "tree.",
+          "start": 23.68,
+          "end": 23.96,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 24.18,
+      "end": 25.42,
+      "text": " My grandfather said,",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "My",
+          "start": 24.18,
+          "end": 24.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "grandfather",
+          "start": 24.34,
+          "end": 24.98,
+          "confidence": 0.9
+        },
+        {
+          "text": "said,",
+          "start": 24.98,
+          "end": 25.42,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 25.46,
+      "end": 26.9,
+      "text": " Don't touch money.",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 25.46,
+          "end": 25.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "touch",
+          "start": 25.74,
+          "end": 26.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "money.",
+          "start": 26.04,
+          "end": 26.9,
+          "confidence": 0.86
+        }
+      ]
+    },
+    {
+      "start": 27.84,
+      "end": 28.18,
+      "text": " He said,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "He",
+          "start": 27.84,
+          "end": 27.98,
+          "confidence": 0.95
+        },
+        {
+          "text": "said,",
+          "start": 27.98,
+          "end": 28.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 28.24,
+      "end": 29.32,
+      "text": " Boy, listen close,",
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "Boy,",
+          "start": 28.24,
+          "end": 28.54,
+          "confidence": 0.62
+        },
+        {
+          "text": "listen",
+          "start": 28.7,
+          "end": 28.94,
+          "confidence": 0.82
+        },
+        {
+          "text": "close,",
+          "start": 28.94,
+          "end": 29.32,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 29.6,
+      "end": 30.86,
+      "text": " I am saying this once.",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "I",
+          "start": 29.6,
+          "end": 29.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "am",
+          "start": 29.78,
+          "end": 29.9,
+          "confidence": 0.95
+        },
+        {
+          "text": "saying",
+          "start": 29.9,
+          "end": 30.26,
+          "confidence": 0.93
+        },
+        {
+          "text": "this",
+          "start": 30.26,
+          "end": 30.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "once.",
+          "start": 30.6,
+          "end": 30.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 31.28,
+      "end": 32.92,
+      "text": " These were worn by my parents,",
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "These",
+          "start": 31.28,
+          "end": 31.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "were",
+          "start": 31.42,
+          "end": 31.64,
+          "confidence": 0.9
+        },
+        {
+          "text": "worn",
+          "start": 31.64,
+          "end": 31.94,
+          "confidence": 0.38
+        },
+        {
+          "text": "by",
+          "start": 31.94,
+          "end": 32.28,
+          "confidence": 0.95
+        },
+        {
+          "text": "my",
+          "start": 32.28,
+          "end": 32.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "parents,",
+          "start": 32.46,
+          "end": 32.92,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 33.02,
+      "end": 34.16,
+      "text": " And their parents' parents.",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "And",
+          "start": 33.02,
+          "end": 33.16,
+          "confidence": 0.78
+        },
+        {
+          "text": "their",
+          "start": 33.16,
+          "end": 33.36,
+          "confidence": 0.9
+        },
+        {
+          "text": "parents'",
+          "start": 33.36,
+          "end": 33.98,
+          "confidence": 0.84
+        },
+        {
+          "text": "parents.",
+          "start": 33.98,
+          "end": 34.16,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 34.68,
+      "end": 35.42,
+      "text": " Now they're yours,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Now",
+          "start": 34.68,
+          "end": 34.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "they're",
+          "start": 34.84,
+          "end": 35.08,
+          "confidence": 0.96
+        },
+        {
+          "text": "yours,",
+          "start": 35.08,
+          "end": 35.42,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 35.58,
+      "end": 37.66,
+      "text": " But be sure to guard them with your light.",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "But",
+          "start": 35.58,
+          "end": 35.72,
+          "confidence": 0.94
+        },
+        {
+          "text": "be",
+          "start": 35.72,
+          "end": 35.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "sure",
+          "start": 35.92,
+          "end": 36.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 36.26,
+          "end": 36.58,
+          "confidence": 0.88
+        },
+        {
+          "text": "guard",
+          "start": 36.58,
+          "end": 36.82,
+          "confidence": 0.55
+        },
+        {
+          "text": "them",
+          "start": 36.82,
+          "end": 37.02,
+          "confidence": 0.98
+        },
+        {
+          "text": "with",
+          "start": 37.02,
+          "end": 37.22,
+          "confidence": 0.98
+        },
+        {
+          "text": "your",
+          "start": 37.22,
+          "end": 37.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "light.",
+          "start": 37.42,
+          "end": 37.66,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "start": 37.92,
+      "end": 38.29,
+      "text": " He said,",
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "He",
+          "start": 37.92,
+          "end": 38.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "said,",
+          "start": 38.06,
+          "end": 38.29,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 38.29,
+      "end": 41.57,
+      "text": " Don't ever let them touch my clogs.",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 38.29,
+          "end": 38.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "ever",
+          "start": 38.62,
+          "end": 38.84,
+          "confidence": 0.97
+        },
+        {
+          "text": "let",
+          "start": 38.84,
+          "end": 39.14,
+          "confidence": 0.98
+        },
+        {
+          "text": "them",
+          "start": 39.14,
+          "end": 39.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 39.36,
+          "end": 39.72,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 39.72,
+          "end": 40.52,
+          "confidence": 0.75
+        },
+        {
+          "text": "clogs.",
+          "start": 40.52,
+          "end": 41.57,
+          "confidence": 0.89
+        }
+      ]
+    },
+    {
+      "start": 41.57,
+      "end": 42.88,
+      "text": " You can take my cash,",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "You",
+          "start": 41.57,
+          "end": 41.74,
+          "confidence": 0.97
+        },
+        {
+          "text": "can",
+          "start": 41.74,
+          "end": 41.96,
+          "confidence": 0.98
+        },
+        {
+          "text": "take",
+          "start": 41.96,
+          "end": 42.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 42.18,
+          "end": 42.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "cash,",
+          "start": 42.46,
+          "end": 42.88,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 43.28,
+      "end": 44.86,
+      "text": " You could burn my house,",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "You",
+          "start": 43.28,
+          "end": 43.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "could",
+          "start": 43.44,
+          "end": 43.64,
+          "confidence": 0.84
+        },
+        {
+          "text": "burn",
+          "start": 43.64,
+          "end": 43.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 43.96,
+          "end": 44.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "house,",
+          "start": 44.4,
+          "end": 44.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 46.24,
+      "text": " You could force me trash.",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You",
+          "start": 45.0,
+          "end": 45.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "could",
+          "start": 45.16,
+          "end": 45.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "force",
+          "start": 45.34,
+          "end": 45.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 45.6,
+          "end": 45.88,
+          "confidence": 0.97
+        },
+        {
+          "text": "trash.",
+          "start": 45.88,
+          "end": 46.24,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 46.54,
+      "end": 48.34,
+      "text": " I'd let you kick my balls,",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'd",
+          "start": 46.54,
+          "end": 46.76,
+          "confidence": 0.98
+        },
+        {
+          "text": "let",
+          "start": 46.76,
+          "end": 46.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 46.86,
+          "end": 47.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "kick",
+          "start": 47.06,
+          "end": 47.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 47.34,
+          "end": 47.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "balls,",
+          "start": 47.78,
+          "end": 48.34,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 48.46,
+      "end": 49.74,
+      "text": " While I chewed on glass,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "While",
+          "start": 48.46,
+          "end": 48.62,
+          "confidence": 0.95
+        },
+        {
+          "text": "I",
+          "start": 48.62,
+          "end": 48.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "chewed",
+          "start": 48.8,
+          "end": 49.2,
+          "confidence": 0.96
+        },
+        {
+          "text": "on",
+          "start": 49.2,
+          "end": 49.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "glass,",
+          "start": 49.34,
+          "end": 49.74,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 49.94,
+      "end": 51.44,
+      "text": " Before I even thought",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Before",
+          "start": 49.94,
+          "end": 50.16,
+          "confidence": 0.93
+        },
+        {
+          "text": "I",
+          "start": 50.16,
+          "end": 50.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "even",
+          "start": 50.62,
+          "end": 50.9,
+          "confidence": 0.75
+        },
+        {
+          "text": "thought",
+          "start": 50.9,
+          "end": 51.44,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 51.68,
+      "end": 55.32,
+      "text": " About letting someone touch my clogs.",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "About",
+          "start": 51.68,
+          "end": 52.06,
+          "confidence": 0.97
+        },
+        {
+          "text": "letting",
+          "start": 52.06,
+          "end": 52.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "someone",
+          "start": 52.56,
+          "end": 52.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "touch",
+          "start": 52.98,
+          "end": 53.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "my",
+          "start": 53.4,
+          "end": 54.26,
+          "confidence": 0.8
+        },
+        {
+          "text": "clogs.",
+          "start": 54.26,
+          "end": 55.32,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 55.5,
+      "end": 56.58,
+      "text": " To take my life,",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "To",
+          "start": 55.5,
+          "end": 55.64,
+          "confidence": 0.93
+        },
+        {
+          "text": "take",
+          "start": 55.64,
+          "end": 55.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 55.86,
+          "end": 56.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "life,",
+          "start": 56.16,
+          "end": 56.58,
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "start": 56.8,
+      "end": 58.56,
+      "text": " You'll have to steal my dog,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "You'll",
+          "start": 56.8,
+          "end": 56.98,
+          "confidence": 0.93
+        },
+        {
+          "text": "have",
+          "start": 56.98,
+          "end": 57.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 57.14,
+          "end": 57.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "steal",
+          "start": 57.26,
+          "end": 57.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 57.66,
+          "end": 58.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "dog,",
+          "start": 58.08,
+          "end": 58.56,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 58.7,
+      "end": 59.96,
+      "text": " You'll have to beat my wife,",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "You'll",
+          "start": 58.7,
+          "end": 58.88,
+          "confidence": 0.92
+        },
+        {
+          "text": "have",
+          "start": 58.88,
+          "end": 58.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 58.9,
+          "end": 59.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "beat",
+          "start": 59.06,
+          "end": 59.32,
+          "confidence": 0.87
+        },
+        {
+          "text": "my",
+          "start": 59.32,
+          "end": 59.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "wife,",
+          "start": 59.58,
+          "end": 59.96,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 60.2,
+      "end": 62.02,
+      "text": " You'll have to kill my mom,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You'll",
+          "start": 60.2,
+          "end": 60.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "have",
+          "start": 60.46,
+          "end": 60.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 60.6,
+          "end": 60.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "kill",
+          "start": 60.76,
+          "end": 61.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 61.08,
+          "end": 61.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "mom,",
+          "start": 61.5,
+          "end": 62.02,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 62.18,
+      "end": 63.42,
+      "text": " With a rusty knife,",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "With",
+          "start": 62.18,
+          "end": 62.34,
+          "confidence": 0.96
+        },
+        {
+          "text": "a",
+          "start": 62.34,
+          "end": 62.5,
+          "confidence": 0.88
+        },
+        {
+          "text": "rusty",
+          "start": 62.5,
+          "end": 62.86,
+          "confidence": 0.97
+        },
+        {
+          "text": "knife,",
+          "start": 62.86,
+          "end": 63.42,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 63.66,
+      "end": 65.2,
+      "text": " You'll have to break my legs,",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "You'll",
+          "start": 63.66,
+          "end": 63.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "have",
+          "start": 63.92,
+          "end": 64.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 64.02,
+          "end": 64.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "break",
+          "start": 64.2,
+          "end": 64.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 64.44,
+          "end": 64.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "legs,",
+          "start": 64.76,
+          "end": 65.2,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 65.38,
+      "end": 69.34,
+      "text": " Before I ever let you touch my clogs.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Before",
+          "start": 65.38,
+          "end": 65.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 65.66,
+          "end": 66.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "ever",
+          "start": 66.02,
+          "end": 66.3,
+          "confidence": 0.96
+        },
+        {
+          "text": "let",
+          "start": 66.3,
+          "end": 66.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 66.58,
+          "end": 66.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 66.78,
+          "end": 67.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 67.16,
+          "end": 68.0,
+          "confidence": 0.66
+        },
+        {
+          "text": "clogs.",
+          "start": 68.0,
+          "end": 69.34,
+          "confidence": 0.84
+        }
+      ]
+    },
+    {
+      "start": 69.38,
+      "end": 71.12,
+      "text": " To touch my clogs.",
+      "confidence": 0.53,
+      "words": [
+        {
+          "text": "To",
+          "start": 69.38,
+          "end": 70.0,
+          "confidence": 0.53
+        },
+        {
+          "text": "touch",
+          "start": 70.0,
+          "end": 70.02,
+          "confidence": 0.87
+        },
+        {
+          "text": "my",
+          "start": 70.02,
+          "end": 70.04,
+          "confidence": 0.34
+        },
+        {
+          "text": "clogs.",
+          "start": 70.04,
+          "end": 71.12,
+          "confidence": 0.51
+        }
+      ]
+    },
+    {
+      "start": 71.34,
+      "end": 72.92,
+      "text": " To touch my clogs.",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "To",
+          "start": 71.34,
+          "end": 71.54,
+          "confidence": 0.9
+        },
+        {
+          "text": "touch",
+          "start": 71.54,
+          "end": 71.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 71.72,
+          "end": 71.98,
+          "confidence": 0.88
+        },
+        {
+          "text": "clogs.",
+          "start": 71.98,
+          "end": 72.92,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 73.36,
+      "end": 75.43,
+      "text": " To touch my clogs.",
+      "confidence": 0.72,
+      "words": [
+        {
+          "text": "To",
+          "start": 73.36,
+          "end": 73.74,
+          "confidence": 0.66
+        },
+        {
+          "text": "touch",
+          "start": 73.74,
+          "end": 74.16,
+          "confidence": 0.35
+        },
+        {
+          "text": "my",
+          "start": 74.16,
+          "end": 74.26,
+          "confidence": 0.87
+        },
+        {
+          "text": "clogs.",
+          "start": 74.26,
+          "end": 75.43,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 75.43,
+      "end": 77.56,
+      "text": " To touch my clogs.",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "To",
+          "start": 75.43,
+          "end": 75.45,
+          "confidence": 0.83
+        },
+        {
+          "text": "touch",
+          "start": 75.45,
+          "end": 75.47,
+          "confidence": 0.95
+        },
+        {
+          "text": "my",
+          "start": 75.47,
+          "end": 75.49,
+          "confidence": 0.97
+        },
+        {
+          "text": "clogs.",
+          "start": 75.49,
+          "end": 77.56,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 78.0,
+      "end": 78.98,
+      "text": " To touch my clogs.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "To",
+          "start": 78.0,
+          "end": 78.26,
+          "confidence": 0.66
+        },
+        {
+          "text": "touch",
+          "start": 78.26,
+          "end": 78.44,
+          "confidence": 0.97
+        },
+        {
+          "text": "my",
+          "start": 78.44,
+          "end": 78.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "clogs.",
+          "start": 78.46,
+          "end": 78.98,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 80.46,
+      "end": 81.72,
+      "text": " To touch my clogs.",
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "To",
+          "start": 80.46,
+          "end": 80.8,
+          "confidence": 0.61
+        },
+        {
+          "text": "touch",
+          "start": 80.8,
+          "end": 81.08,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 81.08,
+          "end": 81.1,
+          "confidence": 0.97
+        },
+        {
+          "text": "clogs.",
+          "start": 81.1,
+          "end": 81.72,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 81.84,
+      "end": 83.83,
+      "text": " To touch my clogs.",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "To",
+          "start": 81.84,
+          "end": 82.06,
+          "confidence": 0.3
+        },
+        {
+          "text": "touch",
+          "start": 82.06,
+          "end": 82.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 82.32,
+          "end": 82.88,
+          "confidence": 0.92
+        },
+        {
+          "text": "clogs.",
+          "start": 82.88,
+          "end": 83.83,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 83.83,
+      "end": 86.0,
+      "text": " To touch my clogs.",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "To",
+          "start": 83.83,
+          "end": 84.56,
+          "confidence": 0.57
+        },
+        {
+          "text": "touch",
+          "start": 84.56,
+          "end": 85.04,
+          "confidence": 0.96
+        },
+        {
+          "text": "my",
+          "start": 85.04,
+          "end": 85.42,
+          "confidence": 0.93
+        },
+        {
+          "text": "clogs.",
+          "start": 85.42,
+          "end": 86.0,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 86.18,
+      "end": 87.02,
+      "text": " To touch my clogs.",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "To",
+          "start": 86.18,
+          "end": 86.3,
+          "confidence": 0.57
+        },
+        {
+          "text": "touch",
+          "start": 86.3,
+          "end": 86.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 86.32,
+          "end": 86.34,
+          "confidence": 0.95
+        },
+        {
+          "text": "clogs.",
+          "start": 86.34,
+          "end": 87.02,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 87.8,
+      "end": 89.12,
+      "text": " For the bulk of my youth,",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "For",
+          "start": 87.8,
+          "end": 88.04,
+          "confidence": 0.91
+        },
+        {
+          "text": "the",
+          "start": 88.04,
+          "end": 88.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "bulk",
+          "start": 88.22,
+          "end": 88.44,
+          "confidence": 0.92
+        },
+        {
+          "text": "of",
+          "start": 88.44,
+          "end": 88.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 88.66,
+          "end": 88.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "youth,",
+          "start": 88.88,
+          "end": 89.12,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 89.54,
+      "end": 90.42,
+      "text": " Now these clogs,",
+      "confidence": 0.48,
+      "words": [
+        {
+          "text": "Now",
+          "start": 89.54,
+          "end": 89.74,
+          "confidence": 0.19
+        },
+        {
+          "text": "these",
+          "start": 89.74,
+          "end": 89.94,
+          "confidence": 0.95
+        },
+        {
+          "text": "clogs,",
+          "start": 89.94,
+          "end": 90.42,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "start": 90.42,
+      "end": 91.1,
+      "text": " They are yours.",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "They",
+          "start": 90.42,
+          "end": 90.66,
+          "confidence": 0.96
+        },
+        {
+          "text": "are",
+          "start": 90.66,
+          "end": 90.82,
+          "confidence": 0.94
+        },
+        {
+          "text": "yours.",
+          "start": 90.82,
+          "end": 91.1,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 91.2,
+      "end": 92.52,
+      "text": " Protect them with your light.",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Protect",
+          "start": 91.2,
+          "end": 91.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "them",
+          "start": 91.62,
+          "end": 91.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "with",
+          "start": 91.88,
+          "end": 92.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "your",
+          "start": 92.08,
+          "end": 92.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "light.",
+          "start": 92.3,
+          "end": 92.52,
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "start": 92.8,
+      "end": 96.02,
+      "text": " I pray you never let them touch your clogs.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "I",
+          "start": 92.8,
+          "end": 92.94,
+          "confidence": 0.97
+        },
+        {
+          "text": "pray",
+          "start": 92.94,
+          "end": 93.16,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 93.16,
+          "end": 93.38,
+          "confidence": 0.85
+        },
+        {
+          "text": "never",
+          "start": 93.38,
+          "end": 93.7,
+          "confidence": 0.91
+        },
+        {
+          "text": "let",
+          "start": 93.7,
+          "end": 94.02,
+          "confidence": 0.9
+        },
+        {
+          "text": "them",
+          "start": 94.02,
+          "end": 94.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "touch",
+          "start": 94.22,
+          "end": 94.64,
+          "confidence": 0.83
+        },
+        {
+          "text": "your",
+          "start": 94.64,
+          "end": 95.38,
+          "confidence": 0.78
+        },
+        {
+          "text": "clogs.",
+          "start": 95.38,
+          "end": 96.02,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 96.02,
+      "end": 97.72,
+      "text": " You can slap my wrist,",
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "You",
+          "start": 96.02,
+          "end": 96.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "can",
+          "start": 96.56,
+          "end": 96.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "slap",
+          "start": 96.74,
+          "end": 96.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 96.98,
+          "end": 97.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "wrist,",
+          "start": 97.36,
+          "end": 97.72,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "start": 97.94,
+      "end": 99.66,
+      "text": " I'd let you shave my head,",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "I'd",
+          "start": 97.94,
+          "end": 98.18,
+          "confidence": 0.72
+        },
+        {
+          "text": "let",
+          "start": 98.18,
+          "end": 98.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 98.3,
+          "end": 98.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "shave",
+          "start": 98.48,
+          "end": 98.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 98.8,
+          "end": 99.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "head,",
+          "start": 99.22,
+          "end": 99.66,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 99.82,
+      "end": 101.12,
+      "text": " Let you wax my pits,",
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "Let",
+          "start": 99.82,
+          "end": 100.0,
+          "confidence": 0.92
+        },
+        {
+          "text": "you",
+          "start": 100.0,
+          "end": 100.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "wax",
+          "start": 100.22,
+          "end": 100.46,
+          "confidence": 0.55
+        },
+        {
+          "text": "my",
+          "start": 100.46,
+          "end": 100.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "pits,",
+          "start": 100.74,
+          "end": 101.12,
+          "confidence": 0.41
+        }
+      ]
+    },
+    {
+      "start": 101.38,
+      "end": 103.08,
+      "text": " I even butt-chug bleach,",
+      "confidence": 0.59,
+      "words": [
+        {
+          "text": "I",
+          "start": 101.38,
+          "end": 101.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "even",
+          "start": 101.56,
+          "end": 101.86,
+          "confidence": 0.66
+        },
+        {
+          "text": "butt-chug",
+          "start": 101.86,
+          "end": 102.68,
+          "confidence": 0.45
+        },
+        {
+          "text": "bleach,",
+          "start": 102.68,
+          "end": 103.08,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 103.24,
+      "end": 104.58,
+      "text": " While you twist my nips,",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "While",
+          "start": 103.24,
+          "end": 103.46,
+          "confidence": 0.94
+        },
+        {
+          "text": "you",
+          "start": 103.46,
+          "end": 103.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "twist",
+          "start": 103.64,
+          "end": 103.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 103.88,
+          "end": 104.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "nips,",
+          "start": 104.2,
+          "end": 104.58,
+          "confidence": 0.91
+        }
+      ]
+    },
+    {
+      "start": 104.82,
+      "end": 106.28,
+      "text": " And after all of that,",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "And",
+          "start": 104.82,
+          "end": 104.98,
+          "confidence": 0.96
+        },
+        {
+          "text": "after",
+          "start": 104.98,
+          "end": 105.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "all",
+          "start": 105.3,
+          "end": 105.68,
+          "confidence": 0.88
+        },
+        {
+          "text": "of",
+          "start": 105.68,
+          "end": 105.98,
+          "confidence": 0.87
+        },
+        {
+          "text": "that,",
+          "start": 105.98,
+          "end": 106.28,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 106.5,
+      "end": 110.01,
+      "text": " I spill wood and let you touch my clogs.",
+      "confidence": 0.74,
+      "words": [
+        {
+          "text": "I",
+          "start": 106.5,
+          "end": 106.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "spill",
+          "start": 106.6,
+          "end": 106.9,
+          "confidence": 0.59
+        },
+        {
+          "text": "wood",
+          "start": 106.9,
+          "end": 107.34,
+          "confidence": 0.26
+        },
+        {
+          "text": "and",
+          "start": 107.34,
+          "end": 107.54,
+          "confidence": 0.46
+        },
+        {
+          "text": "let",
+          "start": 107.54,
+          "end": 107.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 107.74,
+          "end": 107.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 107.92,
+          "end": 108.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 108.34,
+          "end": 109.14,
+          "confidence": 0.77
+        },
+        {
+          "text": "clogs.",
+          "start": 109.14,
+          "end": 110.01,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 110.01,
+      "end": 111.4,
+      "text": " You could eat my lunch,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "You",
+          "start": 110.01,
+          "end": 110.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "could",
+          "start": 110.3,
+          "end": 110.5,
+          "confidence": 0.88
+        },
+        {
+          "text": "eat",
+          "start": 110.5,
+          "end": 110.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 110.74,
+          "end": 111.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "lunch,",
+          "start": 111.0,
+          "end": 111.4,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 111.64,
+      "end": 113.38,
+      "text": " And you could knock me out,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "And",
+          "start": 111.64,
+          "end": 111.8,
+          "confidence": 0.95
+        },
+        {
+          "text": "you",
+          "start": 111.8,
+          "end": 112.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "could",
+          "start": 112.0,
+          "end": 112.22,
+          "confidence": 0.96
+        },
+        {
+          "text": "knock",
+          "start": 112.22,
+          "end": 112.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 112.48,
+          "end": 112.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "out,",
+          "start": 112.94,
+          "end": 113.38,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 113.38,
+      "end": 114.86,
+      "text": " With a one-inch punch,",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "With",
+          "start": 113.38,
+          "end": 113.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "a",
+          "start": 113.74,
+          "end": 113.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "one-inch",
+          "start": 113.94,
+          "end": 114.5,
+          "confidence": 0.86
+        },
+        {
+          "text": "punch,",
+          "start": 114.5,
+          "end": 114.86,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 115.12,
+      "end": 116.76,
+      "text": " And make me drink your sweat,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "And",
+          "start": 115.12,
+          "end": 115.24,
+          "confidence": 0.93
+        },
+        {
+          "text": "make",
+          "start": 115.24,
+          "end": 115.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 115.46,
+          "end": 115.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "drink",
+          "start": 115.64,
+          "end": 115.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 115.94,
+          "end": 116.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "sweat,",
+          "start": 116.32,
+          "end": 116.76,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 117.0,
+      "end": 118.26,
+      "text": " From a dirty sponge,",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "From",
+          "start": 117.0,
+          "end": 117.16,
+          "confidence": 0.96
+        },
+        {
+          "text": "a",
+          "start": 117.16,
+          "end": 117.38,
+          "confidence": 0.97
+        },
+        {
+          "text": "dirty",
+          "start": 117.38,
+          "end": 117.7,
+          "confidence": 0.97
+        },
+        {
+          "text": "sponge,",
+          "start": 117.7,
+          "end": 118.26,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 118.52,
+      "end": 119.98,
+      "text": " You'd have to shoot me dead,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You'd",
+          "start": 118.52,
+          "end": 118.8,
+          "confidence": 0.96
+        },
+        {
+          "text": "have",
+          "start": 118.8,
+          "end": 118.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 118.9,
+          "end": 119.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "shoot",
+          "start": 119.06,
+          "end": 119.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 119.28,
+          "end": 119.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "dead,",
+          "start": 119.58,
+          "end": 119.98,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 120.22,
+      "end": 123.87,
+      "text": " Before I ever let you touch my clogs.",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "Before",
+          "start": 120.22,
+          "end": 120.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "I",
+          "start": 120.52,
+          "end": 120.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "ever",
+          "start": 120.86,
+          "end": 121.14,
+          "confidence": 0.97
+        },
+        {
+          "text": "let",
+          "start": 121.14,
+          "end": 121.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 121.42,
+          "end": 121.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 121.64,
+          "end": 122.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 122.02,
+          "end": 122.82,
+          "confidence": 0.62
+        },
+        {
+          "text": "clogs.",
+          "start": 122.82,
+          "end": 123.87,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 123.87,
+      "end": 125.16,
+      "text": " Here's my purpose in life,",
+      "confidence": 0.68,
+      "words": [
+        {
+          "text": "Here's",
+          "start": 123.87,
+          "end": 124.1,
+          "confidence": 0.52
+        },
+        {
+          "text": "my",
+          "start": 124.1,
+          "end": 124.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "purpose",
+          "start": 124.24,
+          "end": 124.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "in",
+          "start": 124.58,
+          "end": 124.92,
+          "confidence": 0.37
+        },
+        {
+          "text": "life,",
+          "start": 124.92,
+          "end": 125.16,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 125.32,
+      "end": 127.14,
+      "text": " To keep them safe until my trial,",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "To",
+          "start": 125.32,
+          "end": 125.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "keep",
+          "start": 125.48,
+          "end": 125.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "them",
+          "start": 125.72,
+          "end": 125.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "safe",
+          "start": 125.92,
+          "end": 126.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "until",
+          "start": 126.16,
+          "end": 126.5,
+          "confidence": 0.72
+        },
+        {
+          "text": "my",
+          "start": 126.5,
+          "end": 126.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "trial,",
+          "start": 126.76,
+          "end": 127.14,
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "start": 127.2,
+      "end": 128.46,
+      "text": " Is at least 25,",
+      "confidence": 0.72,
+      "words": [
+        {
+          "text": "Is",
+          "start": 127.2,
+          "end": 127.48,
+          "confidence": 0.36
+        },
+        {
+          "text": "at",
+          "start": 127.48,
+          "end": 127.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "least",
+          "start": 127.68,
+          "end": 127.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "25,",
+          "start": 127.86,
+          "end": 128.46,
+          "confidence": 0.76
+        }
+      ]
+    },
+    {
+      "start": 128.8,
+      "end": 130.56,
+      "text": " Then I will pass the clock to them,",
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "Then",
+          "start": 128.8,
+          "end": 128.98,
+          "confidence": 0.88
+        },
+        {
+          "text": "I",
+          "start": 128.98,
+          "end": 129.2,
+          "confidence": 0.98
+        },
+        {
+          "text": "will",
+          "start": 129.2,
+          "end": 129.36,
+          "confidence": 0.92
+        },
+        {
+          "text": "pass",
+          "start": 129.36,
+          "end": 129.58,
+          "confidence": 0.47
+        },
+        {
+          "text": "the",
+          "start": 129.58,
+          "end": 129.78,
+          "confidence": 0.94
+        },
+        {
+          "text": "clock",
+          "start": 129.78,
+          "end": 130.02,
+          "confidence": 0.31
+        },
+        {
+          "text": "to",
+          "start": 130.02,
+          "end": 130.22,
+          "confidence": 0.77
+        },
+        {
+          "text": "them,",
+          "start": 130.22,
+          "end": 130.56,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 130.74,
+      "end": 132.0,
+      "text": " And the weather will bright,",
+      "confidence": 0.63,
+      "words": [
+        {
+          "text": "And",
+          "start": 130.74,
+          "end": 130.94,
+          "confidence": 0.95
+        },
+        {
+          "text": "the",
+          "start": 130.94,
+          "end": 131.1,
+          "confidence": 0.77
+        },
+        {
+          "text": "weather",
+          "start": 131.1,
+          "end": 131.4,
+          "confidence": 0.82
+        },
+        {
+          "text": "will",
+          "start": 131.4,
+          "end": 131.7,
+          "confidence": 0.58
+        },
+        {
+          "text": "bright,",
+          "start": 131.7,
+          "end": 132.0,
+          "confidence": 0.28
+        }
+      ]
+    },
+    {
+      "start": 132.24,
+      "end": 133.96,
+      "text": " And every single day from then,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "And",
+          "start": 132.24,
+          "end": 132.42,
+          "confidence": 0.97
+        },
+        {
+          "text": "every",
+          "start": 132.42,
+          "end": 132.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "single",
+          "start": 132.74,
+          "end": 133.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "day",
+          "start": 133.12,
+          "end": 133.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "from",
+          "start": 133.42,
+          "end": 133.64,
+          "confidence": 0.94
+        },
+        {
+          "text": "then,",
+          "start": 133.64,
+          "end": 133.96,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 134.1,
+      "end": 136.62,
+      "text": " To make sure no one has touched the cells.",
+      "confidence": 0.6,
+      "words": [
+        {
+          "text": "To",
+          "start": 134.1,
+          "end": 134.3,
+          "confidence": 0.6
+        },
+        {
+          "text": "make",
+          "start": 134.3,
+          "end": 134.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "sure",
+          "start": 134.48,
+          "end": 134.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "no",
+          "start": 134.74,
+          "end": 134.98,
+          "confidence": 0.98
+        },
+        {
+          "text": "one",
+          "start": 134.98,
+          "end": 135.22,
+          "confidence": 0.97
+        },
+        {
+          "text": "has",
+          "start": 135.22,
+          "end": 135.4,
+          "confidence": 0.71
+        },
+        {
+          "text": "touched",
+          "start": 135.4,
+          "end": 135.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 135.72,
+          "end": 136.24,
+          "confidence": 0.41
+        },
+        {
+          "text": "cells.",
+          "start": 136.24,
+          "end": 136.62,
+          "confidence": 0.06
+        }
+      ]
+    },
+    {
+      "start": 137.56,
+      "end": 138.88,
+      "text": " They're the one thing I love,",
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "They're",
+          "start": 137.56,
+          "end": 137.84,
+          "confidence": 0.62
+        },
+        {
+          "text": "the",
+          "start": 137.84,
+          "end": 137.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "one",
+          "start": 137.96,
+          "end": 138.12,
+          "confidence": 0.86
+        },
+        {
+          "text": "thing",
+          "start": 138.12,
+          "end": 138.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 138.38,
+          "end": 138.6,
+          "confidence": 0.97
+        },
+        {
+          "text": "love,",
+          "start": 138.6,
+          "end": 138.88,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 139.02,
+      "end": 140.82,
+      "text": " The only thing that makes me sure,",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "The",
+          "start": 139.02,
+          "end": 139.26,
+          "confidence": 0.98
+        },
+        {
+          "text": "only",
+          "start": 139.26,
+          "end": 139.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "thing",
+          "start": 139.56,
+          "end": 139.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 139.86,
+          "end": 140.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "makes",
+          "start": 140.08,
+          "end": 140.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 140.28,
+          "end": 140.5,
+          "confidence": 0.95
+        },
+        {
+          "text": "sure,",
+          "start": 140.5,
+          "end": 140.82,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "start": 140.9,
+      "end": 142.34,
+      "text": " There's a kind of pop-up,",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "There's",
+          "start": 140.9,
+          "end": 141.26,
+          "confidence": 0.97
+        },
+        {
+          "text": "a",
+          "start": 141.26,
+          "end": 141.36,
+          "confidence": 0.96
+        },
+        {
+          "text": "kind",
+          "start": 141.36,
+          "end": 141.64,
+          "confidence": 0.68
+        },
+        {
+          "text": "of",
+          "start": 141.64,
+          "end": 141.82,
+          "confidence": 0.96
+        },
+        {
+          "text": "pop-up,",
+          "start": 141.82,
+          "end": 142.34,
+          "confidence": 0.78
+        }
+      ]
+    },
+    {
+      "start": 142.5,
+      "end": 144.24,
+      "text": " Those wooden clogs on my feet,",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "Those",
+          "start": 142.5,
+          "end": 142.68,
+          "confidence": 0.91
+        },
+        {
+          "text": "wooden",
+          "start": 142.68,
+          "end": 142.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "clogs",
+          "start": 142.96,
+          "end": 143.6,
+          "confidence": 0.99
+        },
+        {
+          "text": "on",
+          "start": 143.6,
+          "end": 143.74,
+          "confidence": 0.66
+        },
+        {
+          "text": "my",
+          "start": 143.74,
+          "end": 143.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "feet,",
+          "start": 143.9,
+          "end": 144.24,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 144.4,
+      "end": 145.68,
+      "text": " Yeah, they feel like a club,",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 144.4,
+          "end": 144.64,
+          "confidence": 0.57
+        },
+        {
+          "text": "they",
+          "start": 144.72,
+          "end": 144.82,
+          "confidence": 0.94
+        },
+        {
+          "text": "feel",
+          "start": 144.82,
+          "end": 145.02,
+          "confidence": 0.74
+        },
+        {
+          "text": "like",
+          "start": 145.02,
+          "end": 145.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 145.3,
+          "end": 145.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "club,",
+          "start": 145.44,
+          "end": 145.68,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 146.4,
+      "end": 147.52,
+      "text": " I would give up everything,",
+      "confidence": 0.59,
+      "words": [
+        {
+          "text": "I",
+          "start": 146.4,
+          "end": 146.5,
+          "confidence": 0.27
+        },
+        {
+          "text": "would",
+          "start": 146.5,
+          "end": 146.6,
+          "confidence": 0.26
+        },
+        {
+          "text": "give",
+          "start": 146.6,
+          "end": 146.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "up",
+          "start": 146.76,
+          "end": 147.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "everything,",
+          "start": 147.02,
+          "end": 147.52,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 147.9,
+      "end": 149.96,
+      "text": " For I haven't let you touch me.",
+      "confidence": 0.74,
+      "words": [
+        {
+          "text": "For",
+          "start": 147.9,
+          "end": 148.04,
+          "confidence": 0.93
+        },
+        {
+          "text": "I",
+          "start": 148.04,
+          "end": 148.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "haven't",
+          "start": 148.32,
+          "end": 148.68,
+          "confidence": 0.53
+        },
+        {
+          "text": "let",
+          "start": 148.68,
+          "end": 148.9,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 148.9,
+          "end": 149.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 149.08,
+          "end": 149.44,
+          "confidence": 0.93
+        },
+        {
+          "text": "me.",
+          "start": 149.44,
+          "end": 149.96,
+          "confidence": 0.41
+        }
+      ]
+    },
+    {
+      "start": 164.8,
+      "end": 166.4,
+      "text": " You could take my gush,",
+      "confidence": 0.77,
+      "words": [
+        {
+          "text": "You",
+          "start": 164.8,
+          "end": 165.14,
+          "confidence": 0.89
+        },
+        {
+          "text": "could",
+          "start": 165.14,
+          "end": 165.34,
+          "confidence": 0.76
+        },
+        {
+          "text": "take",
+          "start": 165.34,
+          "end": 165.6,
+          "confidence": 0.92
+        },
+        {
+          "text": "my",
+          "start": 165.6,
+          "end": 165.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "gush,",
+          "start": 165.9,
+          "end": 166.4,
+          "confidence": 0.58
+        }
+      ]
+    },
+    {
+      "start": 166.42,
+      "end": 167.82,
+      "text": " Gush, Gush, Gush,",
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "Gush,",
+          "start": 166.42,
+          "end": 166.8,
+          "confidence": 0.75
+        },
+        {
+          "text": "Gush,",
+          "start": 166.96,
+          "end": 167.36,
+          "confidence": 0.72
+        },
+        {
+          "text": "Gush,",
+          "start": 167.36,
+          "end": 167.82,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 167.94,
+      "end": 168.13,
+      "text": " Love,",
+      "confidence": 0.54,
+      "words": [
+        {
+          "text": "Love,",
+          "start": 167.94,
+          "end": 168.13,
+          "confidence": 0.54
+        }
+      ]
+    },
+    {
+      "start": 168.13,
+      "end": 169.7,
+      "text": " You could force me trash,",
+      "confidence": 0.81,
+      "words": [
+        {
+          "text": "You",
+          "start": 168.13,
+          "end": 168.58,
+          "confidence": 0.81
+        },
+        {
+          "text": "could",
+          "start": 168.58,
+          "end": 168.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "force",
+          "start": 168.78,
+          "end": 169.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 169.04,
+          "end": 169.32,
+          "confidence": 0.97
+        },
+        {
+          "text": "trash,",
+          "start": 169.32,
+          "end": 169.7,
+          "confidence": 0.46
+        }
+      ]
+    },
+    {
+      "start": 169.98,
+      "end": 171.74,
+      "text": " I'd let you kick my balls,",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I'd",
+          "start": 169.98,
+          "end": 170.2,
+          "confidence": 0.97
+        },
+        {
+          "text": "let",
+          "start": 170.2,
+          "end": 170.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 170.32,
+          "end": 170.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "kick",
+          "start": 170.52,
+          "end": 170.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 170.82,
+          "end": 171.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "balls,",
+          "start": 171.22,
+          "end": 171.74,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 171.9,
+      "end": 173.22,
+      "text": " While I chewed on glass,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "While",
+          "start": 171.9,
+          "end": 172.08,
+          "confidence": 0.96
+        },
+        {
+          "text": "I",
+          "start": 172.08,
+          "end": 172.24,
+          "confidence": 0.98
+        },
+        {
+          "text": "chewed",
+          "start": 172.24,
+          "end": 172.64,
+          "confidence": 0.96
+        },
+        {
+          "text": "on",
+          "start": 172.64,
+          "end": 172.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "glass,",
+          "start": 172.82,
+          "end": 173.22,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 173.4,
+      "end": 174.88,
+      "text": " Before I even thought,",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Before",
+          "start": 173.4,
+          "end": 173.66,
+          "confidence": 0.93
+        },
+        {
+          "text": "I",
+          "start": 173.66,
+          "end": 174.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "even",
+          "start": 174.02,
+          "end": 174.32,
+          "confidence": 0.91
+        },
+        {
+          "text": "thought,",
+          "start": 174.32,
+          "end": 174.88,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 175.3,
+      "end": 178.08,
+      "text": " About letting someone touch my legs.",
+      "confidence": 0.65,
+      "words": [
+        {
+          "text": "About",
+          "start": 175.3,
+          "end": 175.54,
+          "confidence": 0.93
+        },
+        {
+          "text": "letting",
+          "start": 175.54,
+          "end": 176.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "someone",
+          "start": 176.02,
+          "end": 176.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "touch",
+          "start": 176.42,
+          "end": 176.86,
+          "confidence": 0.91
+        },
+        {
+          "text": "my",
+          "start": 176.86,
+          "end": 177.74,
+          "confidence": 0.79
+        },
+        {
+          "text": "legs.",
+          "start": 177.74,
+          "end": 178.08,
+          "confidence": 0.12
+        }
+      ]
+    },
+    {
+      "start": 178.28,
+      "end": 180.02,
+      "text": " You'd have to take my legs,",
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "You'd",
+          "start": 178.28,
+          "end": 178.72,
+          "confidence": 0.9
+        },
+        {
+          "text": "have",
+          "start": 178.72,
+          "end": 178.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 178.9,
+          "end": 179.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "take",
+          "start": 179.06,
+          "end": 179.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 179.28,
+          "end": 179.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "legs,",
+          "start": 179.62,
+          "end": 180.02,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "start": 180.18,
+      "end": 181.96,
+      "text": " You'd have to steal my dog,",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "You'd",
+          "start": 180.18,
+          "end": 180.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "have",
+          "start": 180.48,
+          "end": 180.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 180.58,
+          "end": 180.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "steal",
+          "start": 180.74,
+          "end": 181.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 181.08,
+          "end": 181.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "dog,",
+          "start": 181.52,
+          "end": 181.96,
+          "confidence": 0.89
+        }
+      ]
+    },
+    {
+      "start": 182.2,
+      "end": 183.4,
+      "text": " Have to feed my wife,",
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "Have",
+          "start": 182.2,
+          "end": 182.34,
+          "confidence": 0.76
+        },
+        {
+          "text": "to",
+          "start": 182.34,
+          "end": 182.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "feed",
+          "start": 182.54,
+          "end": 182.76,
+          "confidence": 0.87
+        },
+        {
+          "text": "my",
+          "start": 182.76,
+          "end": 183.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "wife,",
+          "start": 183.06,
+          "end": 183.4,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 183.62,
+      "end": 185.44,
+      "text": " You'd have to kill my mom,",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "You'd",
+          "start": 183.62,
+          "end": 183.9,
+          "confidence": 0.98
+        },
+        {
+          "text": "have",
+          "start": 183.9,
+          "end": 184.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 184.02,
+          "end": 184.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "kill",
+          "start": 184.24,
+          "end": 184.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 184.52,
+          "end": 184.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "mom,",
+          "start": 184.98,
+          "end": 185.44,
+          "confidence": 0.86
+        }
+      ]
+    },
+    {
+      "start": 185.6,
+      "end": 186.86,
+      "text": " With a rusty knife,",
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "With",
+          "start": 185.6,
+          "end": 185.78,
+          "confidence": 0.81
+        },
+        {
+          "text": "a",
+          "start": 185.78,
+          "end": 185.94,
+          "confidence": 0.92
+        },
+        {
+          "text": "rusty",
+          "start": 185.94,
+          "end": 186.3,
+          "confidence": 0.55
+        },
+        {
+          "text": "knife,",
+          "start": 186.3,
+          "end": 186.86,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 187.04,
+      "end": 188.64,
+      "text": " You'd have to break my legs,",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "You'd",
+          "start": 187.04,
+          "end": 187.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "have",
+          "start": 187.36,
+          "end": 187.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 187.46,
+          "end": 187.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "break",
+          "start": 187.64,
+          "end": 187.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "my",
+          "start": 187.88,
+          "end": 188.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "legs,",
+          "start": 188.18,
+          "end": 188.64,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 188.82,
+      "end": 191.76,
+      "text": " Before I ever let you touch my...",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Before",
+          "start": 188.82,
+          "end": 189.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 189.1,
+          "end": 189.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "ever",
+          "start": 189.46,
+          "end": 189.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "let",
+          "start": 189.76,
+          "end": 190.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 190.02,
+          "end": 190.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "touch",
+          "start": 190.24,
+          "end": 190.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "my...",
+          "start": 190.66,
+          "end": 191.76,
+          "confidence": 0.76
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8496437072753906,
+    "zh": 0.008854920975863934,
+    "de": 0.012079118750989437,
+    "es": 0.002458076225593686,
+    "ru": 0.03564067557454109,
+    "ko": 0.023184843361377716,
+    "fr": 0.008818910457193851,
+    "ja": 0.012873088009655476,
+    "pt": 0.004854466300457716,
+    "tr": 0.0033092747908085585,
+    "pl": 0.002041939180344343,
+    "ca": 0.00018529997032601386,
+    "nl": 0.004953168332576752,
+    "ar": 0.001796575728803873,
+    "sv": 0.001145324669778347,
+    "it": 0.00032465875847265124,
+    "id": 0.0004022726498078555,
+    "hi": 0.0001974512415472418,
+    "fi": 0.0006727271829731762,
+    "vi": 0.00623426865786314,
+    "he": 7.895063026808202e-05,
+    "uk": 8.514808723703027e-05,
+    "el": 0.00038115878123790026,
+    "ms": 0.0009943381883203983,
+    "cs": 0.0001390847028233111,
+    "ro": 0.00014062089030630887,
+    "da": 0.0006696131895296276,
+    "hu": 0.00040082322084344923,
+    "ta": 0.00023774095461703837,
+    "no": 0.000531345431227237,
+    "th": 0.0027507657650858164,
+    "ur": 6.713713082717732e-05,
+    "hr": 5.4575546528212726e-05,
+    "bg": 7.733437814749777e-05,
+    "lt": 1.8760021703201346e-05,
+    "la": 0.0013088390696793795,
+    "mi": 0.0012291911989450455,
+    "ml": 0.00023603395675309002,
+    "cy": 0.0019092248985543847,
+    "sk": 2.721823511819821e-05,
+    "te": 7.233595533762127e-05,
+    "fa": 2.670568756002467e-05,
+    "lv": 4.269176861271262e-05,
+    "bn": 3.0100869480520487e-05,
+    "sr": 6.607669092772994e-06,
+    "az": 3.824189207080053e-06,
+    "sl": 3.697308056871407e-05,
+    "kn": 7.902792162894912e-07,
+    "et": 1.6538238924113102e-05,
+    "mk": 2.5104125143116107e-06,
+    "br": 0.0005026030703447759,
+    "eu": 3.0588947993237525e-05,
+    "is": 4.183845521765761e-05,
+    "hy": 1.6871505067683756e-05,
+    "ne": 1.3040533303865232e-05,
+    "mn": 2.4114087864290923e-05,
+    "bs": 2.9714628908550367e-05,
+    "kk": 1.3106501683068927e-05,
+    "sq": 7.3641081144160125e-06,
+    "sw": 3.7214944313745946e-05,
+    "gl": 0.00011032808833988383,
+    "mr": 2.0599402432708303e-06,
+    "pa": 8.682151246830472e-07,
+    "si": 7.562372775282711e-05,
+    "km": 0.0033920060377568007,
+    "sn": 0.0005139663117006421,
+    "yo": 5.217467332840897e-05,
+    "so": 2.9518639621528564e-07,
+    "af": 1.9025468645850196e-05,
+    "oc": 2.0840601791860536e-05,
+    "ka": 4.0889264596444264e-07,
+    "be": 3.757148078875616e-05,
+    "tg": 1.3985160585150425e-08,
+    "sd": 3.992723122792086e-06,
+    "gu": 1.365009296705466e-07,
+    "am": 2.696367289445334e-07,
+    "yi": 6.747727456968278e-05,
+    "lo": 2.359910649829544e-05,
+    "uz": 7.335691498688846e-10,
+    "fo": 6.9469101617869455e-06,
+    "ht": 2.638101614138577e-05,
+    "ps": 2.0865290935034864e-06,
+    "tk": 5.464594998727534e-09,
+    "nn": 0.002227495424449444,
+    "mt": 6.080849743739236e-07,
+    "sa": 3.5836565075442195e-05,
+    "lb": 4.0216558971906124e-08,
+    "my": 5.599960059043951e-05,
+    "bo": 1.4113996257947292e-05,
+    "tl": 0.0003693285398185253,
+    "mg": 1.1630556517872037e-09,
+    "as": 1.3237147413747152e-06,
+    "tt": 1.8124223899462777e-08,
+    "haw": 0.00025124053354375064,
+    "ln": 8.675662002133322e-07,
+    "ha": 3.1536233624507304e-09,
+    "ba": 7.772238852510327e-09,
+    "jw": 0.0007228571339510381,
+    "su": 2.7483226361368907e-08
+  }
+}
