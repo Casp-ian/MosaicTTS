@@ -1,0 +1,2323 @@
+{
+  "text": " Hello, it's me. I was wondering if after all these years you'd like to meet to go over everything. They say the time's supposed to heal you, but I ain't done much healing. Hello, can you hear me? I'm in California dreaming about who we used to be when we were younger and free. I've forgotten how we felt before the world fell at our feet. There's such a difference between us and a million miles. Hello from the other side, I must have called a thousand times to tell you I'm sorry for everything that I've done. But when I call you, never seem to be home. Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart. But it don't matter, it clearly doesn't tear you apart anymore. Hello, how are you? It's so typical of me to talk about myself, I'm sorry. I hope that you will. Did you ever make it out of that town where nothing ever happened? It's no secret that the both of us are running out of time. So hello from the other side, I must have called a thousand times to tell you I'm sorry for everything that I've done. But when I call you, never seem to be home. Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart. But it don't matter, it clearly doesn't tear you apart anymore. Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart. Hello from the other side, I must have called a thousand times to tell you I'm sorry for everything that I've done. But when I call you, never seem to be home. Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart. But it don't matter, it clearly doesn't tear you apart anymore.",
+  "segments": [
+    {
+      "start": 6.52,
+      "end": 9.78,
+      "text": " Hello, it's me.",
+      "confidence": 0.64,
+      "words": [
+        {
+          "text": "Hello,",
+          "start": 6.52,
+          "end": 6.8,
+          "confidence": 0.2
+        },
+        {
+          "text": "it's",
+          "start": 8.8,
+          "end": 9.46,
+          "confidence": 0.89
+        },
+        {
+          "text": "me.",
+          "start": 9.46,
+          "end": 9.78,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 11.96,
+      "end": 21.76,
+      "text": " I was wondering if after all these years you'd like to meet to go over everything.",
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "I",
+          "start": 11.96,
+          "end": 12.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 12.26,
+          "end": 12.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "wondering",
+          "start": 12.5,
+          "end": 13.42,
+          "confidence": 0.99
+        },
+        {
+          "text": "if",
+          "start": 13.42,
+          "end": 14.06,
+          "confidence": 0.95
+        },
+        {
+          "text": "after",
+          "start": 14.06,
+          "end": 14.68,
+          "confidence": 0.91
+        },
+        {
+          "text": "all",
+          "start": 14.68,
+          "end": 15.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "these",
+          "start": 15.22,
+          "end": 15.58,
+          "confidence": 0.98
+        },
+        {
+          "text": "years",
+          "start": 15.58,
+          "end": 16.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "you'd",
+          "start": 16.04,
+          "end": 16.38,
+          "confidence": 0.9
+        },
+        {
+          "text": "like",
+          "start": 16.38,
+          "end": 16.68,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 16.68,
+          "end": 17.04,
+          "confidence": 0.87
+        },
+        {
+          "text": "meet",
+          "start": 17.04,
+          "end": 17.58,
+          "confidence": 0.55
+        },
+        {
+          "text": "to",
+          "start": 17.58,
+          "end": 18.24,
+          "confidence": 0.42
+        },
+        {
+          "text": "go",
+          "start": 18.24,
+          "end": 18.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "over",
+          "start": 18.5,
+          "end": 19.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "everything.",
+          "start": 19.5,
+          "end": 21.76,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 23.8,
+      "end": 29.88,
+      "text": " They say the time's supposed to heal you, but I ain't done much healing.",
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "They",
+          "start": 23.8,
+          "end": 23.96,
+          "confidence": 0.94
+        },
+        {
+          "text": "say",
+          "start": 23.96,
+          "end": 24.32,
+          "confidence": 0.94
+        },
+        {
+          "text": "the",
+          "start": 24.32,
+          "end": 24.62,
+          "confidence": 0.71
+        },
+        {
+          "text": "time's",
+          "start": 24.62,
+          "end": 25.42,
+          "confidence": 0.79
+        },
+        {
+          "text": "supposed",
+          "start": 25.42,
+          "end": 25.88,
+          "confidence": 0.95
+        },
+        {
+          "text": "to",
+          "start": 25.88,
+          "end": 26.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "heal",
+          "start": 26.24,
+          "end": 26.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "you,",
+          "start": 26.54,
+          "end": 26.96,
+          "confidence": 0.6
+        },
+        {
+          "text": "but",
+          "start": 27.28,
+          "end": 27.48,
+          "confidence": 0.95
+        },
+        {
+          "text": "I",
+          "start": 27.48,
+          "end": 27.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "ain't",
+          "start": 27.72,
+          "end": 27.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "done",
+          "start": 27.92,
+          "end": 28.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "much",
+          "start": 28.24,
+          "end": 28.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "healing.",
+          "start": 28.82,
+          "end": 29.88,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 30.72,
+      "end": 34.64,
+      "text": " Hello, can you hear me?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Hello,",
+          "start": 30.72,
+          "end": 31.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "can",
+          "start": 33.0,
+          "end": 33.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 33.44,
+          "end": 33.78,
+          "confidence": 0.98
+        },
+        {
+          "text": "hear",
+          "start": 33.78,
+          "end": 34.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "me?",
+          "start": 34.28,
+          "end": 34.64,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 36.24,
+      "end": 46.4,
+      "text": " I'm in California dreaming about who we used to be when we were younger and free.",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 36.24,
+          "end": 36.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 36.66,
+          "end": 36.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "California",
+          "start": 36.82,
+          "end": 37.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "dreaming",
+          "start": 37.96,
+          "end": 38.94,
+          "confidence": 0.95
+        },
+        {
+          "text": "about",
+          "start": 38.94,
+          "end": 39.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "who",
+          "start": 39.9,
+          "end": 40.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "we",
+          "start": 40.32,
+          "end": 40.7,
+          "confidence": 0.99
+        },
+        {
+          "text": "used",
+          "start": 40.7,
+          "end": 41.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 41.1,
+          "end": 41.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "be",
+          "start": 41.38,
+          "end": 41.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "when",
+          "start": 41.78,
+          "end": 42.32,
+          "confidence": 0.69
+        },
+        {
+          "text": "we",
+          "start": 42.32,
+          "end": 42.56,
+          "confidence": 0.99
+        },
+        {
+          "text": "were",
+          "start": 42.56,
+          "end": 42.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "younger",
+          "start": 42.82,
+          "end": 43.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "and",
+          "start": 43.8,
+          "end": 45.82,
+          "confidence": 0.88
+        },
+        {
+          "text": "free.",
+          "start": 45.82,
+          "end": 46.4,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 48.52,
+      "end": 53.84,
+      "text": " I've forgotten how we felt before the world fell at our feet.",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "I've",
+          "start": 48.52,
+          "end": 48.8,
+          "confidence": 0.94
+        },
+        {
+          "text": "forgotten",
+          "start": 48.8,
+          "end": 49.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "how",
+          "start": 49.58,
+          "end": 50.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "we",
+          "start": 50.16,
+          "end": 50.46,
+          "confidence": 0.74
+        },
+        {
+          "text": "felt",
+          "start": 50.46,
+          "end": 50.96,
+          "confidence": 0.81
+        },
+        {
+          "text": "before",
+          "start": 50.96,
+          "end": 51.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 51.44,
+          "end": 52.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "world",
+          "start": 52.02,
+          "end": 52.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "fell",
+          "start": 52.48,
+          "end": 52.82,
+          "confidence": 0.95
+        },
+        {
+          "text": "at",
+          "start": 52.82,
+          "end": 53.18,
+          "confidence": 0.78
+        },
+        {
+          "text": "our",
+          "start": 53.18,
+          "end": 53.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "feet.",
+          "start": 53.46,
+          "end": 53.84,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 53.84,
+      "end": 64.32,
+      "text": " There's such a difference between us and a million miles.",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "There's",
+          "start": 53.84,
+          "end": 54.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "such",
+          "start": 54.48,
+          "end": 54.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 54.82,
+          "end": 55.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "difference",
+          "start": 55.2,
+          "end": 56.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "between",
+          "start": 56.28,
+          "end": 58.2,
+          "confidence": 0.94
+        },
+        {
+          "text": "us",
+          "start": 58.2,
+          "end": 60.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "and",
+          "start": 60.28,
+          "end": 60.94,
+          "confidence": 0.97
+        },
+        {
+          "text": "a",
+          "start": 60.94,
+          "end": 61.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "million",
+          "start": 61.22,
+          "end": 62.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "miles.",
+          "start": 62.56,
+          "end": 64.32,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 67.36,
+      "end": 84.12,
+      "text": " Hello from the other side, I must have called a thousand times to tell you I'm sorry for everything that I've done.",
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 67.36,
+          "end": 67.96,
+          "confidence": 0.93
+        },
+        {
+          "text": "from",
+          "start": 67.96,
+          "end": 68.4,
+          "confidence": 0.8
+        },
+        {
+          "text": "the",
+          "start": 68.4,
+          "end": 68.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "other",
+          "start": 68.86,
+          "end": 69.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "side,",
+          "start": 69.44,
+          "end": 70.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 73.14,
+          "end": 73.3,
+          "confidence": 0.94
+        },
+        {
+          "text": "must",
+          "start": 73.3,
+          "end": 73.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 73.72,
+          "end": 74.2,
+          "confidence": 0.55
+        },
+        {
+          "text": "called",
+          "start": 74.2,
+          "end": 74.62,
+          "confidence": 0.59
+        },
+        {
+          "text": "a",
+          "start": 74.62,
+          "end": 74.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "thousand",
+          "start": 74.9,
+          "end": 75.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "times",
+          "start": 75.5,
+          "end": 77.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 77.16,
+          "end": 78.7,
+          "confidence": 0.55
+        },
+        {
+          "text": "tell",
+          "start": 78.7,
+          "end": 79.12,
+          "confidence": 0.98
+        },
+        {
+          "text": "you",
+          "start": 79.12,
+          "end": 79.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 79.6,
+          "end": 80.54,
+          "confidence": 0.82
+        },
+        {
+          "text": "sorry",
+          "start": 80.54,
+          "end": 81.16,
+          "confidence": 0.23
+        },
+        {
+          "text": "for",
+          "start": 81.16,
+          "end": 82.18,
+          "confidence": 0.82
+        },
+        {
+          "text": "everything",
+          "start": 82.18,
+          "end": 82.7,
+          "confidence": 0.93
+        },
+        {
+          "text": "that",
+          "start": 82.7,
+          "end": 83.3,
+          "confidence": 0.91
+        },
+        {
+          "text": "I've",
+          "start": 83.3,
+          "end": 83.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "done.",
+          "start": 83.74,
+          "end": 84.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 84.34,
+      "end": 90.58,
+      "text": " But when I call you, never seem to be home.",
+      "confidence": 0.85,
+      "words": [
+        {
+          "text": "But",
+          "start": 84.34,
+          "end": 84.52,
+          "confidence": 0.68
+        },
+        {
+          "text": "when",
+          "start": 84.52,
+          "end": 84.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 84.8,
+          "end": 85.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "call",
+          "start": 85.2,
+          "end": 85.66,
+          "confidence": 0.88
+        },
+        {
+          "text": "you,",
+          "start": 85.66,
+          "end": 86.32,
+          "confidence": 0.79
+        },
+        {
+          "text": "never",
+          "start": 86.96,
+          "end": 87.62,
+          "confidence": 0.48
+        },
+        {
+          "text": "seem",
+          "start": 87.62,
+          "end": 88.92,
+          "confidence": 0.85
+        },
+        {
+          "text": "to",
+          "start": 88.92,
+          "end": 89.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "be",
+          "start": 89.3,
+          "end": 89.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "home.",
+          "start": 89.64,
+          "end": 90.58,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 91.64,
+      "end": 108.42,
+      "text": " Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart.",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 91.64,
+          "end": 92.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "from",
+          "start": 92.2,
+          "end": 92.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 92.72,
+          "end": 93.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "outside,",
+          "start": 93.22,
+          "end": 95.1,
+          "confidence": 0.96
+        },
+        {
+          "text": "at",
+          "start": 97.48,
+          "end": 97.64,
+          "confidence": 0.96
+        },
+        {
+          "text": "least",
+          "start": 97.64,
+          "end": 98.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 98.0,
+          "end": 98.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "can",
+          "start": 98.46,
+          "end": 98.74,
+          "confidence": 0.98
+        },
+        {
+          "text": "say",
+          "start": 98.74,
+          "end": 99.22,
+          "confidence": 0.81
+        },
+        {
+          "text": "that",
+          "start": 99.22,
+          "end": 99.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "I've",
+          "start": 99.68,
+          "end": 100.02,
+          "confidence": 0.67
+        },
+        {
+          "text": "tried",
+          "start": 100.02,
+          "end": 101.54,
+          "confidence": 0.93
+        },
+        {
+          "text": "to",
+          "start": 101.54,
+          "end": 102.96,
+          "confidence": 0.85
+        },
+        {
+          "text": "tell",
+          "start": 102.96,
+          "end": 103.36,
+          "confidence": 0.87
+        },
+        {
+          "text": "you",
+          "start": 103.36,
+          "end": 103.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 103.84,
+          "end": 104.88,
+          "confidence": 0.96
+        },
+        {
+          "text": "sorry",
+          "start": 104.88,
+          "end": 105.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 105.88,
+          "end": 106.82,
+          "confidence": 0.95
+        },
+        {
+          "text": "breaking",
+          "start": 106.82,
+          "end": 107.4,
+          "confidence": 0.98
+        },
+        {
+          "text": "your",
+          "start": 107.4,
+          "end": 107.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart.",
+          "start": 107.92,
+          "end": 108.42,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 108.62,
+      "end": 115.88,
+      "text": " But it don't matter, it clearly doesn't tear you apart anymore.",
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "But",
+          "start": 108.62,
+          "end": 108.82,
+          "confidence": 0.86
+        },
+        {
+          "text": "it",
+          "start": 108.82,
+          "end": 109.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "don't",
+          "start": 109.08,
+          "end": 109.56,
+          "confidence": 0.89
+        },
+        {
+          "text": "matter,",
+          "start": 109.56,
+          "end": 110.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 110.48,
+          "end": 110.66,
+          "confidence": 0.82
+        },
+        {
+          "text": "clearly",
+          "start": 110.66,
+          "end": 111.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "doesn't",
+          "start": 111.76,
+          "end": 112.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "tear",
+          "start": 112.98,
+          "end": 113.3,
+          "confidence": 0.56
+        },
+        {
+          "text": "you",
+          "start": 113.3,
+          "end": 113.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "apart",
+          "start": 113.68,
+          "end": 114.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "anymore.",
+          "start": 114.44,
+          "end": 115.88,
+          "confidence": 0.77
+        }
+      ]
+    },
+    {
+      "start": 121.86,
+      "end": 125.88,
+      "text": " Hello, how are you?",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Hello,",
+          "start": 121.86,
+          "end": 122.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "how",
+          "start": 124.58,
+          "end": 124.94,
+          "confidence": 0.98
+        },
+        {
+          "text": "are",
+          "start": 124.94,
+          "end": 125.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "you?",
+          "start": 125.46,
+          "end": 125.88,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 127.32,
+      "end": 133.38,
+      "text": " It's so typical of me to talk about myself, I'm sorry.",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "It's",
+          "start": 127.32,
+          "end": 127.68,
+          "confidence": 0.98
+        },
+        {
+          "text": "so",
+          "start": 127.68,
+          "end": 128.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "typical",
+          "start": 128.0,
+          "end": 128.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 128.74,
+          "end": 129.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "me",
+          "start": 129.5,
+          "end": 129.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 129.8,
+          "end": 130.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "talk",
+          "start": 130.2,
+          "end": 130.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "about",
+          "start": 130.66,
+          "end": 131.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "myself,",
+          "start": 131.3,
+          "end": 132.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 132.38,
+          "end": 132.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "sorry.",
+          "start": 132.58,
+          "end": 133.38,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 133.88,
+      "end": 137.66,
+      "text": " I hope that you will.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "I",
+          "start": 133.88,
+          "end": 134.06,
+          "confidence": 0.94
+        },
+        {
+          "text": "hope",
+          "start": 134.06,
+          "end": 134.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 134.52,
+          "end": 136.76,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 136.76,
+          "end": 137.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "will.",
+          "start": 137.1,
+          "end": 137.66,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "start": 139.56,
+      "end": 145.44,
+      "text": " Did you ever make it out of that town where nothing ever happened?",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Did",
+          "start": 139.56,
+          "end": 139.74,
+          "confidence": 0.75
+        },
+        {
+          "text": "you",
+          "start": 139.74,
+          "end": 140.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ever",
+          "start": 140.08,
+          "end": 140.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "make",
+          "start": 140.7,
+          "end": 141.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 141.18,
+          "end": 141.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "out",
+          "start": 141.62,
+          "end": 141.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 141.98,
+          "end": 142.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 142.26,
+          "end": 142.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "town",
+          "start": 142.5,
+          "end": 142.92,
+          "confidence": 0.93
+        },
+        {
+          "text": "where",
+          "start": 142.92,
+          "end": 143.18,
+          "confidence": 0.95
+        },
+        {
+          "text": "nothing",
+          "start": 143.18,
+          "end": 143.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "ever",
+          "start": 143.82,
+          "end": 144.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "happened?",
+          "start": 144.62,
+          "end": 145.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 145.64,
+      "end": 155.48,
+      "text": " It's no secret that the both of us are running out of time.",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "It's",
+          "start": 145.64,
+          "end": 145.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "no",
+          "start": 145.98,
+          "end": 146.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "secret",
+          "start": 146.24,
+          "end": 147.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 147.44,
+          "end": 148.9,
+          "confidence": 0.94
+        },
+        {
+          "text": "the",
+          "start": 148.9,
+          "end": 149.36,
+          "confidence": 0.96
+        },
+        {
+          "text": "both",
+          "start": 149.36,
+          "end": 150.06,
+          "confidence": 0.9
+        },
+        {
+          "text": "of",
+          "start": 150.06,
+          "end": 150.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "us",
+          "start": 150.68,
+          "end": 151.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "are",
+          "start": 151.64,
+          "end": 152.34,
+          "confidence": 0.98
+        },
+        {
+          "text": "running",
+          "start": 152.34,
+          "end": 153.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "out",
+          "start": 153.32,
+          "end": 154.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 154.3,
+          "end": 154.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "time.",
+          "start": 154.68,
+          "end": 155.48,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 158.1,
+      "end": 175.27,
+      "text": " So hello from the other side, I must have called a thousand times to tell you I'm sorry for everything that I've done.",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "So",
+          "start": 158.1,
+          "end": 158.4,
+          "confidence": 0.67
+        },
+        {
+          "text": "hello",
+          "start": 158.4,
+          "end": 159.06,
+          "confidence": 0.75
+        },
+        {
+          "text": "from",
+          "start": 159.06,
+          "end": 159.56,
+          "confidence": 0.98
+        },
+        {
+          "text": "the",
+          "start": 159.56,
+          "end": 160.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "other",
+          "start": 160.04,
+          "end": 160.58,
+          "confidence": 0.99
+        },
+        {
+          "text": "side,",
+          "start": 160.58,
+          "end": 162.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 162.48,
+          "end": 164.46,
+          "confidence": 0.97
+        },
+        {
+          "text": "must",
+          "start": 164.46,
+          "end": 164.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 164.9,
+          "end": 165.36,
+          "confidence": 0.91
+        },
+        {
+          "text": "called",
+          "start": 165.36,
+          "end": 165.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 165.76,
+          "end": 166.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "thousand",
+          "start": 166.06,
+          "end": 166.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "times",
+          "start": 166.64,
+          "end": 167.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 167.68,
+          "end": 169.86,
+          "confidence": 0.87
+        },
+        {
+          "text": "tell",
+          "start": 169.86,
+          "end": 170.22,
+          "confidence": 0.96
+        },
+        {
+          "text": "you",
+          "start": 170.22,
+          "end": 170.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 170.74,
+          "end": 171.58,
+          "confidence": 0.95
+        },
+        {
+          "text": "sorry",
+          "start": 171.58,
+          "end": 172.46,
+          "confidence": 0.99
+        },
+        {
+          "text": "for",
+          "start": 172.46,
+          "end": 173.34,
+          "confidence": 0.83
+        },
+        {
+          "text": "everything",
+          "start": 173.34,
+          "end": 173.86,
+          "confidence": 0.93
+        },
+        {
+          "text": "that",
+          "start": 173.86,
+          "end": 174.48,
+          "confidence": 0.94
+        },
+        {
+          "text": "I've",
+          "start": 174.48,
+          "end": 174.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "done.",
+          "start": 174.9,
+          "end": 175.27,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 175.27,
+      "end": 181.82,
+      "text": " But when I call you, never seem to be home.",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "But",
+          "start": 175.27,
+          "end": 175.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "when",
+          "start": 175.64,
+          "end": 175.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 175.94,
+          "end": 176.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "call",
+          "start": 176.32,
+          "end": 176.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "you,",
+          "start": 176.74,
+          "end": 177.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "never",
+          "start": 178.14,
+          "end": 178.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "seem",
+          "start": 178.74,
+          "end": 180.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 180.08,
+          "end": 180.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "be",
+          "start": 180.46,
+          "end": 180.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "home.",
+          "start": 180.88,
+          "end": 181.82,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 182.84,
+      "end": 199.58,
+      "text": " Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart.",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 182.84,
+          "end": 183.38,
+          "confidence": 0.98
+        },
+        {
+          "text": "from",
+          "start": 183.38,
+          "end": 183.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 183.84,
+          "end": 184.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "outside,",
+          "start": 184.4,
+          "end": 186.18,
+          "confidence": 0.97
+        },
+        {
+          "text": "at",
+          "start": 188.72,
+          "end": 188.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "least",
+          "start": 188.82,
+          "end": 189.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 189.18,
+          "end": 189.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "can",
+          "start": 189.6,
+          "end": 189.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "say",
+          "start": 189.88,
+          "end": 190.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 190.34,
+          "end": 190.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "I've",
+          "start": 190.82,
+          "end": 191.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "tried",
+          "start": 191.16,
+          "end": 192.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 192.86,
+          "end": 194.18,
+          "confidence": 0.98
+        },
+        {
+          "text": "tell",
+          "start": 194.18,
+          "end": 194.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 194.56,
+          "end": 195.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 195.02,
+          "end": 196.0,
+          "confidence": 0.98
+        },
+        {
+          "text": "sorry",
+          "start": 196.0,
+          "end": 197.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 197.0,
+          "end": 198.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "breaking",
+          "start": 198.02,
+          "end": 198.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 198.52,
+          "end": 199.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart.",
+          "start": 199.06,
+          "end": 199.58,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 199.72,
+      "end": 206.86,
+      "text": " But it don't matter, it clearly doesn't tear you apart anymore.",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "But",
+          "start": 199.72,
+          "end": 199.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "it",
+          "start": 199.96,
+          "end": 200.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "don't",
+          "start": 200.24,
+          "end": 200.78,
+          "confidence": 0.93
+        },
+        {
+          "text": "matter,",
+          "start": 200.78,
+          "end": 201.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 201.82,
+          "end": 202.02,
+          "confidence": 0.91
+        },
+        {
+          "text": "clearly",
+          "start": 202.02,
+          "end": 202.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "doesn't",
+          "start": 202.82,
+          "end": 204.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "tear",
+          "start": 204.12,
+          "end": 204.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 204.42,
+          "end": 204.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "apart",
+          "start": 204.8,
+          "end": 205.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "anymore.",
+          "start": 205.62,
+          "end": 206.86,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 207.0,
+      "end": 226.72,
+      "text": " Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart.",
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 207.0,
+          "end": 207.5,
+          "confidence": 0.62
+        },
+        {
+          "text": "from",
+          "start": 207.5,
+          "end": 210.08,
+          "confidence": 0.68
+        },
+        {
+          "text": "the",
+          "start": 210.08,
+          "end": 212.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "outside,",
+          "start": 212.98,
+          "end": 213.58,
+          "confidence": 0.68
+        },
+        {
+          "text": "at",
+          "start": 215.2,
+          "end": 215.74,
+          "confidence": 0.67
+        },
+        {
+          "text": "least",
+          "start": 215.74,
+          "end": 215.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 215.76,
+          "end": 215.78,
+          "confidence": 0.99
+        },
+        {
+          "text": "can",
+          "start": 215.78,
+          "end": 215.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "say",
+          "start": 215.8,
+          "end": 215.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 215.82,
+          "end": 215.84,
+          "confidence": 0.99
+        },
+        {
+          "text": "I've",
+          "start": 215.84,
+          "end": 215.98,
+          "confidence": 0.96
+        },
+        {
+          "text": "tried",
+          "start": 215.98,
+          "end": 216.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 216.26,
+          "end": 216.28,
+          "confidence": 0.98
+        },
+        {
+          "text": "tell",
+          "start": 216.28,
+          "end": 216.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 216.3,
+          "end": 218.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 218.06,
+          "end": 218.58,
+          "confidence": 0.98
+        },
+        {
+          "text": "sorry",
+          "start": 218.58,
+          "end": 218.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 218.6,
+          "end": 219.0,
+          "confidence": 0.95
+        },
+        {
+          "text": "breaking",
+          "start": 219.0,
+          "end": 219.02,
+          "confidence": 0.8
+        },
+        {
+          "text": "your",
+          "start": 219.02,
+          "end": 219.26,
+          "confidence": 0.99
+        },
+        {
+          "text": "heart.",
+          "start": 219.26,
+          "end": 226.72,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 231.42,
+      "end": 248.26,
+      "text": " Hello from the other side, I must have called a thousand times to tell you I'm sorry for everything that I've done.",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 231.42,
+          "end": 231.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "from",
+          "start": 231.94,
+          "end": 232.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 232.44,
+          "end": 232.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "other",
+          "start": 232.94,
+          "end": 233.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "side,",
+          "start": 233.46,
+          "end": 235.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 237.2,
+          "end": 237.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "must",
+          "start": 237.36,
+          "end": 237.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 237.78,
+          "end": 238.24,
+          "confidence": 0.97
+        },
+        {
+          "text": "called",
+          "start": 238.24,
+          "end": 238.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 238.66,
+          "end": 238.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "thousand",
+          "start": 238.94,
+          "end": 239.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "times",
+          "start": 239.5,
+          "end": 241.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 241.32,
+          "end": 242.8,
+          "confidence": 0.98
+        },
+        {
+          "text": "tell",
+          "start": 242.8,
+          "end": 243.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 243.14,
+          "end": 243.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 243.64,
+          "end": 244.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "sorry",
+          "start": 244.4,
+          "end": 245.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 245.48,
+          "end": 246.26,
+          "confidence": 0.98
+        },
+        {
+          "text": "everything",
+          "start": 246.26,
+          "end": 246.76,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 246.76,
+          "end": 247.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "I've",
+          "start": 247.4,
+          "end": 247.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "done.",
+          "start": 247.84,
+          "end": 248.26,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 248.38,
+      "end": 254.74,
+      "text": " But when I call you, never seem to be home.",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "But",
+          "start": 248.38,
+          "end": 248.62,
+          "confidence": 0.55
+        },
+        {
+          "text": "when",
+          "start": 248.62,
+          "end": 248.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 248.8,
+          "end": 249.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "call",
+          "start": 249.28,
+          "end": 249.66,
+          "confidence": 0.99
+        },
+        {
+          "text": "you,",
+          "start": 249.66,
+          "end": 250.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "never",
+          "start": 250.98,
+          "end": 251.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "seem",
+          "start": 251.46,
+          "end": 252.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 252.98,
+          "end": 253.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "be",
+          "start": 253.42,
+          "end": 253.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "home.",
+          "start": 253.74,
+          "end": 254.74,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 255.74,
+      "end": 272.5,
+      "text": " Hello from the outside, at least I can say that I've tried to tell you I'm sorry for breaking your heart.",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 255.74,
+          "end": 256.24,
+          "confidence": 0.99
+        },
+        {
+          "text": "from",
+          "start": 256.24,
+          "end": 256.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 256.74,
+          "end": 257.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "outside,",
+          "start": 257.26,
+          "end": 258.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 259.24,
+          "end": 261.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "least",
+          "start": 261.76,
+          "end": 262.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 262.1,
+          "end": 262.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "can",
+          "start": 262.5,
+          "end": 262.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "say",
+          "start": 262.8,
+          "end": 263.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 263.22,
+          "end": 263.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "I've",
+          "start": 263.76,
+          "end": 264.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "tried",
+          "start": 264.04,
+          "end": 266.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 266.04,
+          "end": 267.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "tell",
+          "start": 267.12,
+          "end": 267.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 267.4,
+          "end": 267.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 267.8,
+          "end": 268.76,
+          "confidence": 0.94
+        },
+        {
+          "text": "sorry",
+          "start": 268.76,
+          "end": 269.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 269.54,
+          "end": 270.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "breaking",
+          "start": 270.9,
+          "end": 271.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 271.4,
+          "end": 271.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "heart.",
+          "start": 271.98,
+          "end": 272.5,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 272.68,
+      "end": 279.96,
+      "text": " But it don't matter, it clearly doesn't tear you apart anymore.",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "But",
+          "start": 272.68,
+          "end": 272.9,
+          "confidence": 0.67
+        },
+        {
+          "text": "it",
+          "start": 272.9,
+          "end": 273.12,
+          "confidence": 0.94
+        },
+        {
+          "text": "don't",
+          "start": 273.12,
+          "end": 273.76,
+          "confidence": 0.98
+        },
+        {
+          "text": "matter,",
+          "start": 273.76,
+          "end": 274.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 274.12,
+          "end": 274.72,
+          "confidence": 0.98
+        },
+        {
+          "text": "clearly",
+          "start": 274.72,
+          "end": 275.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "doesn't",
+          "start": 275.86,
+          "end": 277.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "tear",
+          "start": 277.02,
+          "end": 277.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 277.34,
+          "end": 277.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "apart",
+          "start": 277.76,
+          "end": 278.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "anymore.",
+          "start": 278.5,
+          "end": 279.96,
+          "confidence": 0.99
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8080999255180359,
+    "zh": 0.00459298538044095,
+    "de": 0.01696244813501835,
+    "es": 0.00912248995155096,
+    "ru": 0.02868853323161602,
+    "ko": 0.018822619691491127,
+    "fr": 0.015201590023934841,
+    "ja": 0.0014415275072678924,
+    "pt": 0.005735502112656832,
+    "tr": 0.0013556125340983272,
+    "pl": 0.0051156277768313885,
+    "ca": 0.0009520312887616456,
+    "nl": 0.01912705786526203,
+    "ar": 0.002191003644838929,
+    "sv": 0.006475387141108513,
+    "it": 0.002334331627935171,
+    "id": 0.0002856025530491024,
+    "hi": 0.00030307748238556087,
+    "fi": 0.0003774512151721865,
+    "vi": 0.0014720465987920761,
+    "he": 0.00018906797049567103,
+    "uk": 0.00021370704052969813,
+    "el": 0.0007207476301118731,
+    "ms": 0.0005011735484004021,
+    "cs": 0.0003646442200988531,
+    "ro": 0.00014454667689278722,
+    "da": 0.0015966469654813409,
+    "hu": 0.0002584827016107738,
+    "ta": 6.414984818547964e-05,
+    "no": 0.0023748555686324835,
+    "th": 0.0002067544119199738,
+    "ur": 0.00013499146734829992,
+    "hr": 0.00011455364438006654,
+    "bg": 6.885930633870885e-05,
+    "lt": 1.7618525816942565e-05,
+    "la": 0.009925523772835732,
+    "mi": 0.0010889640543609858,
+    "ml": 8.776676986599341e-05,
+    "cy": 0.010834205895662308,
+    "sk": 4.618465027306229e-05,
+    "te": 3.930810635210946e-05,
+    "fa": 5.8379973779665306e-05,
+    "lv": 3.131988341920078e-05,
+    "bn": 1.5398252799059264e-05,
+    "sr": 8.784149940765928e-06,
+    "az": 3.747950131582911e-06,
+    "sl": 0.0001594159984961152,
+    "kn": 7.100259153958177e-07,
+    "et": 1.130215787270572e-05,
+    "mk": 5.08063385495916e-06,
+    "br": 0.0007049760315567255,
+    "eu": 2.829672121151816e-05,
+    "is": 0.0003164185618516058,
+    "hy": 2.2782580799685093e-06,
+    "ne": 4.774880835611839e-06,
+    "mn": 1.0253476830257569e-05,
+    "bs": 5.982657239655964e-05,
+    "kk": 5.680822596332291e-06,
+    "sq": 2.6954583518090658e-05,
+    "sw": 2.9031505619059317e-05,
+    "gl": 0.0003348877071402967,
+    "mr": 1.335781689704163e-06,
+    "pa": 1.8605740024213446e-06,
+    "si": 0.00014636550622526556,
+    "km": 0.0007672230713069439,
+    "sn": 0.00018370152974966913,
+    "yo": 5.003499973099679e-05,
+    "so": 2.637325451360084e-07,
+    "af": 5.3641899285139516e-05,
+    "oc": 6.782019045203924e-05,
+    "ka": 8.765468351157324e-07,
+    "be": 5.6505348766222596e-05,
+    "tg": 1.8050213768106005e-08,
+    "sd": 5.363752734410809e-06,
+    "gu": 8.309308441312169e-08,
+    "am": 1.9226129666094494e-07,
+    "yi": 0.00023784195946063846,
+    "lo": 4.56795669379062e-06,
+    "uz": 5.249834456044766e-10,
+    "fo": 6.933130498509854e-05,
+    "ht": 5.4176161938812584e-05,
+    "ps": 2.4670518996572355e-06,
+    "tk": 4.3423420414967495e-09,
+    "nn": 0.007444358896464109,
+    "mt": 8.18967237137258e-06,
+    "sa": 7.325541810132563e-05,
+    "lb": 3.0671202466692193e-08,
+    "my": 1.734669967845548e-05,
+    "bo": 1.1220172382309102e-05,
+    "tl": 0.0008645335328765213,
+    "mg": 1.8613947050383217e-09,
+    "as": 7.517363087572448e-07,
+    "tt": 1.9335491430183538e-08,
+    "haw": 0.008914983831346035,
+    "ln": 1.1597571756283287e-06,
+    "ha": 3.401932957558529e-09,
+    "ba": 5.708141070925876e-09,
+    "jw": 0.0014935063663870096,
+    "su": 3.3811506483516496e-08
+  }
+}
