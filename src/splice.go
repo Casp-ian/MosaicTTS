@@ -1,5 +1,5 @@
 package main
 
-func doFFMPEGMagic(splices SplicesList) {
+func doFFMPEGMagic(output string, splices SplicesList) {
 	// TODO samme!!!!!!!!!!!!!!!!!!!!!
 }

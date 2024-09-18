@@ -25,15 +25,17 @@ func main() {
 func test(input string) {
 	fmt.Println("starting...", input)
 
+	var output = "output.mp3"
+
 	// parse lyrics files
 	var lyricsList LyricsList
 	lyricsList = Parse()
 
 	// calculate which splices of songs we want
-	spliceList := decide("test", lyricsList)
+	spliceList := decide(input, lyricsList)
 
 	// splice and concatenate these
-	doFFMPEGMagic(spliceList)
+	doFFMPEGMagic(output, spliceList)
 
 	fmt.Println("Done!")
 	// output sound file
