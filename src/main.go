@@ -3,14 +3,6 @@ package main
 import "fmt"
 import "github.com/spf13/cobra"
 
-type LyricsListEnty struct {
-	Song  string
-	Start float32
-	End   float32
-	Text  string
-	Next  *LyricsListEnty
-}
-
 func main() {
 	var rootCmd = &cobra.Command{
 		Use:   "<string>",
@@ -34,20 +26,14 @@ func test(input string) {
 	fmt.Println("starting...", input)
 
 	// parse lyrics files
-	var lyricsList LyricsListEnty
+	var lyricsList LyricsList
 	lyricsList = Parse()
 
-	// var test *LyricsListEnty = &lyricsList
-	// for test != nil {
-	// 	fmt.Println(test.Text)
-	// 	test = test.Next
-	// }
-
 	// calculate which splices of songs we want
-	// spliceList := decideSplices(lyricsList)
+	spliceList := decide("test", lyricsList)
 
 	// splice and concatenate these
-	// doFFMPEGMagic(spliceList)
+	doFFMPEGMagic(spliceList)
 
 	fmt.Println("Done!")
 	// output sound file

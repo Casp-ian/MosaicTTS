@@ -27,7 +27,7 @@ type WhipserTimestampedWords struct {
 	Confidence float32 `json:"confidence"`
 }
 
-func Parse() LyricsListEnty {
+func Parse() LyricsList {
 	var fileName = "../lyrics/hello.json"
 
 	jsonFile, err := os.Open(fileName)
@@ -45,19 +45,25 @@ func Parse() LyricsListEnty {
 	var jsonData WhisperTimestampedJson
 	json.Unmarshal(byteValue, &jsonData)
 
-	var head *LyricsListEnty
+	var list = LyricsList{
+		nil, nil,
+	}
 
 	// filling this shit backwards, so when walking through the linked list it will be in order
-	for i := len(jsonData.Segments) - 1; i >= 0; i-- {
-		for j := len(jsonData.Segments[i].Words) - 1; j >= 0; j-- {
-			head = &LyricsListEnty{
-				fileName,                            // Song  string
-				jsonData.Segments[i].Words[j].Start, // Start float32
-				jsonData.Segments[i].Words[j].End,   // End   float32
-				jsonData.Segments[i].Words[j].Text,  // Text  string
-				head,                                // Next  *LyricsListEnty
-			}
+	for _, segment := range jsonData.Segments {
+
+		for _, word := range segment.Words {
+			list.AddTail(
+				&LyricsListEntry{
+					fileName,   // Song  string
+					word.Start, // Start float32
+					word.End,   // End   float32
+					word.Text,  // Text  string
+					nil,        // Next  *LyricsListEnty
+				},
+			)
+
 		}
 	}
-	return *head
+	return list
 }
