@@ -1,41 +1,100 @@
 package main
 
 import (
-	"fmt"
+	"errors"
 	"strings"
 )
 
-func decide(input string, thing LyricsList) SplicesList {
+type IncompleteSplice struct {
+	Index     int
+	StartTime float32
+	EndTime   float32
+	Song      string
+}
+
+func decide(input string, thing LyricsList) (SplicesList, error) {
 	var result = SplicesList{nil, nil}
 
 	var wordList = strings.Split(input, " ")
 
-	// TODO draw this algorithm out on a whiteboard with samme :)
-	// goal of this part is to get every possible slice that could be used to make up the output
-	var test *LyricsListEntry = thing.Head
-	for test != nil {
-		var temp = getIndexesOf(wordList, test.Text)
-		if len(temp) == 0 {
-			// TODO
-		} else {
-			fmt.Println(test.Start, test.End, test.Text)
+	// collect all lyrics usableSpliceList entries we can use
+	var usableSpliceList []IncompleteSplice
+
+	var lyricsListEntry *LyricsListEntry = thing.Head
+	for lyricsListEntry != nil {
+		// were loading list absolutely full of duplicates, depending on how slices or arrays or whatever this is are implemented, this might be bad for performance TODO
+		var acquiredIndexes = getIndexesOf(wordList, lyricsListEntry.Text)
+		for _, acquiredIndex := range acquiredIndexes {
+			usableSpliceList = append(usableSpliceList, IncompleteSplice{
+				acquiredIndex,
+				lyricsListEntry.Start,
+				lyricsListEntry.End,
+				lyricsListEntry.Song,
+			})
 		}
-		test = test.Next
+		lyricsListEntry = lyricsListEntry.Next
 	}
 
-	return result
+	// pick and choose out of collected lyric list entries to define our splices
+	for index, word := range wordList {
+		listSubset := itemsThatHaveMatchingIndex(usableSpliceList, index)
+		if len(listSubset) == 0 {
+			return result, errors.New("THE WORD '" + word + "' DOES NOT APPEAR IN LYRICS, FUCKED UP")
+		}
+		result.AddTail(&SpliceListEntry{
+			listSubset[0].Song,      // Song  string
+			listSubset[0].StartTime, // Start float32
+			listSubset[0].EndTime,   // End   float32
+			nil,                     // Next  *SpliceListEntry
+		})
+
+		// TODO some fucking how give a preference for words in sequence
+		// also conjoin these into 1 splice
+	}
+
+	return result, nil
 }
 
-func getIndexesOf(array []string, string string) []int {
+func getIndexesOf(list []string, string string) []int {
 	var result []int
 
-	for index, element := range array {
+	for index, element := range list {
 		if purify(element) == purify(string) {
 			result = append(result, index)
 		}
 	}
 
 	return result
+}
+
+func itemsThatHaveMatchingIndex(list []IncompleteSplice, index int) []IncompleteSplice {
+	var result []IncompleteSplice
+
+	for _, element := range list {
+		if element.Index == index {
+			result = append(result, element)
+		}
+	}
+
+	return result
+}
+
+// unused
+func Contains(list []int, int int) bool {
+	for _, element := range list {
+		if element == int {
+			return true
+		}
+	}
+	return false
+}
+func getIndexOf(list []string, string string) int {
+	for index, element := range list {
+		if element == string {
+			return index
+		}
+	}
+	return -1
 }
 
 // dramatic ah function name

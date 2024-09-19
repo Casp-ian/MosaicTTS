@@ -32,19 +32,19 @@ func (self *LyricsList) AddHead(new *LyricsListEntry) *LyricsList {
 	return self
 }
 
-type SpliceEntry struct {
+type SpliceListEntry struct {
 	Song  string
 	Start float32
 	End   float32
-	Next  *SpliceEntry
+	Next  *SpliceListEntry
 }
 
 type SplicesList struct {
-	Head *SpliceEntry
-	Tail *SpliceEntry
+	Head *SpliceListEntry
+	Tail *SpliceListEntry
 }
 
-func (self *SplicesList) AddTail(new *SpliceEntry) *SplicesList {
+func (self *SplicesList) AddTail(new *SpliceListEntry) *SplicesList {
 	if self.Tail != nil {
 		self.Tail.Next = new
 	} else {
@@ -53,7 +53,7 @@ func (self *SplicesList) AddTail(new *SpliceEntry) *SplicesList {
 	self.Tail = new
 	return self
 }
-func (self *SplicesList) AddHead(new *SpliceEntry) *SplicesList {
+func (self *SplicesList) AddHead(new *SpliceListEntry) *SplicesList {
 	if self.Tail != nil {
 		new.Next = self.Head
 	} else {

@@ -7,11 +7,10 @@ func main() {
 	var rootCmd = &cobra.Command{
 		Use:   "<string>",
 		Short: "input a string, as output a audio file of the given string will be output",
-		// Long: `A Fast and Flexible Static Site Generator built with
-		//                love by spf13 and friends in Go.
-		//                Complete documentation is available at http://hugo.spf13.com`,
+		// Long: `looooong`,
 		Run: func(cmd *cobra.Command, args []string) {
-			// TODO handle error
+			// TODO handle unwanted cases like more than one input, and stupid args
+			// TODO add args like --lyrics-dir --music-dir --greedy --loose
 			test(args[0])
 		},
 	}
@@ -19,11 +18,11 @@ func main() {
 	if err := rootCmd.Execute(); err != nil {
 		fmt.Println(err)
 		// os.Exit(1)
-	} // read user input string
+	}
 }
 
 func test(input string) {
-	fmt.Println("starting...", input)
+	fmt.Println("starting...")
 
 	var output = "output.mp3"
 
@@ -32,8 +31,18 @@ func test(input string) {
 	lyricsList = Parse()
 
 	// calculate which splices of songs we want
-	spliceList := decide(input, lyricsList)
+	spliceList, err := decide(input, lyricsList)
+	if err != nil {
+		fmt.Println(err.Error())
+		return
+	}
 
+	var spliceListEntry *SpliceListEntry = spliceList.Head
+	for spliceListEntry != nil {
+		fmt.Println(spliceListEntry)
+
+		spliceListEntry = spliceListEntry.Next
+	}
 	// splice and concatenate these
 	doFFMPEGMagic(output, spliceList)
 
