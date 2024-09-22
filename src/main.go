@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
-import "github.com/spf13/cobra"
+import (
+	"fmt"
+	"github.com/spf13/cobra"
+	"io/ioutil"
+)
 
 func main() {
 	var rootCmd = &cobra.Command{
@@ -10,7 +13,7 @@ func main() {
 		// Long: `looooong`,
 		Run: func(cmd *cobra.Command, args []string) {
 			// TODO handle unwanted cases like more than one input, and stupid args
-			// TODO add args like --lyrics-dir --music-dir --greedy --loose
+			// TODO add args like --lyrics-dir --music-dir --greedy --loose --output
 			test(args[0])
 		},
 	}
@@ -24,11 +27,35 @@ func main() {
 func test(input string) {
 	fmt.Println("starting...")
 
-	var output = "output.mp3"
+	// lyricsDir := "/mnt/Data/Projects/cli/MosaicTTS/lyrics/"
+	lyricsDir := "../lyrics/"
+	lyricsFiles, err := ioutil.ReadDir(lyricsDir)
+	if err != nil {
+		fmt.Println(err.Error())
+		return
+	}
+	var LyricFileNames []string
+	for _, lyricsFile := range lyricsFiles {
+		LyricFileNames = append(LyricFileNames, lyricsFile.Name())
+	}
+
+	// audioDir := "/mnt/Data/Projects/cli/MosaicTTS/audio/"
+	audioDir := "../audio/"
+	audioFiles, err := ioutil.ReadDir(audioDir)
+	if err != nil {
+		fmt.Println(err.Error())
+		return
+	}
+	var audioFileNames []string
+	for _, audioFile := range audioFiles {
+		audioFileNames = append(audioFileNames, audioDir, audioFile.Name())
+	}
+
+	var outputFile = "output.mp3"
 
 	// parse lyrics files
 	var lyricsList LyricsList
-	lyricsList = Parse()
+	lyricsList = Parse(lyricsDir, LyricFileNames)
 
 	// calculate which splices of songs we want
 	spliceList, err := decide(input, lyricsList)
@@ -44,7 +71,7 @@ func test(input string) {
 		spliceListEntry = spliceListEntry.Next
 	}
 	// splice and concatenate these
-	doFFMPEGMagic(output, spliceList)
+	doFFMPEGMagic(outputFile, audioDir, audioFileNames, spliceList)
 
 	fmt.Println("Done!")
 	// output sound file

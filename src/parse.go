@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"strings"
 )
 
 type WhisperTimestampedJson struct {
@@ -27,43 +28,52 @@ type WhipserTimestampedWords struct {
 	Confidence float32 `json:"confidence"`
 }
 
-func Parse() LyricsList {
-	var fileName = "../lyrics/hello.json"
+func Parse(lyricsDir string, lyricsFiles []string) LyricsList {
+	var result = LyricsList{
+		nil, nil,
+	}
 
-	jsonFile, err := os.Open(fileName)
+	for _, file := range lyricsFiles {
+		getLyrics(&result, file)
+	}
+
+	return result
+}
+
+func getLyrics(result *LyricsList, file string) {
+
+	jsonFile, err := os.Open("../lyrics/" + file)
 	defer jsonFile.Close()
 
 	if err != nil {
-		fmt.Printf("cant open %v...\n", fileName)
+		fmt.Printf("cant open %v...\n", file)
+		return
 	}
 
 	byteValue, err := ioutil.ReadAll(jsonFile)
 	if err != nil {
-		fmt.Printf("invalid json in %v...\n", fileName)
+		fmt.Printf("invalid json in %v...\n", file)
+		return
 	}
+
+	fmt.Println("parsed " + file)
 
 	var jsonData WhisperTimestampedJson
 	json.Unmarshal(byteValue, &jsonData)
 
-	var list = LyricsList{
-		nil, nil,
-	}
-
 	// filling this shit backwards, so when walking through the linked list it will be in order
 	for _, segment := range jsonData.Segments {
-
 		for _, word := range segment.Words {
-			list.AddTail(
+			result.AddTail(
 				&LyricsListEntry{
-					fileName,   // Song  string
-					word.Start, // Start float32
-					word.End,   // End   float32
-					word.Text,  // Text  string
-					nil,        // Next  *LyricsListEnty
+					strings.Split(file, ".")[0], // Song  string
+					word.Start - 0.01,           // Start float32
+					word.End + 0.01,             // End   float32
+					word.Text,                   // Text  string
+					nil,                         // Next  *LyricsListEnty
 				},
 			)
 
 		}
 	}
-	return list
 }
